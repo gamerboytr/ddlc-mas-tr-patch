@@ -1,0 +1,16 @@
+DDLC Monika After Story Türkçe Yama (21/11/29)
+------------------------------------------------------------
+
+Kurulum ;
+Oyunu Steamdan Oynuyorsanız ;
+  1. Steame Girip Oyuna Sağ Tıklayın
+  2. Yönet>Yerel dosyalara göz at
+  3. Açılan Pencereye Bu Klasördeki Dosyaları Atın. (Eğerki Dosyalar Değiştirilsinmi Sorusu Gelirse Evet Diyin)
+  4. Oyunu Açın Ve Türkçe Yamanın Keyfini Çıkarın !
+Oyunu Manuel Oynuyorsanız ;
+  1. Oyunun Kurulu Olduğu Dizine Girin
+  2. Bu Klasördeki Dosyaları Atın. (Eğerki Dosyalar Değiştirilsinmi Sorusu Gelirse Evet Diyin)
+  3. Oyunu Açın Ve Türkçe Yamanın Keyfini Çıkarın !
+  
+  
+  Oyun TeamSalvato Tarafından Yapılmış GamerboyTR Tarafındanda Türkçe Yaması Çıkarılmıştır.
