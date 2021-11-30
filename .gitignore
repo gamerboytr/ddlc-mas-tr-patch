@@ -5,7 +5,6 @@ __pycache__/
 game/python-packages/
 lib/
 renpy/
-*.rpa
 *.rpyb
 *.rpyc
 *.save
