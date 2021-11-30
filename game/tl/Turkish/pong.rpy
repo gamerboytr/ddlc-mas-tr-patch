@@ -52,6 +52,9 @@ translate Turkish mas_pong_dlg_loser_fd895976:
 translate Turkish mas_pong_dlg_loser_9dd8e93b:
     extend 7wuo "O zaman gerçekten deniyordum!"
 
+translate Turkish mas_pong_dlg_loser_a6627fcb:
+    extend 3hub "gerçekten minnettar olurum~"
+
 translate Turkish strings:
     old "You want to play pong again?"
     new "Tekrar pongmu oynamak istiyorsun?"
