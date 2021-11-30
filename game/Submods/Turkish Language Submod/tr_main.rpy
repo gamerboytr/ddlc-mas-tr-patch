@@ -1,6 +1,5 @@
 define config.default_language = "Turkish"
 define config.language = "Turkish"
-define config.version = "0.0.1"
 
 init -990 python hide:
     version = "${PATCH_VERSION}"
@@ -19,9 +18,9 @@ init -990 python hide:
     else:
         name_suffix = " In Development"
         is_unstable = True
-        version = config.version
+        version = "0.1.0"
 
-    jp_submod = store.mas_submod_utils.Submod(
+    tr_submod = store.mas_submod_utils.Submod(
         author = "GamerboyTR",
         name = "Turkish Language Submod" + name_suffix,
         description = (
@@ -59,7 +58,7 @@ python early hide:
     create_dummy_if_needs(renpy.config.gamedir + "/tl/Turkish/overrides/submod.rpy")
     create_dummy_if_needs(renpy.config.gamedir + "/tl/Turkish/overrides/zz_calendar.rpy")
 
-label ddlc_translate_club_jp_japanese_language_submod_v201023(version="v201023"):
+label gamerboytr_turkish_language_submod_v010(version="v0.1.0"):
     python hide:
         def trydel(path):
             import shutil
