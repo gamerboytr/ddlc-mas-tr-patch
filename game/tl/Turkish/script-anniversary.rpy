@@ -438,7 +438,37 @@ translate Turkish strings:
     new "100 Yil"
 
     old "Your Birthday"
-    new "Dogum günün"
+    new "Dogum Günün"
+
+    old "My Birthday"
+    new "Dogum Günüm"
 
     old "Halloween"
     new "Cadilar bayrami"
+
+    old "Autumn"
+    new "Sonbahar"
+
+    old "Summer"
+    new "Yaz"
+
+    old "Spring"
+    new "Ilkbahar"
+
+    old "Winter"
+    new "Kis"
+
+    old "Valentine's Day"
+    new "Sevgililer Günü"
+
+    old "New Year's Day"
+    new "Yeniyil"
+
+    old "Christmas Eve"
+    new "Noel Arifesi"
+
+    old "New Year's Eve"
+    new "Yeni Yil Arifesi"
+
+    old "Christmas"
+    new "Noel"
