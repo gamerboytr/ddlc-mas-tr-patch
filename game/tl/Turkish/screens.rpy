@@ -26,6 +26,18 @@ translate Turkish strings:
     old "Music"
     new "Müzik"
 
+    old "Extra"
+    new "Ekstra"
+
+    old "Reset"
+    new "Sıfırla"
+
+    old "Close"
+    new "Kapat"
+
+    old "Play"
+    new "Oyna"
+
     old "Just Monika"
     new "Sadece Monika"
 
