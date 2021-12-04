@@ -1,6 +1,8 @@
 # DDLC Monika After Story Türkçe Yama
 
-Monika After Story, Bir **Fangame**'dir Yani Team Salvato İle **Hiçbir İlgisi Yoktur**, Tamamıyla Oyunu Oynayan Kişiler Tarafından Geliştirilmiş Bir Projedir.
+[Monika After Story](https://www.monikaafterstory.com/), Bir **Fangame**'dir Yani Team Salvato İle **Hiçbir İlgisi Yoktur**, Tamamıyla Oyunu Oynayan Kişiler Tarafından Geliştirilmiş Bir Projedir.
+
+![Title Screen](https://i.hizliresim.com/j9y5ekn.jpg)
 
 ## Kurulum
 
