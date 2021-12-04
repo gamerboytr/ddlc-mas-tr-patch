@@ -46,6 +46,9 @@ translate Turkish _call_mas_pong_dlg_sorry_assuming_1_34945dc4:
 translate Turkish mas_pong_dlg_sorry_assuming_b561f74f:
     extend 1hua "Eğlendim, benimle Pong oynadığın için teşekkürler!"
 
+translate Turkish mas_pong_dlg_loser_f9dcf4f9:
+    m 4eub "Tebrikler, [player]"
+
 translate Turkish mas_pong_dlg_loser_fd895976:
     extend 2hub "Yeterince pratik yaptıktan sonra bir oyun kazanacağını biliyordum!"
 
@@ -54,6 +57,15 @@ translate Turkish mas_pong_dlg_loser_9dd8e93b:
 
 translate Turkish mas_pong_dlg_loser_a6627fcb:
     extend 3hub "gerçekten minnettar olurum~"
+
+translate Turkish mas_pong_dlg_winner_35008ac8:
+    m 5eka "Ama biliyorsun,{w=0.1} Arada bir sana yenilmekten çekinmiyorum."
+
+translate Turkish mas_pong_dlg_winner_e698edb7:
+    m 5eua "Benim kazandığımı görmekten hoşlandığın kadar ben de senin kazandığını görmekten hoşlanıyorum~"
+
+translate Turkish _call_mas_pong_dlg_sorry_assuming_1_3b6c7c7a:
+    m 2tku "[player] kazanmama izin vermekten bıkmadın mı?"
 
 translate Turkish strings:
     old "You want to play pong again?"
@@ -421,3 +433,6 @@ translate Turkish strings:
     
     old "Especially with you, [player]."
     new "Özellikle seninle [player]."
+
+    old "We can always take a break and play again later if you want."
+    new "İstersen her zaman ara verebilir ve daha sonra tekrar oynayabiliriz."

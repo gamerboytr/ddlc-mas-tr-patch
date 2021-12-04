@@ -8,7 +8,7 @@ translate Turkish strings:
     old "Repeat conversation"
     new "Konuşmayı tekrarla"
 
-    old "I love you, too!"
+    old "I love you too!"
     new "Bende seni seviyorum!"
 
     old "I love you!"
@@ -22,6 +22,9 @@ translate Turkish strings:
 
     old "Nevermind"
     new "Boşver"
+
+    old "Nevermind."
+    new "Boşver."
 
     old "Advice..."
     new "Monikanın tavsiyesi..."
