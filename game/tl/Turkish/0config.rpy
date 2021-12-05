@@ -1,0 +1,1 @@
+define config.window_title = "Monika After Story Türkçe"
