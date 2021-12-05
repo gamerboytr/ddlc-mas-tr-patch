@@ -2,7 +2,7 @@
 
 [Monika After Story](https://www.monikaafterstory.com/), Bir **Fangame**'dir Yani Team Salvato İle **Hiçbir İlgisi Yoktur**, Tamamıyla Oyunu Oynayan Kişiler Tarafından Geliştirilmiş Bir Projedir.
 
-![Title Screen](https://i.hizliresim.com/j9y5ekn.jpg)
+![Ana Ekran](https://i.hizliresim.com/8pd66ul.jpg)
 
 ## Kurulum
 
