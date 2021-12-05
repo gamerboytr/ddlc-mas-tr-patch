@@ -2,6 +2,7 @@ define config.default_language = "Turkish"
 define config.language = "Turkish"
 
 init -990 python hide:
+    PATCH_VERSION = "0.1.2"
     version = "${PATCH_VERSION}"
 
     if version.isdecimal():
@@ -18,7 +19,7 @@ init -990 python hide:
     else:
         name_suffix = " In Development"
         is_unstable = True
-        version = "0.1.0"
+        version = PATCH_VERSION
 
     tr_submod = store.mas_submod_utils.Submod(
         author = "GamerboyTR",
@@ -58,7 +59,7 @@ python early hide:
     create_dummy_if_needs(renpy.config.gamedir + "/tl/Turkish/overrides/submod.rpy")
     create_dummy_if_needs(renpy.config.gamedir + "/tl/Turkish/overrides/zz_calendar.rpy")
 
-label gamerboytr_turkish_language_submod_v010(version="v0.1.0"):
+label gamerboytr_turkish_language_submod_v012(version="v0.1.2"):
     python hide:
         def trydel(path):
             import shutil
