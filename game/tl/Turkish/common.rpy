@@ -559,3 +559,12 @@ translate Turkish strings:
 
     old "Copies the errors.txt file to the clipboard."
     new "error.txt dosyasını panoya kopyalar."
+
+    old "Saving game..."
+    new "Oyun kaydediliyor..."
+
+    old "Reloading script..."
+    new "Komut dosyası yeniden yükleniyor..."
+
+    old "Reloading game..."
+    new "Oyun yeniden yükleniyor..."
