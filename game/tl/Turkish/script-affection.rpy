@@ -397,9 +397,13 @@ translate Turkish mas_affection_apologydeleted_dfa14e11:
 translate Turkish mas_affection_apologydeleted_46706a56:
    m 2efc "Bana yeni bir tane yaz [player]."
 
+init -1 python in mas_affection:
+   _freeze_text = "!DONDU!"
+   _bypass_text = "!ATLADI!"
+
 translate Turkish strings:
    old "Yes?"
-   new "Evet"
+   new "Evet?"
 
    old "I guess we can talk."
    new "Sanırım konuşabiliriz."

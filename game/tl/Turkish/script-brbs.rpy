@@ -345,7 +345,7 @@ translate Turkish monika_idle_homework_df5a668f:
     m 1eub "Tamam!"
 
 translate Turkish monika_idle_homework_9dc297b6:
-    m 1hua "Çalışmalarını ciddiye aldığın için seninle gurur duyuyorum."
+    m 1hua "Ödevlerini ciddiye aldığın için seninle gurur duyuyorum."
 
 translate Turkish monika_idle_homework_5f142ba8:
     m 1eka "İşin bittiğinde bana geri dönmeyi unutma~"
@@ -369,10 +369,10 @@ translate Turkish monika_idle_homework_callback_687523a0:
     m 3rkbla "...Yine de bu, {i}fazla{/i} dikkatimizin dağılmadığını varsayıyor, ehehe..."
 
 translate Turkish monika_idle_homework_callback_e6d0b159:
-    m 1eua "Ama yine de,{w=0.2}{nw}"
+    m 1eua "Ama yine de,{w=0.2} {nw}"
 
 translate Turkish monika_idle_homework_callback_97bac244:
-    extend 3hua "Artık işin bitti, hadi birlikte biraz daha zaman geçirelim."
+    extend 3hua "artık işin bitti, hadi birlikte biraz daha zaman geçirelim."
 
 translate Turkish monika_idle_working_bd219ce5:
     m 1eua "Pekala, [player]."
