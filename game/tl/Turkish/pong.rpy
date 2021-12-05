@@ -104,6 +104,9 @@ translate Turkish strings:
     old "Yes."
     new "Evet."
 
+    old "Not really."
+    new "Tam olarak değil."
+
     old "No."
     new "Hayır."
 
