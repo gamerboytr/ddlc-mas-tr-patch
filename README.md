@@ -4,6 +4,10 @@
 
 ![Ana Ekran](https://i.hizliresim.com/8pd66ul.jpg)
 
+### Not
+
+Bu Yamam Daha Tam Olarak Bitmemiştir Lütfen Bu Tür Şeyleri Bana Sorun Olarak Bildirmeyiniz.
+
 ## Kurulum
 
 ### Steam
@@ -17,6 +21,22 @@ Eğer MAS'ı Manuel Şeklinde İndirdiyseniz [Steam Kısmı](https://github.com/
 ## Çeviriye Katılma
 
 Malesefki Şuanda Çeviriye Katılmanız Mümkün Değildir, Çeviri GamerboyTR Tarafından Yapılmaktadır
+
+## Hata Bildirme
+
+Eğerki Yamada Herhangi Bir Çeviri Hatası Yada Başka Bir Hata Bulduysanız [Issues](https://github.com/gamerboytr/ddlc-mas-tr-patch/issues) Kısmından Yeni Bir Sorun Açarak Bu Hatanın Giderilmesine Yardımcı Olabilirsinz.
+
+Örnek Bir Template :
+
+<small>Not : Hata Bildiriminde Bulunmak İçin Bir Github Hesabınızın Olması Gerkelidir.</small>
+
+```text
+Merhaba Yamada [HATALI_KISIM] Kısmında Bir Hata Buldum.
+[HATA_EKRAN_GORUNTUSU]
+
+(İşletim Sistemi Bilgileri. Örn: Windows 7 32 Bit)
+
+```
 
 ## Bakınız
 
