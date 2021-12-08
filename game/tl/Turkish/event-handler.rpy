@@ -1,4 +1,13 @@
+translate Turkish mas_bookmarks_unbookmark_c42f8f06:
+
+    m 1dsa "Tamam, [player].{w=0.2}.{w=0.2}.{w=0.2}{nw}"
+
+translate Turkish mas_bookmarks_unbookmark_73747bba:
+
+    m 3hua "Hepsi tamam!"
+
 translate Turkish strings:
+
     old "{b}Unseen{/b}"
     new "{b}Görülmemiş{/b}"
 
@@ -102,4 +111,4 @@ translate Turkish strings:
     new "Hangi yer imlerini kaldırmak istiyorsunuz?"
 
     old "Just select the bookmark if you're sure you want to remove it."
-    new "Kaldırmak istediğinizden eminseniz yer imini seçmeniz yeterlidir."
+    new "Kaldırmak istediğinden eminsen yer imini seçmeniz yeterlidir."

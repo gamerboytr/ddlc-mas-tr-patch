@@ -1,4 +1,5 @@
 translate Turkish python:
+
     mas_win_notif_quips = [
         "[player], seninle bir şey konuşmak istiyorum.",
         "Orada mısın, [player]?",
@@ -12,6 +13,6 @@ translate Turkish python:
     mas_other_notif_quips = [
         "Konuşacak bir şeyim var [player]!",
         "Sana söylemem gereken bir şey var [player]!",
-        "Hey [player], I want to tell you something.",
+        "Hey [player], sana bir şey söylemek istiyorum.",
         "Bir dakikan var mı, [player]?",
     ]

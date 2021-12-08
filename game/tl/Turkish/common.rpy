@@ -1,4 +1,5 @@
 translate Turkish strings:
+
     old "{#weekday}Monday"
     new "{#weekday}Pazartesi"
 
@@ -422,9 +423,6 @@ translate Turkish strings:
     old "Graphics Acceleration"
     new "Grafik Hızlandırma"
 
-    old "Automatically Choose"
-    new "Otomatik Seç"
-
     old "Force Angle/DirectX Renderer"
     new "Kuvvet Açısı/DirectX Oluşturucu"
 
@@ -522,7 +520,7 @@ translate Turkish strings:
     new "Bir istisna oluştu."
 
     old "Rollback"
-    new "geri alma"
+    new "Geri al"
 
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
     new "Önceki bir zamana geri dönmeyi dener ve farklı bir seçim kaydetmenize veya seçmenize olanak tanır."

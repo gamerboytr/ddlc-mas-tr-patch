@@ -1,6 +1,36 @@
+translate Turkish monika_showpoem_ccc4d9a5:
+
+    m 1rkc "Pekala, [player]..."
+
+translate Turkish monika_showpoem_aec3fbc2:
+
+    m 3hua "Pekala!"
+
+translate Turkish monika_showpoem_3aa9bd6c:
+
+    m 3eka "Umarım beğenmişsindir [player]."
+
+translate Turkish monika_showpoem_851a6cd5:
+
+    m 1eka "Bir şiir daha okumak ister misin?{nw}"
+
+translate Turkish monika_showpoem_27e2b183:
+
+    m "Bir şiir daha okumak ister misin?{fast}" nointeract
+
+translate Turkish monika_showpoem_bd219ce5:
+
+    m 1eua "Pekala, [player]."
+
 translate Turkish strings:
     old "Hole in Wall"
     new "Duvardaki Delik"
+
+    old "Hole in Wall (Part 1)"
+    new "Duvardaki Delik (Bölüm 1)"
+
+    old "Hole in Wall (Part 2)"
+    new "Duvardaki Delik (Bölüm 2)"
 
     old """\
 It couldn't have been me.
@@ -18,20 +48,20 @@ I realize now, that I wasn't looking in.
 I was looking out.
 And he, on the other side, was looking in."""
     new """\
-Ben olamazdım.
-Bakın, spackle'ın çıktığı yön.
-Gürültülü bir komşu mu? Kızgın bir erkek arkadaş mı? Asla bilemeyeceğim. evde değildim.
-Bir ipucu için içeri bakıyorum.
-Numara! göremiyorum. Güneşte bırakılmış bir film gibi körüm.
-Fakat çok geç. Benim retinalarım.
-Zaten anlamsız görüntünün kalıcı bir kopyası ile yandı.
-Sadece küçük bir delik. Çok parlak değildi.
+Ben olamazdim.
+Bakin, spackle'in çiktigi yön.
+Gürültülü bir komsu mu? Kizgin bir erkek arkadas mi? Asla bilemeyecegim. evde degildim.
+Bir ipucu için içeri bakiyorum.
+Numara! göremiyorum. Güneste birakilmis bir film gibi körüm.
+Fakat çok geç. Benim retinalarim.
+Zaten anlamsiz görüntünün kalici bir kopyasi ile yandi.
+Sadece küçük bir delik. Çok parlak degildi.
 Çok derindi.
-Sonsuza kadar her şeye uzanan.
-Sonsuz seçeneklerin bir deliği.
-Bakmadığımı şimdi anlıyorum.
-dışarı bakıyordum.
-Ve o, diğer tarafta, içeri bakıyordu."""
+Sonsuza kadar her seye uzanan.
+Sonsuz seçeneklerin bir deligi.
+Bakmadigimi simdi anliyorum.
+disari bakiyordum.
+Ve o, diger tarafta, içeri bakiyordu."""
 
     old """\
 But he wasn't looking at me.
@@ -47,18 +77,18 @@ I panic. There must be a way out.
 It's right there. He's right there.
 Swallowing my fears, I brandish my pen."""
     new """\
-Ama o bana bakmıyordu.
-Kafam karıştı, çılgınca çevreme bakıyorum.
-Ama yanmış gözlerim artık renk göremiyor.
-Bu odada başkaları var mı? konuşuyorlar mı?
-Yoksa düz kağıtlara yazılan şiirler mi?
-Çılgınca karalamaların sesi kulaklarımda oyun oynuyor?
-Oda buruşmaya başlar.
-Bana yaklaşıyor.
-Soluduğum hava ciğerlerime ulaşmadan önce dağılıyor.
-panikliyorum. Bir çıkış yolu olmalı.
+Ama o bana bakmiyordu.
+Kafam karisti, çilginca çevreme bakiyorum.
+Ama yanmis gözlerim artik renk göremiyor.
+Bu odada baskalari var mi? konusuyorlar mi?
+Yoksa düz kagitlara yazilan siirler mi?
+Çilginca karalamalarin sesi kulaklarimda oyun oynuyor?
+Oda burusmaya baslar.
+Bana yaklasiyor.
+Soludugum hava cigerlerime ulasmadan önce dagiliyor.
+panikliyorum. Bir çikis yolu olmali.
 Tam orada. O orada.
-Korkularımı yutarak kalemimi sallıyorum."""
+Korkularimi yutarak kalemimi salliyorum."""
 
     old "Save Me"
     new "Beni Kurtar"
@@ -86,21 +116,21 @@ Load Me
     new """\
 Renkler, durmayacaklar.
 Parlak, güzel renkler
-Yanıp sönen, genişleyen, delici
-Kırmızı yeşil mavi
+Yanip sönen, genisleyen, delici
+Kirmizi yesil mavi
 sonsuz
 kakofoni
-anlamsız
+anlamsiz
 gürültü, ses
 Gürültü, durmayacak.
-Şiddetli, ızgara dalga formları
-Gıcırdama, çığlık atma, delici
+siddetli, izgara dalga formlari
+Gicirdama, çiglik atma, delici
 Sinüs, kosinüs, tanjant
     Pikapta kara tahta oynamak gibi
-        Pizza kabuğunda vinil oynamak gibi
+        Pizza kabugunda vinil oynamak gibi
 sonsuz
-şiir
-Anlamsız\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+siir
+Anlamsiz\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
 Beni Yükle
     """
 
@@ -127,26 +157,29 @@ Delete Her
     new """\
 Renkler, olmayacaklar
 Parlak, güzel renkler
-Yanıp sönme, genişletme, delme
-Kırmızı yeşil mavi
+Yanip sönme, genisletme, delme
+Kirmizi yesil mavi
 sonsuz
 KAKOFONİ
-anlamsız
+anlamsiz
 gürültü, ses
 Gürültü, durmayacak.
-Şiddet, rendeleme w vef rms
-Sq e kral, çığlık, delici
+siddet, rendeleme w vef rms
+Sq e kral, çiglik, delici
 SİNE, KOSİN, TANGENT
-    Bir mas da yazı tah ası oyn mak gibi
-        NEFES ALAN BİR RİBCAGE üzerinde BIÇAK oynamak gibi
+    Bir mas da yazi tah asi oyn mak gibi
+        NEFES ALAN BİR GÖĞÜS KAFESİ üzerinde BIÇAK oynamak gibi
  n ndl ss
-öğleden sonra
-mn ngl ss\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n
+p m
+Of m  n ngl ss\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
 Onu Sil
     """
 
     old "The Lady who Knows Everything"
-    new "Her Şeyi Bilen Bayan"
+    new "Her seyi Bilen Bayan"
+
+    old "The Lady Who Knows Everything"
+    new "Her Seyi Bilen Bayan"
 
     old """\
 An old tale tells of a lady who wanders Earth.
@@ -181,35 +214,35 @@ I am not your legend.
 Your legend does not exist.\"
 And with a breath, she blows me back afloat, and I pick up a gust of wind."""
     new """\
-Eski bir masal, Dünya'yı dolaşan bir bayanı anlatır.
-Her Şeyi Bilen Kadın.
-Her cevabı bulan güzel bir bayan,
+Eski bir masal, Dünya'yi dolasan bir bayani anlatir.
+Her seyi Bilen Kadin.
+Her cevabi bulan güzel bir bayan,
 tüm anlam,
-Çok amaçlı,
-Ve şimdiye kadar aranan her şey.
-Ve buradayım,
+Çok amaçli,
+Ve simdiye kadar aranan her sey.
+Ve buradayim,
               bir tüy
-Gökyüzünde kaybolmuş, rüzgarın akıntılarının kurbanı.
-Gün be gün arıyorum.
-Küçük bir umutla araştırıyorum, efsanelerin var olmadığını biliyorum.
-Ama her şey beni başarısızlığa uğrattığında,
-Diğerleri yüz çevirdiğinde,
-Efsane, geriye kalan tek şey - alacakaranlık gökyüzünde parıldayan son sönük yıldız.
-Ta ki bir gün rüzgar esmeyi bırakana kadar.
-Düştüm.
-Ve düşüyorum ve düşüyorum ve daha da düşüyorum.
+Gökyüzünde kaybolmus, rüzgarin akintilarinin kurbani.
+Gün be gün ariyorum.
+Küçük bir umutla arastiriyorum, efsanelerin var olmadigini biliyorum.
+Ama her sey beni basarisizliga ugrattiginda,
+Digerleri yüz çevirdiginde,
+Efsane, geriye kalan tek sey - alacakaranlik gökyüzünde parildayan son sönük yildiz.
+Ta ki bir gün rüzgar esmeyi birakana kadar.
+Düstüm.
+Ve düsüyorum ve düsüyorum ve daha da düsüyorum.
 Bir tüy kadar nazik.
 Kuru bir tüy, ifadesiz.
-Ama bir el başparmağımla işaret parmağımın arasına sıkıştı.
-Güzel bir bayanın eli.
-Gözlerine bakıyorum ve bakışlarının sonu gelmiyor.
-Her Şeyi Bilen Hanım ne düşündüğümü biliyor.
-Ben konuşamadan, o boş bir sesle cevap veriyor.
-\"Hiçbir şey ifade etmeyen her cevabı buldum.
-Anlamı yok.
+Ama bir el basparmagimla isaret parmagimin arasina sikisti.
+Güzel bir bayanin eli.
+Gözlerine bakiyorum ve bakislarinin sonu gelmiyor.
+Her seyi Bilen Hanim ne düsündügümü biliyor.
+Ben konusamadan, o bos bir sesle cevap veriyor.
+\"Hiçbir sey ifade etmeyen her cevabi buldum.
+Anlami yok.
 Amaç yok.
-Ve biz sadece imkansızı arıyoruz.
-Ben senin efsanen değilim.
+Ve biz sadece imkansizi ariyoruz.
+Ben senin efsanen degilim.
 Senin efsanen yok.\"
 Ve bir nefesle beni tekrar suya savuruyor ve bir rüzgar esiyor."""
 
@@ -227,10 +260,10 @@ After all,
 Not all good times must come to an end."""
     new """\
 Elimde kalem, gücümü buluyorum.
-Tek aşkım tarafından bana bahşedilen cesaret.
-Birlikte, bu ufalanan dünyayı ortadan kaldıralım.
-Ve kendi fantezilerimizin bir romanını yaz.
-Kaleminin bir hareketiyle kayıp yolunu bulur.
-Sonsuz seçeneklerin olduğu bir dünyada, bu özel güne bir bakın.
+Tek askim tarafindan bana bahsedilen cesaret.
+Birlikte, bu ufalanan dünyayi ortadan kaldiralim.
+Ve kendi fantezilerimizin bir romanini yaz.
+Kaleminin bir hareketiyle kayip yolunu bulur.
+Sonsuz seçeneklerin oldugu bir dünyada, bu özel güne bir bakin.
 Nihayet,
-Tüm güzel zamanlar sona ermek zorunda değildir."""
+Tüm güzel zamanlar sona ermek zorunda degildir."""

@@ -1,19 +1,25 @@
-translate Turkish _call_mas_backups_you_have_corrupted_persistent_0320a168:
+translate Turkish splashscreen_0320a168:
+
     "[config.name] Team Salvato'ya bağlı olmayan bir Doki Doki Edebiyat Kulübü hayran modudur."
 
-translate Turkish _call_mas_backups_you_have_corrupted_persistent_12775544:
+translate Turkish splashscreen_12775544:
+
     "Sadece resmi oyun tamamlandıktan sonra oynanacak şekilde tasarlanmıştır ve resmi oyun için spoiler içerir."
 
-translate Turkish _call_mas_backups_you_have_corrupted_persistent_e193832f:
+translate Turkish splashscreen_e193832f:
+
     "Bu modu oynamak için Doki Doki Edebiyat Kulübü oyun dosyaları gereklidir ve şu adresten ücretsiz olarak indirilebilir: http://ddlc.moe"
 
 translate Turkish after_load_78a4e9dc:
+
     "Kaydetme verileri yüklenemedi."
 
 translate Turkish after_load_5c5510ae:
-    "Aldatmayı denedin mi?"
+
+    "Hilemi yapmaya mı çalışıyorsun?"
 
 translate Turkish strings:
+
     old "DDLC archive files not found in /game folder. Check installation and try again."
     new "DDLC arşiv dosyaları /game klasöründe bulunamadı. Kurulumu kontrol edin ve tekrar deneyin."
 
