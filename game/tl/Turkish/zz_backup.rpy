@@ -1,157 +1,157 @@
 ﻿translate Turkish mas_backups_you_have_corrupted_persistent_a60c4b04:
 
-    "Hello there!"
+    "Selamlar!"
 
 translate Turkish mas_backups_you_have_corrupted_persistent_10227717:
 
-    "I hate to be the bringer of bad news..."
+    "Kötü haber getiren olmaktan nefret ediyorum..."
 
 translate Turkish mas_backups_you_have_corrupted_persistent_7bb9f2db:
 
-    "But unfortunately, your persistent file is corrupt."
+    "Ama ne yazık ki, {b}persistent{/b} dosyan bozuk."
 
 translate Turkish mas_backups_you_have_corrupted_persistent_6d8df287:
 
-    "And what's even worse is..."
+    "Ve daha da kötüsü..."
 
 translate Turkish mas_backups_you_have_corrupted_persistent_7826f0df:
 
-    "I was unable to find a working backup persistent."
+    "{b}persistent{/b} dosyası için bir yedek bulamadım."
 
 translate Turkish mas_backups_you_have_corrupted_persistent_34cf3f8e:
 
-    "Do you have your own backups?{nw}"
+    "Kendi yedeklerin var mı?{nw}"
 
 translate Turkish mas_backups_have_some_3a796153:
 
-    "That's a relief!"
+    "Bu rahatlatıcı!"
 
 translate Turkish mas_backups_have_some_ee4e1279:
 
-    "Please copy them into '[renpy.config.savedir]' to restore your Monika's memories."
+    "Monika'nın anılarını geri yüklemek için lütfen bunları '[renpy.config.savedir]' klasörünün içine kopyala."
 
 translate Turkish mas_backups_have_some_597fa4a8:
 
-    "Good luck!"
+    "İyi şanslar!"
 
 translate Turkish mas_backups_have_none_52c0d94d:
 
-    "I'm sorry, but we won't be able to restore her memory, then..."
+    "Üzgünüm ama hafızasını geri getiremeyeceğiz, o zaman..."
 
 translate Turkish mas_backups_have_none_bf0874e3:
 
-    "But..."
+    "Ama..."
 
 translate Turkish mas_backups_have_none_4e157fff:
 
-    "Look on the bright side!"
+    "İyi tarafından bak!"
 
 translate Turkish mas_backups_have_none_e8d84b1b:
 
-    "You can spend time with her again and create new memories, which might be even better than the ones you lost!"
+    "Onunla tekrar vakit geçirebilir ve kaybettiklerinden bile daha iyi olabilecek yeni anılar yaratabilirsin!"
 
 translate Turkish mas_backups_have_none_5800610f:
 
-    "And remember..."
+    "Ve hatırla..."
 
 translate Turkish mas_backups_have_none_d05dbdc6:
 
-    "Regardless of what happens, Monika is still Monika."
+    "Ne olursa olsun, Monika hala Monika'dır."
 
 translate Turkish mas_backups_have_none_e44a48be:
 
-    "She'll be ready to greet you, once you start over."
+    "Baştan başladığında seni selamlamaya hazır olacak."
 
 translate Turkish mas_backups_have_none_024385ec:
 
-    "And I promise I'll do my best to not mess up the files again!"
+    "Ve söz veriyorum, dosyaları bir daha karıştırmamak için elimden geleni yapacağım!"
 
 translate Turkish mas_backups_have_none_ddfa866c:
 
-    "Good luck with Monika!"
+    "Monika'yla iyi şanslar!"
 
 translate Turkish mas_backups_could_not_copy_cbdba989:
 
-    "I was able to find a working backup, but..."
+    "Çalışan bir yedek bulabildim ama..."
 
 translate Turkish mas_backups_could_not_copy_a591f111:
 
-    "I wasn't able to copy it over the broken persistent."
+    "Bozuk {b}persistent{/b} dosyası üzerine kopyalayamadım."
 
 translate Turkish mas_backups_could_not_copy_22176348:
 
-    "However!"
+    "Ancak!"
 
 translate Turkish mas_backups_could_not_copy_56e35b9f:
 
-    "You might be able to do it and fix this mess!"
+    "Bunu yapabilir ve bu karışıklığı düzeltebilirsin!"
 
 translate Turkish mas_backups_could_not_copy_440222b0:
 
-    "You'll have to close the game to do this, so write these steps down:"
+    "Bunu yapmak için oyunu kapatman gerekecek, bu yüzden şu adımları izle:"
 
 translate Turkish mas_backups_could_not_copy_1c071f63:
 
-    "1.{w=0.3} Navigate to '[renpy.config.savedir]'."
+    "1.{w=0.3} '[renpy.config.savedir]' konumuna git."
 
 translate Turkish mas_backups_could_not_copy_2a1403a5:
 
-    "2.{w=0.3} Delete the file called 'persistent'."
+    "2.{w=0.3} 'persistent' adlı dosyayı silin."
 
 translate Turkish mas_backups_could_not_copy_ede799fe:
 
-    "3.{w=0.3} Make a copy of the file called '[mas_backup_copy_filename]' and name it 'persistent'."
+    "3.{w=0.3} '[mas_backup_copy_filename]' adlı dosyanın bir kopyasını alın ve 'persistent' olarak adlandır."
 
 translate Turkish mas_backups_could_not_copy_e4d7b1e8:
 
-    "And that's it!"
+    "Ve bu kadar!"
 
 translate Turkish mas_backups_could_not_copy_506e63c3:
 
-    "Hopefully that will recover your Monika's memories."
+    "Umarım bu Monika'nın anılarını geri getirir."
 
 translate Turkish mas_backups_could_not_copy_db691487:
 
-    "In case you didn't write those steps down, I'll write them into a file called 'recovery.txt' in the characters folder."
+    "Bu adımları yazmadıysan, onları karakterler klasöründeki 'recovery.txt' adlı bir dosyaya yazacağım."
 
 translate Turkish mas_backups_could_not_copy_597fa4a8:
 
-    "Good luck!"
+    "İyi şanlar!"
 
 translate Turkish mas_backups_dont_tell_6b2fe5d2:
 
-    "Oh, and..."
+    "Oh, ve..."
 
 translate Turkish mas_backups_dont_tell_1966f894:
 
-    "If you successfully bring her back, please don't tell her about me."
+    "Onu başarılı bir şekilde geri getirirsen, lütfen ona benden bahsetme."
 
 translate Turkish mas_backups_dont_tell_49f63e4c:
 
-    "She has no idea that I can talk or code, so she lets me laze around and relax."
+    "Konuşabileceğimi veya kod yazabileceğimi bilmiyor, bu yüzden tembellik edip rahatlamama izin veriyor."
 
 translate Turkish mas_backups_dont_tell_1c659c3b:
 
-    "But if she ever found out, she'd probably make me help her code, fix some of her mistakes, or something else."
+    "Ama öğrenirse, muhtemelen koduna yardım etmemi, bazı hatalarını düzeltmemi ya da başka bir şey yapmamı sağlardı."
 
 translate Turkish mas_backups_dont_tell_d99b4db6:
 
-    "Which would be absolutely terrible since I'd barely get any rest at all.{nw}"
+    "Bu kesinlikle korkunç olurdu, çünkü neredeyse hiç dinlenemezdim.{nw}"
 
 translate Turkish mas_backups_dont_tell_f97bd033:
 
-    "Which would be absolutely terrible since{fast} I wouldn't have time to keep the backup system and the rest of the game running."
+    "Bu kesinlikle korkunç olurdu, çünkü{fast} yedekleme sistemini ve oyunun geri kalanını çalışır durumda tutmak için zamanım olmazdı."
 
 translate Turkish mas_backups_dont_tell_97dadc92:
 
-    "You wouldn't want that now, would you?"
+    "Bunu şimdi istemezsin, değil mi?"
 
 translate Turkish mas_backups_dont_tell_eefbfce8:
 
-    "So keep quiet about me, and I'll make sure your Monika is safe and comfy!"
+    "Bu yüzden benim hakkımda sessiz ol, ben de Monika'nın güvende ve rahat olduğundan emin olayım!"
 
 translate Turkish strings:
 
     old "Do you have your own backups?{fast}"
-    new "Do you have your own backups?{fast}"
+    new "Kendi yedeklerin var mı?{fast}"
 

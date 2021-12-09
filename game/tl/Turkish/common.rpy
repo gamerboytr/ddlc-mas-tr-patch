@@ -566,3 +566,6 @@ translate Turkish strings:
 
     old "Reloading game..."
     new "Oyun yeniden yükleniyor..."
+
+    old "Reset"
+    new "Sıfırla"

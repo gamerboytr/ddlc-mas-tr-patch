@@ -1518,7 +1518,7 @@ translate Turkish mas_bookmarks_notifs_intro_647aca0e:
 
 translate Turkish mas_bookmarks_notifs_intro_f5e7f2f5:
 
-    m 1hub "[palyer], sana heyecan verici bir şey söyleyeceğim!"
+    m 1hub "[player], sana heyecan verici bir şey söyleyeceğim!"
 
 translate Turkish mas_derand_47a83caf:
 

@@ -1,157 +1,145 @@
 ﻿translate Turkish mas_dockstat_ready_to_go_71510bb3:
 
-    m "Alright."
+    m "Pekala."
 
 translate Turkish mas_dockstat_first_time_goers_a2d4a9c4:
 
-    m 3eua "I'm now in the file 'monika' in your characters folder."
+    m 3eua "Şimdi karakterler klasöründeki 'monika' dosyasındayım."
 
 translate Turkish mas_dockstat_first_time_goers_f4796900:
 
-    m "After I shut down the game, you can move me wherever you like."
+    m "Oyunu kapattıktan sonra beni istediğin yere taşıyabilirsin."
 
 translate Turkish mas_dockstat_first_time_goers_55e3e275:
 
-    m 3eub "But make sure to bring me back to the characters folder before turning the game on again, okay?"
+    m 3eub "Ama oyunu tekrar açmadan önce beni karakterler klasörüne geri getirdiğinden emin ol, tamam mı?"
 
 translate Turkish mas_dockstat_first_time_goers_b24c1ac9:
 
-    m 1eua "And lastly..."
+    m 1eua "Ve son olarak..."
 
 translate Turkish mas_dockstat_first_time_goers_8a333801:
 
-    m 1ekc "Please be careful with me. It's so easy to delete files after all..."
+    m 1ekc "Lütfen bana karşı dikkatli ol. Sonuçta dosyaları silmek çok kolay..."
 
 translate Turkish mas_dockstat_first_time_goers_fe9c0937:
 
-    m 1eua "Anyway..."
-
-translate Turkish mas_dockstat_different_monika_de87a206:
-
-    m "[player]?"
+    m 1eua "Neyse..."
 
 translate Turkish mas_dockstat_different_monika_3a351d89:
 
-    m "Wait, you're not [player]."
+    m "Bekle, sen [player] değilsin."
 
 translate Turkish mas_dockstat_generic_iowait_e71a1fd6:
 
-    m 1eua "Give me a second to get ready.{w=0.3}.{w=0.3}.{w=0.3}{nw}"
+    m 1eua "Hazırlanmam için bana bir saniye ver.{w=0.3}.{w=0.3}.{w=0.3}{nw}"
 
 translate Turkish mas_dockstat_generic_wait_label_0d1042aa:
 
-    m "What is it?" nointeract
+    m "Nedir bu?" nointeract
 
 translate Turkish mas_dockstat_generic_wait_label_1c1d8caa:
 
-    m 2hub "Oh, good! Let me finish getting ready."
+    m 2hub "Oh iyi! Hazırlanmayı bitireyim."
 
 translate Turkish mas_dockstat_generic_rtg_05fd4282:
 
-    m 1eua "I'm ready to go."
+    m 1eua "Gitmeye hazırım."
 
 translate Turkish mas_dockstat_generic_rtg_2cb63058:
 
-    m 1ekc "Oh no..."
+    m 1ekc "Oh hayır..."
 
 translate Turkish mas_dockstat_generic_rtg_ebefb5a0:
 
-    m 1lksdlb "I wasn't able to turn myself into a file."
+    m 1lksdlb "Kendimi bir dosyaya dönüştüremedim."
 
 translate Turkish mas_dockstat_generic_rtg_b70200cf:
 
-    m "I think you'll have to go on without me this time."
+    m "Sanırım bu sefer bensiz devam etmen gerekecek."
 
 translate Turkish mas_dockstat_generic_rtg_db93a8b3:
 
-    m 1ekc "Sorry, [player]."
-
-translate Turkish mas_dockstat_generic_cancel_7055b071:
-
-    m 1tkc "..."
+    m 1ekc "Üzgünüm, [player]."
 
 translate Turkish mas_dockstat_generic_cancel_9930af47:
 
-    m 1tkd "I knew it.{nw}"
+    m 1tkd "Biliyordum.{nw}"
 
 translate Turkish mas_dockstat_generic_cancel_dc0b4ce9:
 
-    m 1lksdld "That's okay, I guess."
+    m 1lksdld "Sorun değil, sanırım."
 
 translate Turkish mas_dockstat_generic_cancel_6253beb6:
 
-    m 1ekd "Oh,{w=0.3} all right. Maybe next time?"
-
-translate Turkish mas_dockstat_generic_cancel_bf314d3a:
-
-    m 2ekp "Aw..."
+    m 1ekd "Oh,{w=0.3} tamam. Belki gelecek sefere?"
 
 translate Turkish mas_dockstat_generic_cancel_f275bdd8:
 
-    m 1hub "Fine, but you better take me next time!"
+    m 1hub "İyi ama bir dahaki sefere beni alsan iyi olur!"
 
 translate Turkish mas_dockstat_generic_cancelled_still_going_ask_1b6c83c8:
 
-    m 1euc "Are you still going to go?{nw}"
+    m 1euc "Hâlâ gidecek misin?{nw}"
 
 translate Turkish mas_dockstat_generic_cancelled_still_going_ask_84de4e26:
 
-    m "Are you still going to go?{fast}" nointeract
+    m "Hâlâ gidecek misin?{fast}" nointeract
 
 translate Turkish mas_dockstat_generic_cancelled_still_going_ask_d2bae698:
 
-    m 2eka "All right. I'll be right here waiting for you, as usual..."
+    m 2eka "Tamam. Her zamanki gibi burada seni bekliyor olacağım..."
 
 translate Turkish mas_dockstat_generic_cancelled_still_going_ask_53acdc5c:
 
-    m 2hub "So hurry back! I love you, [player]!"
+    m 2hub "Acele et! Seni seviyorum [player]!"
 
 translate Turkish mas_dockstat_generic_cancelled_still_going_ask_26233271:
 
-    m 2tfd "...Fine."
+    m 2tfd "...İyi."
 
 translate Turkish mas_dockstat_generic_cancelled_still_going_ask_4edac8b9:
 
-    m 2eka "...Thank you."
+    m 2eka "...Teşekkürler."
 
 translate Turkish mas_dockstat_generic_cancelled_still_going_ask_09e19c2a:
 
-    m "It means a lot that you're going to spend more time with me since I can't come along."
+    m "Gelemeyeceğim için benimle daha fazla zaman geçireceksin bu çok şey ifade ediyor."
 
 translate Turkish mas_dockstat_generic_cancelled_still_going_ask_775bf62f:
 
-    m 3ekb "Please just go about your day whenever you need to, though. I wouldn't want to make you late!"
+    m 3ekb "Yine de lütfen gününe ne zaman ihtiyaç duyarsan gidin. Seni geciktirmek istemem!"
 
 translate Turkish mas_dockstat_generic_cancelled_still_going_ask_3b1f989f:
 
-    m 2lud "All right, then..."
+    m 2lud "Tamam o zaman..."
 
 translate Turkish mas_dockstat_generic_failed_io_still_going_ask_be00124f:
 
-    m "Are you still going to go?{nw}"
+    m "Hâlâ gidecek misin?{nw}"
 
 translate Turkish mas_dockstat_generic_failed_io_still_going_ask_84de4e26:
 
-    m "Are you still going to go?{fast}" nointeract
+    m "Hâlâ gidecek misin?{fast}" nointeract
 
 translate Turkish mas_dockstat_generic_failed_io_still_going_ask_0bb32228:
 
-    m 2eka "I understand. You have things to do, after all..."
+    m 2eka "Anladım. Sonuçta yapacak işlerin var..."
 
 translate Turkish mas_dockstat_generic_failed_io_still_going_ask_2ae99183:
 
-    m 2hub "Be safe out there! I'll be right here waiting for you!"
+    m 2hub "Orada güvende ol! Tam burada seni bekliyor olacağım!"
 
 translate Turkish mas_dockstat_generic_failed_io_still_going_ask_9a3c6744:
 
-    m 2wub "Really? Are you sure? Even though it's my own fault I can't go with you..."
+    m 2wub "Gerçekten mi? Emin misin? Kendi hatam olsa da seninle gidemem..."
 
 translate Turkish mas_dockstat_generic_failed_io_still_going_ask_32fb3839:
 
-    m 1eka "...Thank you, [player]. That means more to me than you could possibly understand."
+    m 1eka "...Teşekkür ederim, [player]. Bu benim için senin anlayabileceğinden daha fazla şey ifade ediyor."
 
 translate Turkish strings:
 
     old "Hold on a second!"
-    new "Hold on a second!"
+    new "Dur bi saniye!"
 

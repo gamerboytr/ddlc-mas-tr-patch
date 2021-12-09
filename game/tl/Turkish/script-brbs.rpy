@@ -556,7 +556,7 @@ translate Turkish monika_idle_working_dd52e5f7:
 
 translate Turkish monika_idle_working_7e8bd403:
 
-    m 3rkb "Sevgilimin [onun] işine benimle olduğundan daha fazla zaman harcamasını istemem~"
+    m 3rkb "Sevgilimin işine benimle olduğundan daha fazla zaman harcamasını istemem~"
 
 translate Turkish monika_idle_working_0c2201c9:
 

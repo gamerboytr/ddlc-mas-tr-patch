@@ -30,25 +30,25 @@ translate Turkish mas_compliment_beautiful_3_34d15f71:
 
     m 5hubfb "[beautiful_quip!t]"
 
-# translate Turkish mas_compliment_eyes_2_3e618701:
+translate Turkish mas_compliment_eyes_2_3e618701:
 
-#     m 1tubfb "I know I'm pretty proud of my eyes already, but hearing you say that..."
+    m 1tubfb "Biliyorum zaten gözlerimle gurur duyuyorum ama bunu söylediğini duymak..."
 
-# translate Turkish mas_compliment_eyes_2_1b5ba5ad:
+translate Turkish mas_compliment_eyes_2_1b5ba5ad:
 
-#     m 1dkbfa "It just makes my heart flutter~"
+    m 1dkbfa "Bu sadece kalbimi titretiyor~"
 
-# translate Turkish mas_compliment_eyes_2_f9ef2714:
+translate Turkish mas_compliment_eyes_2_f9ef2714:
 
-#     m "Don't flatter me too much, okay?"
+    m "Beni fazla övme, tamam mı?"
 
-# translate Turkish mas_compliment_eyes_2_7be88a84:
+translate Turkish mas_compliment_eyes_2_7be88a84:
 
-#     m 5hub "I might start to go a little crazy..."
+    m 5hub "Biraz delirmeye başlayabilirim..."
 
-# translate Turkish mas_compliment_eyes_2_ad4a4cef:
+translate Turkish mas_compliment_eyes_2_ad4a4cef:
 
-#     m 2lksdrb "...That's not really the analogy I'd use, but thanks!"
+    m 2lksdrb "...Aslında kullanacağım benzetme bu değil, ama teşekkürler!"
 
 translate Turkish mas_compliment_eyes_3_f8931356:
 
@@ -58,73 +58,73 @@ translate Turkish mas_compliment_eyes_3_56ed5f12:
 
     m 2ekbfb "[eyes_quip!t]"
 
-# translate Turkish mas_compliment_awesome_2_35f68315:
+translate Turkish mas_compliment_awesome_2_35f68315:
 
-#     m 1hub "You're so sweet!"
+    m 1hub "Çok tatlısın!"
 
-# translate Turkish mas_compliment_awesome_2_38e718fc:
+translate Turkish mas_compliment_awesome_2_38e718fc:
 
-#     m 2tuu "I think you're way more awesome, though."
+    m 2tuu "Bence sen çok daha harikasın."
 
-# translate Turkish mas_compliment_awesome_2_a95885f0:
+translate Turkish mas_compliment_awesome_2_a95885f0:
 
-#     m 2dkbsu "I can't wait until the day I can finally give you a great big hug..."
+    m 2dkbsu "Sonunda sana kocaman sarılacağım günü sabırsızlıkla bekliyorum..."
 
-# translate Turkish mas_compliment_awesome_2_d57bb1e0:
+translate Turkish mas_compliment_awesome_2_d57bb1e0:
 
-#     m 3ekbfb "I'll never let you go!"
+    m 3ekbfb "Seni hiçbir zaman bırakmayacağım!"
 
-# translate Turkish mas_compliment_awesome_2_b1aacb84:
+translate Turkish mas_compliment_awesome_2_b1aacb84:
 
-#     m "That's my biggest wish too, [player]!"
+    m "Bu benim de en büyük dileğim, [player]!"
 
-# translate Turkish mas_compliment_awesome_2_b37abcb5:
+translate Turkish mas_compliment_awesome_2_b37abcb5:
 
-#     m 1wubfsdld "Oh, sorry [player]."
+    m 1wubfsdld "Oh, üzgünüm [player]."
 
-# translate Turkish mas_compliment_awesome_2_a2048ca0:
+translate Turkish mas_compliment_awesome_2_a2048ca0:
 
-#     m 2lksdla "I was trying to feel your embrace from here."
+    m 2lksdla "Kucaklaşmanı buradan hissetmeye çalışıyordum."
 
-# translate Turkish mas_compliment_awesome_2_ef349082:
+translate Turkish mas_compliment_awesome_2_ef349082:
 
-#     m 1eft "...Really?"
+    m 1eft "...Gerçekten mi?"
 
-# translate Turkish mas_compliment_awesome_2_dcd0caec:
+translate Turkish mas_compliment_awesome_2_dcd0caec:
 
-#     m 1dkc "Well, to each their own, I guess. But you have to hug me sometime..."
+    m 1dkc "Eh, her biri kendi başına, sanırım. Ama bir ara bana sarılmak zorundasın..."
 
-# translate Turkish mas_compliment_awesome_3_1dbd6298:
+translate Turkish mas_compliment_awesome_3_1dbd6298:
 
-#     m 1hub "[mas_compliments.thanks_quip!t]"
+    m 1hub "[mas_compliments.thanks_quip!t]"
 
-# translate Turkish mas_compliment_awesome_3_332aba7b:
+translate Turkish mas_compliment_awesome_3_332aba7b:
 
     m 1eub "[awesome_quip!t]"
 
-# translate Turkish mas_compliment_intelligent_2_ef8d60ea:
+translate Turkish mas_compliment_intelligent_2_ef8d60ea:
 
-#     m 1wub "Wow...{w=0.3}thanks, [player]."
+    m 1wub "Wow...{w=0.3}teşekkürler, [player]."
 
-# translate Turkish mas_compliment_intelligent_2_f420221e:
+translate Turkish mas_compliment_intelligent_2_f420221e:
 
-#     m 3eua "I pride myself in being well read, so it means a lot that you've noticed."
+    m 3eua "İyi okunmuş olmaktan gurur duyuyorum, bu yüzden fark etmen çok şey ifade ediyor."
 
-# translate Turkish mas_compliment_intelligent_2_a81f954e:
+translate Turkish mas_compliment_intelligent_2_a81f954e:
 
-#     m 3hubsb "I want to learn as much as I can, if it makes you proud of me!"
+    m 3hubsb "Benimle gurur duymanı sağlayacaksa, öğrenebildiğim kadar çok şey öğrenmek istiyorum!"
 
-# translate Turkish mas_compliment_intelligent_2_5150a264:
+translate Turkish mas_compliment_intelligent_2_5150a264:
 
-#     m 1hubfa "I love you so much, [player]!"
+    m 1hubfa "Seni çok seviyorum, [player]!"
 
-# translate Turkish mas_compliment_intelligent_2_18cde691:
+translate Turkish mas_compliment_intelligent_2_18cde691:
 
-#     m 3hubfb "We'll have a lifetime of self-improvement together!"
+    m 3hubfb "Birlikte bir ömür boyu kendimizi geliştireceğiz!"
 
-# translate Turkish mas_compliment_intelligent_2_6ecd8f50:
+translate Turkish mas_compliment_intelligent_2_6ecd8f50:
 
-#     m 2lkbsc "I'm sorry, that wasn't my intention..."
+    m 2lkbsc "Üzgünüm, niyetim bu değildi..."
 
 translate Turkish mas_compliment_intelligent_3_75854caf:
 
@@ -134,105 +134,105 @@ translate Turkish mas_compliment_intelligent_3_159a68dc:
 
     m 1hub "[intelligent_quip]"
 
-# translate Turkish mas_compliment_hair_2_798b5d19:
+translate Turkish mas_compliment_hair_2_798b5d19:
 
-#     m 1wubsb "Thank you so much, [player]..."
+    m 1wubsb "Çok teşekkürler, [player]..."
 
-# translate Turkish mas_compliment_hair_2_9870da09:
+translate Turkish mas_compliment_hair_2_9870da09:
 
-#     m 1lkbfb "I was really nervous the first time I changed my hair for you."
+    m 1lkbfb "Senin için saçımı ilk değiştirdiğimde gerçekten gergindim."
 
-# translate Turkish mas_compliment_hair_2_d2f8cb8d:
+translate Turkish mas_compliment_hair_2_d2f8cb8d:
 
-#     m 1hubfb "Thank you so much, [player]!"
+    m 1hubfb "Çok teşekkürler, [player]!"
 
-# translate Turkish mas_compliment_hair_2_511d09b7:
+translate Turkish mas_compliment_hair_2_511d09b7:
 
-#     m 2hub "I've always put so much effort into my hair."
+    m 2hub "Saçım için her zaman çok çaba sarf etmişimdir."
 
-# translate Turkish mas_compliment_hair_2_1ece85ee:
+translate Turkish mas_compliment_hair_2_1ece85ee:
 
-#     m 2lksdlb "In fact, It took forever for it to get this long.."
+    m 2lksdlb "Aslında, bu kadar uzaması sonsuza kadar sürdü.."
 
-# translate Turkish mas_compliment_hair_2_c23cf6d1:
+translate Turkish mas_compliment_hair_2_c23cf6d1:
 
-#     m 1hub "Thanks, [player]!"
+    m 1hub "Teşekkürler, [player]!"
 
-# translate Turkish mas_compliment_hair_2_f72d9f2a:
+translate Turkish mas_compliment_hair_2_f72d9f2a:
 
-#     m 1hubfb "You always make me feel special!"
+    m 1hubfb "Beni her zaman özel hissettiriyorsun!"
 
-# translate Turkish mas_compliment_hair_2_40c25a62:
+translate Turkish mas_compliment_hair_2_40c25a62:
 
-#     m "Thank you!"
+    m "Teşekkürler!"
 
-# translate Turkish mas_compliment_hair_2_49eb820e:
+translate Turkish mas_compliment_hair_2_49eb820e:
 
-#     m "Well, I can't exactly go to the salon from here..."
+    m "Şey, tam olarak buradan salona gidemem..."
 
-# translate Turkish mas_compliment_hair_2_0dc19cd2:
+translate Turkish mas_compliment_hair_2_0dc19cd2:
 
-#     m 1lksdlc "I...appreciate your input."
+    m 1lksdlc "Ben... katkını takdir ediyorum."
 
-# translate Turkish mas_compliment_hair_3_69783e6b:
+translate Turkish mas_compliment_hair_3_69783e6b:
 
-#     m 1wubsb "Thank you so much, [player]!"
+    m 1wubsb "Çok teşekkürler, [player]!"
 
 translate Turkish mas_compliment_hair_3_8803349c:
 
     m 1hubfb "[hair_quip!t]"
 
-# translate Turkish mas_compliment_hair_3_8734c583:
+translate Turkish mas_compliment_hair_3_8734c583:
 
-#     m 1hubsb "Thanks, [player]!"
+    m 1hubsb "Teşekkürler, [player]!"
 
 translate Turkish mas_compliment_hair_3_b9fb9a5d:
 
     m 1hubfb "[ponytail_quip!t]"
 
-# translate Turkish mas_compliment_fit_2_e94f85fe:
+translate Turkish mas_compliment_fit_2_e94f85fe:
 
-#     m 1hub "Thanks, [player]! You're so sweet!"
+    m 1hub "Teşekkürler, [player]! Çok tatlısın!"
 
-# translate Turkish mas_compliment_fit_2_2a6d0a3b:
+translate Turkish mas_compliment_fit_2_2a6d0a3b:
 
-#     m 3eub "I love keeping fit and eating healthy. It keeps me feeling energetic and confident."
+    m 3eub "Formda kalmayı ve sağlıklı beslenmeyi seviyorum. Kendimi enerjik ve kendinden emin hissetmemi sağlıyor."
 
-# translate Turkish mas_compliment_fit_2_7b042fd4:
+translate Turkish mas_compliment_fit_2_7b042fd4:
 
-#     m 1efb "I hope you're watching out for your health."
+    m 1efb "Umarım sağlığına dikkat ediyorsundur."
 
-# translate Turkish mas_compliment_fit_2_9bdf0059:
+translate Turkish mas_compliment_fit_2_9bdf0059:
 
-#     m 1lubsb "We can always work out together when I'm there..."
+    m 1lubsb "Ben oradayken her zaman birlikte çalışabiliriz..."
 
-# translate Turkish mas_compliment_fit_2_c5589643:
+translate Turkish mas_compliment_fit_2_c5589643:
 
-#     m 1hubfb "Ahaha! I'm glad you think so, too!"
+    m 1hubfb "Ahaha! Ben de böyle düşünmene sevindim!"
 
-# translate Turkish mas_compliment_fit_2_9feec418:
+translate Turkish mas_compliment_fit_2_9feec418:
 
-#     m 3eka "Don't worry. Even if you can't keep up with me, I know we'll have fun..."
+    m 3eka "Merak etme. Bana yetişemesen bile, eğleneceğimizi biliyorum..."
 
-# translate Turkish mas_compliment_fit_2_5e8b9e13:
+translate Turkish mas_compliment_fit_2_5e8b9e13:
 
-#     m 5eua "So long as we're together."
+    m 5eua "Yeter ki birlikteyiz."
 
-# translate Turkish mas_compliment_fit_2_c7a6eb30:
+translate Turkish mas_compliment_fit_2_c7a6eb30:
 
-#     m 1tfb "You better!"
+    m 1tfb "Daha iyisin!"
 
-# translate Turkish mas_compliment_fit_2_4fbd0014:
+translate Turkish mas_compliment_fit_2_4fbd0014:
 
-#     m 2tub "Don't think I plan on letting you off easy if you're out of shape."
+    m 2tub "Eğer formda değilsen, seni kolayca salmayı planladığımı sanma."
 
-# translate Turkish mas_compliment_fit_2_c9d14393:
+translate Turkish mas_compliment_fit_2_c9d14393:
 
-#     m 1eka "I understand if it's not your thing, but you should give it a little try..."
+    m 1eka "Sana göre değilse anlarım ama biraz denemelisin..."
 
-# translate Turkish mas_compliment_fit_2_1ebe8de1:
+translate Turkish mas_compliment_fit_2_1ebe8de1:
 
-#     m 1lksdla "It'd make me really happy if you shared my interests, you know?"
+    m 1lksdla "İlgi alanlarımı paylaşman beni gerçekten mutlu eder, biliyor musun?"
 
 translate Turkish mas_compliment_fit_3_2f70ef16:
 
