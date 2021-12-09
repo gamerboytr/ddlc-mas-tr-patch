@@ -2,10 +2,6 @@
 
     m "Let's continue our unfinished game."
 
-translate Turkish game_chess_3507e2a3:
-
-    m 2wfw "[player]!"
-
 translate Turkish game_chess_5e027179:
 
     m 2wfx "You removed the save again."
