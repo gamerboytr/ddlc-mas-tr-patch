@@ -146,30 +146,6 @@ translate Turkish mas_reaction_generic_1731b744:
 
     "This is a test"
 
-translate Turkish mas_reaction_gift_generic_780a8085:
-
-    m 1esd "[player], are you trying to give me something?"
-
-translate Turkish mas_reaction_gift_generic_baa9fdf6:
-
-    m 1rssdlb "I found it, but I can't bring it here..."
-
-translate Turkish mas_reaction_gift_generic_9e94e80a:
-
-    m "I can't seem to read it well enough."
-
-translate Turkish mas_reaction_gift_generic_8242234a:
-
-    m 3esa "But that's alright!"
-
-translate Turkish mas_reaction_gift_generic_fb26a6e6:
-
-    m 1esa "It's the thought that counts after all, right?"
-
-translate Turkish mas_reaction_gift_generic_c95c5ba1:
-
-    m "Thanks for being so thoughtful, [player]~"
-
 translate Turkish mas_reaction_gift_generic_b3ddd0c4:
 
     m 2dkd "{i}*sigh*{/i}"
@@ -197,6 +173,26 @@ translate Turkish mas_reaction_gift_generic_a76d6846:
 translate Turkish mas_reaction_gift_generic_134f9195:
 
     m 1hub "And for that, I'm thankful~"
+
+translate Turkish mas_reaction_gifts_generic_2d07d4c5:
+
+    m 1esd "Sorry, [player]..."
+
+translate Turkish mas_reaction_gifts_generic_656213ec:
+
+    m 3rksdla "I found what you're trying to give me, but I can't seem to read them well enough."
+
+translate Turkish mas_reaction_gifts_generic_08dc0ce1:
+
+    m 3eub "That's alright, though!"
+
+translate Turkish mas_reaction_gifts_generic_f35f0a51:
+
+    m 1eka "It's the thought that counts after all~"
+
+translate Turkish mas_reaction_gifts_generic_8a256633:
+
+    m 1hub "Thanks for being so thoughtful, [player]!"
 
 translate Turkish mas_reaction_gift_test1_0e361333:
 
@@ -1769,26 +1765,26 @@ translate Turkish mas_reaction_gift_clothes_mocca_bun_blackandwhitestripedpullov
 translate Turkish strings:
 
     old "I really appreciate it!"
-    new "I really appreciate it!"
+    new "Gerçekten onu takdir ederim!"
 
     old "[its] amazing!"
-    new "[its] amazing!"
+    new "bu inaılmaz!"
 
     old "I just love [item_ref]!"
-    new "I just love [item_ref]!"
+    new "Sadece [item_ref]'i seviyorum!"
 
     old "[its] wonderful!"
-    new "[its] wonderful!"
+    new "bu harika!"
 
     old "I think it's really cute, [player]!"
-    new "I think it's really cute, [player]!"
+    new "Bence çok şirin, [player]!"
 
     old "I think it's amazing, [player]!"
-    new "I think it's amazing, [player]!"
+    new "Bence bu inanılmaz, [player]!"
 
     old "I just love it, [player]!"
-    new "I just love it, [player]!"
+    new "Onu seviyorum, [player]!"
 
     old "I think it's wonderful, [player]!"
-    new "I think it's wonderful, [player]!"
+    new "Bence harika, [player]!"
 

@@ -64,3 +64,4 @@ translate Turkish strings:
 
     old "I agree."
     new "Kabul ediyorum."
+

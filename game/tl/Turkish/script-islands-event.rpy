@@ -1,10 +1,88 @@
-﻿translate Turkish mas_monika_islands_3e3b6f6f:
+﻿
+
+translate Turkish mas_monika_islands_3e3b6f6f:
 
     m 1eub "Of course! You can admire the scenery for now."
 
 translate Turkish mas_monika_islands_56293cf9:
 
     m 1eua "I hope you liked it, [mas_get_player_nickname()]~"
+
+translate Turkish mas_monika_islands_progress_832346be:
+
+    m 1eub "[player], I've got some exciting news for you!"
+
+translate Turkish mas_monika_islands_progress_e897b346:
+
+    m 3hub "I made some new additions on the islands, {w=0.2}{nw}"
+
+translate Turkish mas_monika_islands_progress_57f5ac34:
+
+    extend 1rua "and I thought maybe you'd like to take a look."
+
+translate Turkish mas_monika_islands_progress_dc7aae08:
+
+    m 1hublb "They are {i}our{/i} islands after all~"
+
+translate Turkish mas_monika_islands_progress_e33fc90d:
+
+    m 3eua "What do you say?{nw}"
+
+translate Turkish mas_monika_islands_progress_03f838b4:
+
+    m "What do you say?{fast}" nointeract
+
+translate Turkish mas_monika_islands_progress_4c528d79:
+
+    m 2hub "Yay!"
+
+translate Turkish mas_monika_islands_progress_bac21004:
+
+    m "Hope you liked it~"
+
+translate Turkish mas_monika_islands_progress_43f07cc9:
+
+    m 1lusdlb "I know it's far from being done, {w=0.2}{nw}"
+
+translate Turkish mas_monika_islands_progress_ce0ffffc:
+
+    extend 1eka "but I really wanted to showcase my progress to you."
+
+translate Turkish mas_monika_islands_progress_305b7ce6:
+
+    m 2lsp "I'm still learning how to code and this engine being inconsistent doesn't help me..."
+
+translate Turkish mas_monika_islands_progress_3873e363:
+
+    m 7hub "But I think I made quite a bit of progress so far!"
+
+translate Turkish mas_monika_islands_progress_e93005d0:
+
+    m 2ekc "Oh..."
+
+translate Turkish mas_monika_islands_progress_905a45e1:
+
+    m 6rktpc "I..."
+
+translate Turkish mas_monika_islands_progress_485102b3:
+
+    m 6fktpd "I worked really hard on this..."
+
+translate Turkish mas_monika_islands_progress_9711d1c9:
+
+    m 2rktdc "You...{w=0.5} You must just be busy..."
+
+translate Turkish mas_monika_islands_progress_ca1f5acd:
+
+    m 2ekc "Oh...{w=0.5}{nw}"
+
+translate Turkish mas_monika_islands_progress_487cb588:
+
+    extend 2eka "alright."
+
+translate Turkish mas_monika_islands_progress_d9456aeb:
+
+    m 7eka "Just don't keep me waiting too long~"
 
 translate Turkish mas_island_upsidedownisland_a8b836db:
 
@@ -617,4 +695,12 @@ translate Turkish mas_island_bookshelf2_49056641:
 translate Turkish mas_island_bookshelf2_88a83baa:
 
     m "That'd be wonderful~"
+
+translate Turkish strings:
+
+    old "I'm not interested."
+    new "İlgilenmiyorum."
+
+    old "Maybe later."
+    new "Belki sonra."
 

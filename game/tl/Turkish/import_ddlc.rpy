@@ -12,8 +12,11 @@ translate Turkish import_ddlc_persistent_save_merge_or_replace_42e7bb29:
 
 translate Turkish strings:
 
-    old "Save data from Doki Doki Literature Club has been merged already."
-    new "Doki Doki Edebiyat Kulübü'nden veri kaydetme zaten birleştirildi."
+    old "Save data from Doki Doki Literature Club has been merged already. Aborting."
+    new "Doki Doki Edebiyat Kulübü'nün kayıt verisi zaten birleştirildi. İptal ediliyor."
+
+    old "Okay."
+    new "Tamam."
 
     old "Would you like to import Doki Doki Literature Club save data into [config.name]?\n(DDLC will not be affected)"
     new "Doki Doki Edebiyat Klübü kayıt dosyasını şuraya aktarmak istermisiniz [config.name]?\n(DDEK etkilenmiycek)"
@@ -27,14 +30,11 @@ translate Turkish strings:
     old "Save data will not be imported at this time."
     new "Kaydedilen veriler şu anda içe aktarılmayacak."
 
-    old "Okay."
-    new "Tamam."
-
     old "Couldn't read/decode save data from Doki Doki Literature Club. Aborting."
     new "Doki Doki Edebiyat Kulübünden kaydetme verileri okunamadı/çözülemedi. İptal ediliyor."
 
     old "Previous Monika After Story save data has also been found.\nWould you like to merge with DDLC save data?"
-    new "Önceki Monika After Story kaydetme verileri de bulundu.\nDDEK kaydetme verileriyle birleştirmek ister misiniz?"
+    new "Önceki Monika After Story kayıt verisi bulundu.\nDDEK kaydetme verileriyle birleştirmek ister misiniz?"
 
     old "Merge save data."
     new "Kaydetme verilerini birleştir."

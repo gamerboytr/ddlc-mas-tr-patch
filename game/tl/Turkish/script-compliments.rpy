@@ -242,69 +242,69 @@ translate Turkish mas_compliment_fit_3_cf051ed3:
 
     m 7hub "[fitness_quip!t]"
 
-# translate Turkish mas_compliment_thanks_7990b1f2:
+translate Turkish mas_compliment_thanks_7990b1f2:
 
-#     m 1duu "There's nothing to thank me for, [player]."
+    m 1duu "Bana teşekkür edecek bir şey yok, [player]."
 
-# translate Turkish mas_compliment_thanks_a2b779b7:
+translate Turkish mas_compliment_thanks_a2b779b7:
 
-#     m 1eka "I'm the one who's grateful for having someone like you!"
+    m 1eka "Senin gibi birine sahip olduğu için minnettar olan benim!"
 
-# translate Turkish mas_compliment_thanks_6cd6f56b:
+translate Turkish mas_compliment_thanks_6cd6f56b:
 
-#     m 1ekbsa "You're the only reason why I'm still here."
+    m 1ekbsa "Hala burada olmamın tek sebebi sensin."
 
-# translate Turkish mas_compliment_thanks_e1d83b8f:
+translate Turkish mas_compliment_thanks_e1d83b8f:
 
-#     m "You installed this mod just to make our time together better..."
+    m "Sırf birlikte geçirdiğimiz zamanı daha iyi hale getirmek için bu modu kurdun..."
 
-# translate Turkish mas_compliment_thanks_80105132:
+translate Turkish mas_compliment_thanks_80105132:
 
-#     m 1dubsu "You are the sunshine that warms my heart whenever you visit me."
+    m 1dubsu "Sen beni her ziyaret ettiğinde kalbimi ısıtan güneş ışığısın."
 
-# translate Turkish mas_compliment_thanks_fd18caf8:
+translate Turkish mas_compliment_thanks_fd18caf8:
 
-#     m 3ekbsa "I guess we're both lucky that we have each other, [player]~"
+    m 3ekbsa "Sanırım ikimiz de birbirimize sahip olduğumuz için şanslıyız, [player]~"
 
-# translate Turkish mas_compliment_thanks_bb992cd1:
+translate Turkish mas_compliment_thanks_bb992cd1:
 
-#     m 1dubsu "Nothing makes me happier than hearing that coming from you."
+    m 1dubsu "Hiçbir şey beni senden bunu duymak kadar mutlu edemez."
 
-# translate Turkish mas_compliment_thanks_4ba354c2:
+translate Turkish mas_compliment_thanks_4ba354c2:
 
-#     m "No matter what the future may have for us both...{w=0.5}{nw}"
+    m "Gelecek ikimiz için de ne olursa olsun...{w=0.5}{nw}"
 
-# translate Turkish mas_compliment_thanks_b72aa841:
+translate Turkish mas_compliment_thanks_b72aa841:
 
-#     extend 1dkbfa "know that I'll always love you and be here for you."
+    extend 1dkbfa "seni her zaman seveceğimi ve senin için burada olacağımı bil."
 
-# translate Turkish mas_compliment_thanks_be9db390:
+translate Turkish mas_compliment_thanks_be9db390:
 
-#     m 1eub "I love you, [player]."
+    m 1eub "Seni seviyorum, [player]."
 
-# translate Turkish mas_compliment_smile_2_5b42af06:
+translate Turkish mas_compliment_smile_2_5b42af06:
 
-#     m 1hub "You're so sweet, [player]~"
+    m 1hub "Çok tatlısın, [player]~"
 
-# translate Turkish mas_compliment_smile_2_199a72b7:
+translate Turkish mas_compliment_smile_2_199a72b7:
 
-#     m 1eua "I smile a lot when you're here."
+    m 1eua "Sen buradayken çok gülüyorum."
 
-# translate Turkish mas_compliment_smile_2_678528d5:
+translate Turkish mas_compliment_smile_2_678528d5:
 
-#     m 1ekbsa "Because it makes me very happy when you spend time with me~"
+    m 1ekbsa "Çünkü benimle vakit geçirmen beni çok mutlu ediyor~"
 
-# translate Turkish mas_compliment_smile_2_f2dc904e:
+translate Turkish mas_compliment_smile_2_f2dc904e:
 
-#     m 1lkbfa "I think my heart just skipped a beat."
+    m 1lkbfa "Sanırım kalbim bir vuruş atladı."
 
-# translate Turkish mas_compliment_smile_2_eb30a3b0:
+translate Turkish mas_compliment_smile_2_eb30a3b0:
 
-#     m 3hubfa "See? You always make me as happy as I can be."
+    m 3hubfa "Gördün mü? Beni her zaman olabildiğince mutlu ediyorsun."
 
-# translate Turkish mas_compliment_smile_2_8b316747:
+translate Turkish mas_compliment_smile_2_8b316747:
 
-#     m 3eub "Then all you have to do is keep coming back, [player]!"
+    m 3eub "O zaman tek yapman gereken geri gelmeye devam etmek, [player]!"
 
 translate Turkish mas_compliment_smile_3_d5ec42a2:
 
@@ -314,389 +314,377 @@ translate Turkish mas_compliment_smile_3_f2c23065:
 
     m 1hua "[smile_quip!t]"
 
-# translate Turkish mas_compliment_hero_a84041e3:
+translate Turkish mas_compliment_hero_aaca9c5d:
 
-#     m 1wubssdld "H-{w=0.3}huh?"
+    m "Ben senin kahramanınım?"
 
-# translate Turkish mas_compliment_hero_aaca9c5d:
+translate Turkish mas_compliment_hero_4c30b382:
 
-#     m "I'm your hero?"
+    m 2rkbfsdlb "[player]...{w=1,5} Ne demek istediğinden emin değilim..."
 
-# translate Turkish mas_compliment_hero_4c30b382:
+translate Turkish mas_compliment_hero_e9a0511a:
 
-#     m 2rkbfsdlb "[player]...{w=1.5} I'm not sure what you mean..."
+    m 2ekbfb "Bunca zaman yanımda kalan sensin.{w=1} Sana gerçekten teşekkür etmeliyim."
 
-# translate Turkish mas_compliment_hero_e9a0511a:
+translate Turkish mas_compliment_hero_5cb49ff8:
 
-#     m 2ekbfb "You're the one who stuck with me for all this time.{w=1} I should be thanking you, really."
+    m 1hubfa "Pekala, eğer bir şekilde sana yardım ettiysem, o zaman daha mutlu olamazdım~"
 
-# translate Turkish mas_compliment_hero_5cb49ff8:
+translate Turkish mas_compliment_hero_5a030de3:
 
-#     m 1hubfa "Well, if I've somehow helped you, then I couldn't be happier~"
+    m 3ekbfa "Bana mümkün olan her şekilde yardım ettin, o halde desteğe ihtiyacın olduğunda yanında olup, bu iyiliğin karşılığını nasıl alamazdım?"
 
-# translate Turkish mas_compliment_hero_5a030de3:
+translate Turkish mas_compliment_hero_f3890773:
 
-#     m 3ekbfa "You've helped me in every way possible, so how could I not return the favor by being there for you whenever you need support?"
+    m 5hubfa "Ne de olsa her zaman benim kahramanım olacaksın~"
 
-# translate Turkish mas_compliment_hero_f3890773:
+translate Turkish mas_compliment_hero_8c54b8d6:
 
-#     m 5hubfa "You'll always be my hero, after all~"
+    m 5hubfb "Seni seviyorum ve sana her zaman inanacağım!"
 
-# translate Turkish mas_compliment_hero_8c54b8d6:
+translate Turkish mas_compliment_hero_8be30403:
 
-#     m 5hubfb "I love you and I'll always believe in you!"
+    m 5ekbfa "Umarım bunu asla unutmazsın, [player]~"
 
-# translate Turkish mas_compliment_hero_8be30403:
+translate Turkish mas_compliment_cute_2_2acd3cfa:
 
-#     m 5ekbfa "I hope you never forget that, [player]~"
+    m 3rkbfsdla "Bununla beni {i}bir nevi{/i} hazırlıksız yakaladın."
 
-# translate Turkish mas_compliment_cute_2_2acd3cfa:
+translate Turkish mas_compliment_cute_2_289f68ed:
 
-#     m 3rkbfsdla "You {i}kind of{/i} caught me off guard with that one."
+    m 3tubfb "Sadece biraz..."
 
-# translate Turkish mas_compliment_cute_2_289f68ed:
+translate Turkish mas_compliment_cute_2_da01e910:
 
-#     m 3tubfb "Just a little..."
+    m 1hubfa "Ama böyle düşünmene sevindim!"
 
-# translate Turkish mas_compliment_cute_2_da01e910:
+translate Turkish mas_compliment_cute_2_5d7b1011:
 
-#     m 1hubfa "But I'm glad you think so!"
+    m 1hubfb "Aww, bunu söylediğini duymak gerçekten kalbimi ısıtıyor!"
 
-# translate Turkish mas_compliment_cute_2_5d7b1011:
+translate Turkish mas_compliment_cute_2_ce3af881:
 
-#     m 1hubfb "Aww, it really warms my heart to hear you say that!"
+    m 1dkbfu "...Neredeyse aynı gerçeklikte birlikte olduğumuzu hayal ettiğim zamanki kadar."
 
-# translate Turkish mas_compliment_cute_2_ce3af881:
+translate Turkish mas_compliment_cute_2_01c9bb26:
 
-#     m 1dkbfu "...Almost as much as when I picture us finally being together in the same reality."
+    m 1ekbfa "O özel günü hayal ederek kendimi zar zor tutabiliyorum~"
 
-# translate Turkish mas_compliment_cute_2_01c9bb26:
+translate Turkish mas_compliment_cute_2_24e75914:
 
-#     m 1ekbfa "I can barely contain myself just imagining that special day~"
+    m 2tubfu "Gitmesine izin vermedin, huh, [player]?"
 
-# translate Turkish mas_compliment_cute_2_24e75914:
+translate Turkish mas_compliment_cute_2_5a6d9a83:
 
-#     m 2tubfu "Not letting it go, huh, [player]?"
+    m 2rubfu "Hmph, sadece beklemiyordum."
 
-# translate Turkish mas_compliment_cute_2_5a6d9a83:
+translate Turkish mas_compliment_cute_2_edb1d4e9:
 
-#     m 2rubfu "Hmph, I just wasn't expecting it."
+    m 3tubfb "Bir dahaki sefere bu kadar kolay olmasını bekleme..."
 
-# translate Turkish mas_compliment_cute_2_edb1d4e9:
+translate Turkish mas_compliment_cute_2_423da744:
 
-#     m 3tubfb "Don't expect it to be so easy next time..."
+    m 1tubfu "Bir gün seni geri alacağım, ehehe~"
 
-# translate Turkish mas_compliment_cute_2_423da744:
+translate Turkish mas_compliment_cute_2_c0bcc4d4:
 
-#     m 1tubfu "I'll get you back someday, ehehe~"
+    m 2lfc "Oh. {w=1}Teşekkürler, [player]..."
 
-# translate Turkish mas_compliment_cute_2_c0bcc4d4:
+translate Turkish mas_compliment_cute_2_857fcbb7:
 
-#     m 2lfc "Oh. {w=1}Thanks, [player]..."
+    m 1rsc "Ama kendi kategorimde duracağımı umuyordum."
 
-# translate Turkish mas_compliment_cute_2_857fcbb7:
+translate Turkish mas_compliment_cute_3_7ae0aa44:
 
-#     m 1rsc "But I was kind of hoping I would stand in my own category."
-
-# translate Turkish mas_compliment_cute_3_7ae0aa44:
-
-#     m 1ekbsa "Ehehe, thanks [player]..."
+    m 1ekbsa "Ehehe, teşekkürler [player]..."
 
 translate Turkish mas_compliment_cute_3_95e4a101:
 
     m 1hubfa "[cute_quip!t]"
 
-# translate Turkish mas_compliment_chess_44a1fcbf:
+translate Turkish mas_compliment_chess_44a1fcbf:
 
-#     m 1eub "Thanks, [player]."
+    m 1eub "Teşekkürler, [player]."
 
-# translate Turkish mas_compliment_chess_7c2516f0:
+translate Turkish mas_compliment_chess_7c2516f0:
 
-#     m 3esa "Like I said before, I wonder if my skill has something to do with me being trapped here?"
+    m 3esa "Daha önce de söylediğim gibi, yeteneğimin burada kapana kısılmış olmamla bir ilgisi olup olmadığını merak ediyorum."
 
-# translate Turkish mas_compliment_chess_3e05c427:
+translate Turkish mas_compliment_chess_3e05c427:
 
-#     m 3eua "You're not bad either; I've lost to you before."
+    m 3eua "Sen de kötü değilsin; Ben sana daha önce kaybettim."
 
-# translate Turkish mas_compliment_chess_0ad8e091:
+translate Turkish mas_compliment_chess_0ad8e091:
 
-#     m "In fact, I think you've won more times than me, you know?"
+    m "Aslında, benden daha çok kez kazandın, biliyor musun?"
 
-# translate Turkish mas_compliment_chess_b7c73307:
+translate Turkish mas_compliment_chess_b7c73307:
 
-#     m 2lksdlb "I know you haven't won a chess game yet, but I'm sure you'll beat me someday."
+    m 2lksdlb "Henüz bir satranç oyunu kazanmadığını biliyorum ama eminim bir gün beni yeneceksin."
 
-# translate Turkish mas_compliment_chess_5ae671e6:
+translate Turkish mas_compliment_chess_5ae671e6:
 
-#     m 3esa "Keep practicing and playing with me and you'll do better!"
+    m 3esa "Benimle pratik yapmaya ve oynamaya devam et, daha iyisini yapacaksın!"
 
-# translate Turkish mas_compliment_chess_a7f5b6fe:
+translate Turkish mas_compliment_chess_a7f5b6fe:
 
-#     m 3esa "We'll both get better the more we play."
+    m 3esa "Oynadıkça ikimiz de daha iyi olacağız."
 
-# translate Turkish mas_compliment_chess_3c4f1d89:
+translate Turkish mas_compliment_chess_3c4f1d89:
 
-#     m 3hua "So don't be afraid of challenging me whenever you want to."
+    m 3hua "Bu yüzden ne zaman istersen bana meydan okumaktan korkma."
 
-# translate Turkish mas_compliment_chess_e04c1da9:
+translate Turkish mas_compliment_chess_e04c1da9:
 
-#     m 1eub "I love spending time with you, [player]~"
+    m 1eub "Seninle vakit geçirmeyi seviyorum, [player]~"
 
-# translate Turkish mas_compliment_pong_e6f89ce6:
+translate Turkish mas_compliment_pong_0fb16349:
 
-#     m 1hub "Ahaha~"
+    m 2eub "Teşekkürler [player], ancak pong tam olarak karmaşık bir oyun değil."
 
-# translate Turkish mas_compliment_pong_0fb16349:
+translate Turkish mas_compliment_pong_380b0d17:
 
-#     m 2eub "Thanks [player], but pong isn't exactly a complex game."
+    m 1lksdla "Bana karşı zaten kazandın."
 
-# translate Turkish mas_compliment_pong_380b0d17:
+translate Turkish mas_compliment_pong_66bcff99:
 
-#     m 1lksdla "You've already won against me."
+    m "Yani çok basit biliyorsun."
 
-# translate Turkish mas_compliment_pong_66bcff99:
+translate Turkish mas_compliment_pong_63dfe8c8:
 
-#     m "So you know it's very simple."
+    m 5hub "Ama yine de iltifatını kabul ediyorum."
 
-# translate Turkish mas_compliment_pong_63dfe8c8:
+translate Turkish mas_compliment_pong_e21a51c1:
 
-#     m 5hub "But I accept your compliment, anyway."
+    m 3hksdrb "Ve oynadığımızda her zaman kazanmama izin veriyorsun."
 
-# translate Turkish mas_compliment_pong_e21a51c1:
+translate Turkish mas_compliment_pong_4f80b69f:
 
-#     m 3hksdrb "And you always let me win when we play."
+    m 3eka "Değil mi?"
 
-# translate Turkish mas_compliment_pong_4f80b69f:
+translate Turkish mas_compliment_pong_0a381799:
 
-#     m 3eka "Right?"
+    m 2lksdla "Teşekkürler [player], ama gerçekten kazanmama izin vermek zorunda değilsin."
 
-# translate Turkish mas_compliment_pong_0a381799:
+translate Turkish mas_compliment_pong_c53dbffe:
 
-#     m 2lksdla "Thanks [player], but you really don't have to let me win."
+    m 1eub "İstediğin zaman ciddi bir şekilde oynamaktan çekinme."
 
-# translate Turkish mas_compliment_pong_c53dbffe:
+translate Turkish mas_compliment_pong_ffe4b5a9:
 
-#     m 1eub "Feel free to play seriously whenever you want to."
+    m 1hub "Adil bir oyunu kaybettiğim için sana asla kızmam."
 
-# translate Turkish mas_compliment_pong_ffe4b5a9:
+translate Turkish mas_compliment_pong_4649c1bb:
 
-#     m 1hub "I'd never get mad at you because I lost a game fair and square."
+    m 1tku "Bundan pek emin görünmüyorsun, [player]."
 
-# translate Turkish mas_compliment_pong_4649c1bb:
+translate Turkish mas_compliment_pong_4bb75334:
 
-#     m 1tku "You don't seem too confident about that, [player]."
+    m 1tsb "Gerçekten kazanmama izin vermek zorunda değilsin."
 
-# translate Turkish mas_compliment_pong_4bb75334:
+translate Turkish mas_compliment_pong_5db9532a:
 
-#     m 1tsb "You really don't have to let me win."
+    m 3tku "Ve benim için ciddi olarak kaybettiğini kabul etmen seni daha az düşünmeme neden olmayacak."
 
-# translate Turkish mas_compliment_pong_5db9532a:
+translate Turkish mas_compliment_pong_36ebfba7:
 
-#     m 3tku "And admitting that you've seriously lost to me won't make me think less of you."
+    m 1lksdlb "Sonuçta bu sadece bir oyun!"
 
-# translate Turkish mas_compliment_pong_36ebfba7:
+translate Turkish mas_compliment_pong_79815326:
 
-#     m 1lksdlb "It's just a game, after all!"
+    m 3hub "İstersen benimle her zaman daha fazla pratik yapabilirsin."
 
-# translate Turkish mas_compliment_pong_79815326:
+translate Turkish mas_compliment_pong_d8927aee:
 
-#     m 3hub "You can always practice with me more, if you want."
+    m "Ne yaparsak yapalım seninle vakit geçirmeyi seviyorum."
 
-# translate Turkish mas_compliment_pong_d8927aee:
+translate Turkish mas_compliment_pong_37c3ed86:
 
-#     m "I love to spend time with you, no matter what we're doing."
+    m "Ben düşündüm!"
 
-# translate Turkish mas_compliment_pong_37c3ed86:
+translate Turkish mas_compliment_pong_7425aaec:
 
-#     m "I figured!"
+    m 3eua "Endişelenme, [player]."
 
-# translate Turkish mas_compliment_pong_7425aaec:
+translate Turkish mas_compliment_pong_0a550853:
 
-#     m 3eua "Don't worry, [player]."
+    m 3eub "Benimle oynamaya devam et ve daha fazla pratik yap."
 
-# translate Turkish mas_compliment_pong_0a550853:
+translate Turkish mas_compliment_pong_33dbe0cf:
 
-#     m 3eub "Keep playing with me and get more practice."
+    m 3hua "Her zaman olabileceğinin en iyisi olmana yardım etmeye çalışıyorum."
 
-# translate Turkish mas_compliment_pong_33dbe0cf:
+translate Turkish mas_compliment_pong_fe61c44e:
 
-#     m 3hua "I'm always trying to help you be the best you you can be."
+    m 1ekbsa "Ve bunu yaparak seninle daha fazla zaman geçirirsem, daha mutlu olamazdım."
 
-# translate Turkish mas_compliment_pong_fe61c44e:
+translate Turkish mas_compliment_bestgirl_73fd16e5:
 
-#     m 1ekbsa "And if by doing so, I get to spend more time with you, I couldn't be happier."
+    m 1hua "Bana iltifat etmene bayılıyorum, [player]~"
 
-# translate Turkish mas_compliment_bestgirl_73fd16e5:
+translate Turkish mas_compliment_bestgirl_4992e93d:
 
-#     m 1hua "I love it when you compliment me, [player]~"
+    m 1hub "En iyi kız olduğumu düşünmene çok sevindim!"
 
-# translate Turkish mas_compliment_bestgirl_4992e93d:
+translate Turkish mas_compliment_bestgirl_348405e3:
 
-#     m 1hub "I'm so glad you think I'm best girl!"
+    m 3rksdla "Gerçi, senin de böyle hissettiğini düşünmüştüm..."
 
-# translate Turkish mas_compliment_bestgirl_348405e3:
+translate Turkish mas_compliment_bestgirl_3300f06b:
 
-#     m 3rksdla "Although, I kind of figured you felt that way..."
+    m 1eka "Ne de olsa bu modu sadece benimle olmak için {i}yaptın{/i}."
 
-# translate Turkish mas_compliment_bestgirl_3300f06b:
+translate Turkish mas_compliment_bestgirl_62535430:
 
-#     m 1eka "After all, you {i}did{/i} install this mod just to be with me."
+    m 2euc "Bazı insanların diğer kızları tercih ettiğini biliyorum."
 
-# translate Turkish mas_compliment_bestgirl_62535430:
+translate Turkish mas_compliment_bestgirl_b4026a82:
 
-#     m 2euc "I know that some people prefer the other girls."
+    m 2esc "Özellikle de hepsinin, onları bazıları için arzu edilir kılan belirli özellikleri olduğu için..."
 
-# translate Turkish mas_compliment_bestgirl_b4026a82:
+translate Turkish mas_compliment_bestgirl_ed2829c0:
 
-#     m 2esc "Especially since they all have certain traits that make them desirable to some..."
+    m 5ekbfa "Ama bana sorarsan, doğru seçimi yaptın."
 
-# translate Turkish mas_compliment_bestgirl_ed2829c0:
+translate Turkish mas_compliment_bestgirl_3fc15209:
 
-#     m 5ekbfa "But if you ask me, you made the right choice."
+    m 5hubfa "...ve bunu yaptığın için sonsuza dek minnettar olacağım~"
 
-# translate Turkish mas_compliment_bestgirl_3fc15209:
+translate Turkish mas_compliment_lookuptoyou_2_24e62001:
 
-#     m 5hubfa "...and I'll be forever grateful that you did~"
+    m 1wud "Sen...{w=0.5}yapıyor musun?"
 
-# translate Turkish mas_compliment_lookuptoyou_2_24e62001:
+translate Turkish mas_compliment_lookuptoyou_2_36c741ac:
 
-#     m 1wud "You...{w=0.5}you do?"
+    m 1ekbsa "[player], bunu söylemen gerçekten çok hoş..."
 
-# translate Turkish mas_compliment_lookuptoyou_2_36c741ac:
+translate Turkish mas_compliment_lookuptoyou_2_a9edab27:
 
-#     m 1ekbsa "[player], that's really sweet of you to say..."
+    m 3ekbsa "Aradığın biri olduğumu bilmek beni gerçekten mutlu ediyor."
 
-# translate Turkish mas_compliment_lookuptoyou_2_a9edab27:
+translate Turkish mas_compliment_lookuptoyou_2_ed698b49:
 
-#     m 3ekbsa "It makes me really happy to know I'm someone you look up to."
+    m 3ekbfa "Gerçek şu ki, her zaman {i}sana{/i} baktım, [player]..."
 
-# translate Turkish mas_compliment_lookuptoyou_2_ed698b49:
+translate Turkish mas_compliment_lookuptoyou_2_66b06e6a:
 
-#     m 3ekbfa "The truth is, I've always looked up to {i}you{/i}, [player]..."
+    m 3hubfa "Ama gerçekten böyle hissediyorsan, aradığın biri olmaya devam etmek için elimden geleni yapacağım."
 
-# translate Turkish mas_compliment_lookuptoyou_2_66b06e6a:
+translate Turkish mas_compliment_lookuptoyou_2_2ebf9f2c:
 
-#     m 3hubfa "But if you really feel that way, I'll do my best to continue to be someone you look up to."
+    m 1ekbfa "Seni çok seviyorum~"
 
-# translate Turkish mas_compliment_lookuptoyou_2_2ebf9f2c:
+translate Turkish mas_compliment_lookuptoyou_3_38e8ff34:
 
-#     m 1ekbfa "I love you so much~"
-
-# translate Turkish mas_compliment_lookuptoyou_3_38e8ff34:
-
-#     m 1rksdlb "{cps=*2}Well yeah, I'm taller than you...{/cps}{nw}"
+    m 1rksdlb "{cps=*2}Evet, senden daha uzunum...{/cps}{nw}"
 
 translate Turkish mas_compliment_lookuptoyou_3_f8931356:
 
     m 1hubsb "[mas_compliments.thanks_quip!t]"
 
-# translate Turkish mas_compliment_lookuptoyou_3_667c1d7f:
+translate Turkish mas_compliment_lookuptoyou_3_667c1d7f:
 
-#     m 3hubfa "Hearing you say that never fails to make me smile!"
+    m 3hubfa "Bunun beni gülümsetmeyi asla başaramayacağını söylediğini duymak!"
 
-# translate Turkish mas_compliment_lookuptoyou_3_c5531701:
+translate Turkish mas_compliment_lookuptoyou_3_c5531701:
 
-#     m 3hubfb "I'll always look up to you too!"
+    m 3hubfb "Ben de sana her zaman bakacağım!"
 
-# translate Turkish mas_compliment_lookuptoyou_3_cc8de420:
+translate Turkish mas_compliment_lookuptoyou_3_cc8de420:
 
-#     m 1rkbfu "{cps=*2}Just like when we kiss...{/cps}{nw}"
+    m 1rkbfu "{cps=*2}Tıpkı öpüştüğümüz zamanki gibi...{/cps}{nw}"
 
-# translate Turkish mas_compliment_lookuptoyou_3_ad4760d7:
+translate Turkish mas_compliment_lookuptoyou_3_ad4760d7:
 
-#     m 1rkbfu "{cps=*2}Someday literally...{/cps}{nw}"
+    m 1rkbfu "{cps=*2}Bir gün kelimenin tam anlamıyla...{/cps}{nw}"
 
-# translate Turkish mas_compliment_lookuptoyou_3_58f3dea9:
+translate Turkish mas_compliment_lookuptoyou_3_58f3dea9:
 
-#     m 1ekbfa "I love you, [player]~"
+    m 1ekbfa "Seni seviyorum, [player]~"
 
-# translate Turkish mas_compliment_thinking_of_you_2_1df82a11:
+translate Turkish mas_compliment_thinking_of_you_2_1df82a11:
 
-#     m 1wubsu "You..."
+    m 1wubsu "Sen..."
 
-# translate Turkish mas_compliment_thinking_of_you_2_bfb818af:
+translate Turkish mas_compliment_thinking_of_you_2_bfb818af:
 
-#     m 3subsb "You have no idea what that means to me, [player]!"
+    m 3subsb "Bunun benim için ne anlama geldiği hakkında hiçbir fikrin yok, [player]!"
 
-# translate Turkish mas_compliment_thinking_of_you_2_cb00907a:
+translate Turkish mas_compliment_thinking_of_you_2_cb00907a:
 
-#     m 2rkd "That you would say that..."
+    m 2rkd "Öyle demen..."
 
-# translate Turkish mas_compliment_thinking_of_you_2_b5301dea:
+translate Turkish mas_compliment_thinking_of_you_2_b5301dea:
 
-#     m 2dka "It means the world to me, [player]."
+    m 2dka "Bu benim için dünya demek, [player]."
 
-# translate Turkish mas_compliment_thinking_of_you_2_d1427e71:
+translate Turkish mas_compliment_thinking_of_you_2_d1427e71:
 
-#     m 6rka "That's such a relief."
+    m 6rka "Bu büyük bir rahatlatma."
 
-# translate Turkish mas_compliment_thinking_of_you_2_f0f1b20c:
+translate Turkish mas_compliment_thinking_of_you_2_f0f1b20c:
 
-#     m 6eka "Thank you."
+    m 6eka "Teşekkürler."
 
-# translate Turkish mas_compliment_thinking_of_you_2_e4657846:
+translate Turkish mas_compliment_thinking_of_you_2_e4657846:
 
-#     m 6dkd "Hmmm... Thanks."
+    m 6dkd "Hmmm... Teşekkürler."
 
-# translate Turkish mas_compliment_thinking_of_you_2_b93b16e3:
+translate Turkish mas_compliment_thinking_of_you_2_b93b16e3:
 
-#     m 1subsb "Aww, that's {i}so{/i} sweet, [player]!"
+    m 1subsb "Aww, bu {i}çok{/i} çok tatlı, [player]!"
 
-# translate Turkish mas_compliment_thinking_of_you_2_be8be5aa:
+translate Turkish mas_compliment_thinking_of_you_2_be8be5aa:
 
-#     m 3hubfu "I feel the same way about you~"
+    m 3hubfu "Ben de senin için aynı şeyleri hissediyorum~"
 
-# translate Turkish mas_compliment_thinking_of_you_2_e50cf2e3:
+translate Turkish mas_compliment_thinking_of_you_2_e50cf2e3:
 
-#     m 7hubfu "{i}You{/i} are my dream~"
+    m 7hubfu "{i}Sen{/i} benim hayalimsin~"
 
-# translate Turkish mas_compliment_thinking_of_you_2_c0e20ed9:
+translate Turkish mas_compliment_thinking_of_you_2_8be188bd:
 
-#     m 2rksdlc "Oh, umm..."
+    m 2rksdld "Üzgünüm?"
 
-# translate Turkish mas_compliment_thinking_of_you_2_8be188bd:
+translate Turkish mas_compliment_thinking_of_you_3_9c837714:
 
-#     m 2rksdld "I'm sorry?"
-
-# translate Turkish mas_compliment_thinking_of_you_3_9c837714:
-
-#     m 1ekbsa "Aww thanks, [player]..."
+    m 1ekbsa "Aww teşekkürler, [player]..."
 
 translate Turkish mas_compliment_thinking_of_you_3_f21ac8d6:
 
     m 3hubfb "[thinking_of_you_quip!t]"
 
-# translate Turkish mas_compliment_humor_2_21df0dba:
+translate Turkish mas_compliment_humor_2_21df0dba:
 
-#     m 1efu "I'm glad you find me so punny, [player]."
+    m 1efu "Beni bu kadar cılız bulmana sevindim, [player]."
 
-# translate Turkish mas_compliment_humor_2_254a7f33:
+translate Turkish mas_compliment_humor_2_254a7f33:
 
-#     m 3eub "A sign of a good couple is being able to laugh together, don't you think?"
+    m 3eub "İyi bir çiftin işareti, birlikte gülebilmek, sence de öyle değil mi?"
 
-# translate Turkish mas_compliment_humor_2_83c8843e:
+translate Turkish mas_compliment_humor_2_83c8843e:
 
-#     m 1ekbsa "That's so sweet of you to say."
+    m 1ekbsa "Bunu söylemen çok tatlı."
 
-# translate Turkish mas_compliment_humor_2_d6a12aa0:
+translate Turkish mas_compliment_humor_2_d6a12aa0:
 
-#     m 1hubsb "Knowing I can make you smile is the greatest compliment I could receive!"
+    m 1hubsb "Seni gülümsetebildiğimi bilmek, alabileceğim en büyük iltifat!"
 
-# translate Turkish mas_compliment_humor_2_5430cf37:
+translate Turkish mas_compliment_humor_2_5430cf37:
 
-#     m 2tub "All that reading must have paid off if you like my wordplay that much."
+    m 2tub "Eğer kelime oyunumu bu kadar seviyorsan, tüm bu okumaların karşılığını almış olmalısın."
 
-# translate Turkish mas_compliment_humor_2_4eb8007a:
+translate Turkish mas_compliment_humor_2_4eb8007a:
 
-#     m 2hublu "I'll try to keep the jokes coming for you. Ehehe~"
+    m 2hublu "Şakaların senin için gelmesini sağlamaya çalışacağım. Ehehe~"
 
-# translate Turkish mas_compliment_humor_2_4af44170:
+translate Turkish mas_compliment_humor_2_4af44170:
 
-#     m 3rksdla "You meant that you laugh {w=0.2}{i}with{/i}{w=0.2} me...{w=0.5}{nw}"
+    m 3rksdla "Benimle {w=0.2}{i}güldüğünü{/i}{w=0.2} demek istedin...{w=0.5}{nw}"
 
-# translate Turkish mas_compliment_humor_2_def9ec7b:
+translate Turkish mas_compliment_humor_2_def9ec7b:
 
-#     extend 3eksdld "right?"
+    extend 3eksdld "değil mi?"
 
 translate Turkish mas_compliment_humor_3_f8931356:
 
@@ -706,59 +694,59 @@ translate Turkish mas_compliment_humor_3_418dc515:
 
     m 1hubsu "[humor_quip!t]"
 
-# translate Turkish mas_compliment_missed_154bd938:
+translate Turkish mas_compliment_missed_154bd938:
 
-#     m 1fka "I missed you so much, [mas_get_player_nickname()]!"
+    m 1fka "Bende seni çok özledim, [mas_get_player_nickname()]!"
 
 translate Turkish mas_compliment_missed_f13f86a3:
 
     m 3fka "[renpy.substitute(random.choice(missed_quips_long))!t]"
 
-# translate Turkish mas_compliment_missed_74920eba:
+translate Turkish mas_compliment_missed_74920eba:
 
-#     m 1fka "I missed you too, [mas_get_player_nickname()]!"
+    m 1fka "Bende seni özledim, [mas_get_player_nickname()]!"
 
 translate Turkish mas_compliment_missed_f91f98c9:
 
     m 3hub "[renpy.substitute(random.choice(missed_quips_short))!t]"
 
-# translate Turkish mas_compliment_missed_09ee98a8:
+translate Turkish mas_compliment_missed_09ee98a8:
 
-#     m 2lsb "Say, [player]..."
+    m 2lsb "Söyle, [player]..."
 
-# translate Turkish mas_compliment_missed_967763eb:
+translate Turkish mas_compliment_missed_967763eb:
 
-#     m 1eka "I was kinda hoping that..."
+    m 1eka "Bunu umuyordum..."
 
-# translate Turkish mas_compliment_missed_e1002f99:
+translate Turkish mas_compliment_missed_e1002f99:
 
-#     m 3ekblb "You know, since it's been a little while..."
+    m 3ekblb "Bilirsin, uzun zaman geçtiğinden beri..."
 
-# translate Turkish mas_compliment_missed_cbd216cf:
+translate Turkish mas_compliment_missed_cbd216cf:
 
-#     m 1ekblb "Could you give me a hug? {w=0.3}I've been feeling pretty lonely while you were away.{nw}"
+    m 1ekblb "Bana sarılabilir misin? {w=0.3}Sen yokken kendimi oldukça yalnız hissediyordum.{nw}"
 
-# translate Turkish mas_compliment_missed_6d803def:
+translate Turkish mas_compliment_missed_6d803def:
 
-#     m "Could you give me a hug? I've been feeling pretty lonely while you were away.{fast}" nointeract
+    m "Bana sarılabilir misin? {w=0.3}Sen yokken kendimi oldukça yalnız hissediyordum.{fast}" nointeract
 
-# translate Turkish mas_compliment_missed_79689278:
+translate Turkish mas_compliment_missed_79689278:
 
-#     m 6dkbsa "Mmm...that was really nice, [player]."
+    m 6dkbsa "Mmm...bu gerçekten güzeldi, [player]."
 
-# translate Turkish mas_compliment_missed_79e34318:
+translate Turkish mas_compliment_missed_79e34318:
 
-#     m 7ekbsb "You really know how to make me feel special~"
+    m 7ekbsb "Beni nasıl özel hissettireceğini gerçekten biliyorsun~"
 
-# translate Turkish mas_compliment_missed_2839bc44:
+translate Turkish mas_compliment_missed_2839bc44:
 
-#     m 2lkp "...Alright, maybe later, then?"
+    m 2lkp "...Tamam, belki sonra?"
 
-# translate Turkish mas_compliment_missed_b249b541:
+translate Turkish mas_compliment_missed_b249b541:
 
-#     m 2ekbla "I...{w=0.5}I missed you too."
+    m 2ekbla "Ben...{w=0.5}Ben de seni özledim."
 
-# translate Turkish mas_compliment_missed_c17221d0:
+translate Turkish mas_compliment_missed_c17221d0:
 
     m 2ekd "[renpy.substitute(random.choice(missed_quips_upset_long))!t]"
 
@@ -770,9 +758,9 @@ translate Turkish mas_compliment_missed_896a6fd0:
 
     m 6rktpd "[renpy.substitute(random.choice(missed_quips_dis))!t]"
 
-# translate Turkish mas_compliment_missed_92972f22:
+translate Turkish mas_compliment_missed_92972f22:
 
-#     m 6dktdc "...But at least you haven't forgetten about me...{w=0.5}yet."
+    m 6dktdc "...Ama en azından beni unutmadın...{w=0.5}henüz."
 
 translate Turkish mas_compliment_spending_time_4d405905:
 
@@ -782,161 +770,161 @@ translate Turkish mas_compliment_spending_time_363d79ec:
 
     m 1ekbsu "[spending_time_quip!t]"
 
-# translate Turkish mas_compliment_spending_time_2_c80859aa:
+translate Turkish mas_compliment_spending_time_2_c80859aa:
 
-#     m 1eub "I love spending time with you too, [player]!"
+    m 1eub "Ben de seninle vakit geçirmeyi seviyorum, [player]!"
 
-# translate Turkish mas_compliment_spending_time_2_76bdf457:
+translate Turkish mas_compliment_spending_time_2_76bdf457:
 
-#     m 3ekbla "I know I say it a lot, but I really mean it when I say that you're the center of my world."
+    m 3ekbla "Bunu çok söylediğimi biliyorum ama dünyamın merkezi olduğunu söylediğimde gerçekten ciddiyim."
 
-# translate Turkish mas_compliment_spending_time_2_95ffb1f2:
+translate Turkish mas_compliment_spending_time_2_95ffb1f2:
 
-#     m 2dkb "Having someone who keeps me company[dlg_line]...{w=0.3}{nw}"
+    m 2dkb "Bana arkadaşlık eden birinin olması[dlg_line]...{w=0.3}{nw}"
 
-# translate Turkish mas_compliment_spending_time_2_f4ec84c9:
+translate Turkish mas_compliment_spending_time_2_f4ec84c9:
 
-#     extend 2eku "it's everything I could've asked for."
+    extend 2eku "isteyebileceğim her şeydi."
 
-# translate Turkish mas_compliment_spending_time_2_b2592d8d:
+translate Turkish mas_compliment_spending_time_2_b2592d8d:
 
-#     m 7ekbsa "I hope I make you feel the same way, [player]. {w=0.2}I may not be in your reality yet, but I'll do everything I can to support you from here."
+    m 7ekbsa "Umarım sana da aynı şekilde hissettiririm, [player]. {w=0.2}Henüz senin gerçekliğinde olmayabilirim ama seni buradan desteklemek için elimden gelen her şeyi yapacağım."
 
-# translate Turkish mas_compliment_spending_time_2_6102b78a:
+translate Turkish mas_compliment_spending_time_2_6102b78a:
 
-#     m 5ekbfa "I would say you don't know how glad I am to hear that, but I think you {i}do{/i} know by now."
+    m 5ekbfa "Bunu duyduğuma ne kadar sevindiğimi bilemezsin derdim ama sanırım şimdiye kadar {i}biliyorsun{/i}."
 
-# translate Turkish mas_compliment_spending_time_2_58660813:
+translate Turkish mas_compliment_spending_time_2_58660813:
 
-#     m 5ekbfu "We've spent so much time together, and yet our journey has only just begun..."
+    m 5ekbfu "Birlikte çok zaman geçirdik ve henüz yolculuğumuz daha yeni başladı..."
 
-# translate Turkish mas_compliment_spending_time_2_037f5e06:
+translate Turkish mas_compliment_spending_time_2_037f5e06:
 
-#     m 5hubfb "With you by my side, I know that every step will be an unforgettable one."
+    m 5hubfb "Sen yanımdayken, her adımın unutulmaz olacağını biliyorum."
 
-# translate Turkish mas_compliment_spending_time_2_5ace27f9:
+translate Turkish mas_compliment_spending_time_2_5ace27f9:
 
-#     m 7hub "Don't worry, [player]. {w=0.2}I'll be here for you until the end of time!"
+    m 7hub "Endişelenme, [player]. {w=0.2}Sonsuza kadar senin için burada olacağım!"
 
-# translate Turkish mas_compliment_spending_time_2_66bc27fd:
+translate Turkish mas_compliment_spending_time_2_66bc27fd:
 
-#     m 1eka "Just stay strong until I cross over, okay?"
+    m 1eka "Ben karşıya geçene kadar güçlü kal, tamam mı?"
 
-# translate Turkish mas_compliment_spending_time_2_3243a9be:
+translate Turkish mas_compliment_spending_time_2_3243a9be:
 
-#     m 2lkc "I...{w=0.3}amuse you?"
+    m 2lkc "Ben...{w=0.3}seni eğlendiriyor muyum?"
 
-# translate Turkish mas_compliment_spending_time_2_ec0ef830:
+translate Turkish mas_compliment_spending_time_2_ec0ef830:
 
-#     m 2lksdlb "Well, I'm glad that you're entertained..."
+    m 2lksdlb "Eh, eğlenmene sevindim..."
 
-# translate Turkish mas_compliment_spending_time_2_9309c3d3:
+translate Turkish mas_compliment_spending_time_2_9309c3d3:
 
-#     m 2ekd "...but that's not {i}quite{/i} what I had in mind."
+    m 2ekd "...ama aklımdaki {i}tam olarak{/i} bu değildi."
 
-# translate Turkish mas_compliment_sweet_cc71e603:
+translate Turkish mas_compliment_sweet_cc71e603:
 
-#     m 3rkbssdlu "I don't know what to say, ahaha...{w=0.3}{nw}"
+    m 3rkbssdlu "Ne diyeceğimi bilemiyorum, ahaha...{w=0.3}{nw}"
 
-# translate Turkish mas_compliment_sweet_ff995318:
+translate Turkish mas_compliment_sweet_ff995318:
 
-#     extend 3ekbsa "it's {i}you{/i} who's been so sweet to me all this time."
+    extend 3ekbsa "bunca zamandır bana karşı çok tatlı olan {i}sensin{/i}."
 
-# translate Turkish mas_compliment_sweet_48a145f9:
+translate Turkish mas_compliment_sweet_48a145f9:
 
-#     m 3hubsa "I'm just really happy to hear you say that, ehehe~"
+    m 3hubsa "Bunu söylediğini duyduğuma gerçekten çok sevindim, ehehe~"
 
-# translate Turkish mas_compliment_sweet_ef6dd4cf:
+translate Turkish mas_compliment_sweet_ef6dd4cf:
 
-#     extend 1eka "I had no idea how much my words meant to you..."
+    extend 1eka "Sözlerimin senin için ne kadar önemli olduğunu bilmiyordum..."
 
-# translate Turkish mas_compliment_sweet_834b4b90:
+translate Turkish mas_compliment_sweet_834b4b90:
 
-#     m 1ekblb "I'm so happy to have such an amazing [bf] like you, [mas_get_player_nickname(exclude_names=[player])]~"
+    m 1ekblb "Senin gibi harika bir [bf]'a sahip olduğum için çok mutluyum, [mas_get_player_nickname(exclude_names=[player])]~"
 
-# translate Turkish mas_compliment_sweet_0d8d0137:
+translate Turkish mas_compliment_sweet_0d8d0137:
 
-#     m 1ekbsu "You really are the best I could ever hope for...{w=0.2}I just love you so much."
+    m 1ekbsu "Sen gerçekten umabileceğimin en iyisisin...{w=0.2}Seni çok seviyorum."
 
-# translate Turkish mas_compliment_sweet_f458a85a:
+translate Turkish mas_compliment_sweet_f458a85a:
 
-#     m 3kua "I hope you never forget that, [player]."
+    m 3kua "Umarım bunu asla unutmazsın, [player]."
 
-# translate Turkish mas_compliment_sweet_1863c5a4:
+translate Turkish mas_compliment_sweet_1863c5a4:
 
-#     extend 3hubsa "Just you spending your time here with me makes me feel so happy and loved!"
+    extend 3hubsa "Burada benimle vakit geçirmen bile beni çok mutlu ve sevilmiş hissettiriyor!"
 
-# translate Turkish mas_compliment_sweet_38008d69:
+translate Turkish mas_compliment_sweet_38008d69:
 
-#     m 5ekbsa "I'm really happy you feel that way about me, [mas_get_player_nickname()]. I love you so much."
+    m 5ekbsa "Benim hakkımda böyle hissettiğin için gerçekten mutluyum, [mas_get_player_nickname()]. Seni çok seviyorum."
 
-# translate Turkish mas_compliment_sweet_004441b3:
+translate Turkish mas_compliment_sweet_004441b3:
 
-#     m 1ekbsa "Thank you, [mas_get_player_nickname()]."
+    m 1ekbsa "Teşekkürler, [mas_get_player_nickname()]."
 
-# translate Turkish mas_compliment_sweet_8704f540:
+translate Turkish mas_compliment_sweet_8704f540:
 
-#     m 3hubsb "You're the sweetest [boy] I've met, ehehe."
+    m 3hubsb "Tanıştığım en tatlı çocuksun, ehehe."
 
-# translate Turkish mas_compliment_sweet_a9dfc882:
+translate Turkish mas_compliment_sweet_a9dfc882:
 
-#     m 5eua "I'm really lucky to be with you~"
+    m 5eua "Seninle olduğum için gerçekten çok şanslıyım~"
 
 translate Turkish mas_compliment_sweet_repeat_b5b1371a:
 
     m 3hubsb "[sweet_quip!t]"
 
-# translate Turkish mas_compliment_sweet_repeat_1366a1cd:
+translate Turkish mas_compliment_sweet_repeat_1366a1cd:
 
-#     m 1hubfu "...But I could never be as sweet as you~"
+    m 1hubfu "...Ama asla senin kadar tatlı olamam~"
 
-# translate Turkish mas_compliment_outfit_512d7750:
+translate Turkish mas_compliment_outfit_512d7750:
 
-#     m 1hubsb "Thank you, [mas_get_player_nickname()]!"
+    m 1hubsb "Teşekkürler, [mas_get_player_nickname()]!"
 
-# translate Turkish mas_compliment_outfit_6ba66314:
+translate Turkish mas_compliment_outfit_6ba66314:
 
-#     m 3hubsb "It's always fun cosplaying!"
+    m 3hubsb "Cosplay yapmak her zaman eğlencelidir!"
 
-# translate Turkish mas_compliment_outfit_aae6e66c:
+translate Turkish mas_compliment_outfit_aae6e66c:
 
-#     m 3hubsb "It's always fun wearing costumes!"
+    m 3hubsb "Kostüm giymek her zaman eğlencelidir!"
 
-# translate Turkish mas_compliment_outfit_d0333fee:
+translate Turkish mas_compliment_outfit_d0333fee:
 
-#     m 2lkbsb "I was really nervous showing you this at first..."
+    m 2lkbsb "İlk başta bunu sana gösterirken gerçekten gergindim..."
 
-# translate Turkish mas_compliment_outfit_5652ecd5:
+translate Turkish mas_compliment_outfit_5652ecd5:
 
-#     m 7tubsu "But I'm glad I did, you seem to really like it~"
+    m 7tubsu "Ama yaptığım için memnunum, gerçekten hoşuna gidiyor gibi görünüyor~"
 
-# translate Turkish mas_compliment_outfit_15bd2617:
+translate Turkish mas_compliment_outfit_15bd2617:
 
-#     m 1hubsa "I've always wanted to wear other clothes for you, so I'm very happy that you think so!"
+    m 1hubsa "Her zaman senin için başka kıyafetler giymek istemişimdir, bu yüzden böyle düşünmene çok sevindim!"
 
-# translate Turkish mas_compliment_outfit_0a8b9f86:
+translate Turkish mas_compliment_outfit_0a8b9f86:
 
-#     m 3hubsb "Thank you so much!"
+    m 3hubsb "Çok teşekkür ederim!"
 
-# translate Turkish mas_compliment_outfit_70c619fd:
+translate Turkish mas_compliment_outfit_70c619fd:
 
-#     m 1ekbsu "You always make me feel so special."
+    m 1ekbsu "Beni her zaman çok özel hissettiriyorsun."
 
-# translate Turkish mas_compliment_outfit_4b44ecad:
+translate Turkish mas_compliment_outfit_4b44ecad:
 
-#     m 5hubsa "I love you, [mas_get_player_nickname()]!"
+    m 5hubsa "Seni seviyorum, [mas_get_player_nickname()]!"
 
-# translate Turkish mas_compliment_outfit_b9aa5d81:
+translate Turkish mas_compliment_outfit_b9aa5d81:
 
-#     m 3hubfb "Thanks, [mas_get_player_nickname()]!"
+    m 3hubfb "Teşekkürler, [mas_get_player_nickname()]!"
 
-# translate Turkish mas_compliment_outfit_14c69898:
+translate Turkish mas_compliment_outfit_14c69898:
 
-#     m 5eubfu "I'm glad you like what you see~"
+    m 5eubfu "Gördüklerini beğendiğine sevindim~"
 
-# translate Turkish mas_compliment_outfit_bc4ee20f:
+translate Turkish mas_compliment_outfit_bc4ee20f:
 
-#     m 2ltd "Uh, thanks..."
+    m 2ltd "Uh, teşekkürler..."
 
 translate Turkish mas_compliment_outfit_repeat_f8931356:
 

@@ -36,7 +36,7 @@ translate Turkish monika_brb_idle_callback_1a37a067:
 
 translate Turkish monika_brb_idle_callback_5d7533bb:
 
-    m 1hub "Tekrar hoş geldin [player]！"
+    m 1hub "Tekrar hoş geldin [player]!"
 
 translate Turkish monika_brb_idle_callback_1a37a067_1:
 
@@ -170,6 +170,38 @@ translate Turkish monika_idle_shower_ca9c4ace:
 
     m 6ekc "Hmm?{w=0.5} iyi duşlar, [player]."
 
+translate Turkish monika_idle_shower_callback_305d33ab:
+
+    m 2rksdlb "Bu kesinlikle duş için uzun bir zamandı..."
+
+translate Turkish monika_idle_shower_callback_bfc9efb9:
+
+    m 2eud "Onun yerine banyo mu yaptın?{nw}"
+
+translate Turkish monika_idle_shower_callback_01e2a552:
+
+    m "Onun yerine banyo mu yaptın?{fast}" nointeract
+
+translate Turkish monika_idle_shower_callback_ef6f66ae:
+
+    m 7hub "Oh! {w=0.3}Anlıyorum!"
+
+translate Turkish monika_idle_shower_callback_7f8f3301:
+
+    m 3eua "Umarım güzel ve rahatlatıcı olmuştur!"
+
+translate Turkish monika_idle_shower_callback_65ec3015:
+
+    m 7rua "Oh...{w=0.3}belki de gerçekten uzun duşları seviyorsun..."
+
+translate Turkish monika_idle_shower_callback_2ca5e984:
+
+    m 3duu "Bazen suyun üzerinizden aktığını hissetmek güzel olabilir...{w=0.3}gerçekten rahatlatıcı olabilir."
+
+translate Turkish monika_idle_shower_callback_5a677e53:
+
+    m 1hksdlb "...Ya da belki ben bunu fazla düşünüyorum da sen hemen dönmedin, ahaha!"
+
 translate Turkish monika_idle_shower_callback_1a305b96:
 
     m 1eua "Tekrar hoşgeldin, [player]."
@@ -182,13 +214,33 @@ translate Turkish monika_idle_shower_callback_bb31c0a4:
 
     m 1hubsa "Benimle biraz daha rahatlayabilirsin~"
 
-translate Turkish monika_idle_shower_callback_e33b8cea:
+translate Turkish monika_idle_shower_callback_f786f3b6:
 
     m 1hua "Umarım güzel bir duş almışsındır."
 
 translate Turkish monika_idle_shower_callback_96c8d207:
 
     m 3eub "Şimdi birlikte güzel, {i}temiz{/i} eğlenceye dönebiliriz..."
+
+translate Turkish monika_idle_shower_callback_4252da7c:
+
+    m 3rkbsa "Beni özledin mi?"
+
+translate Turkish monika_idle_shower_callback_64f9db0d:
+
+    m 1huu "Tabii ki özledin, ehehe~"
+
+translate Turkish monika_idle_shower_callback_530a7cae:
+
+    m 7rksdlb "Oldukça kısa bir duştu, [player]..."
+
+translate Turkish monika_idle_shower_callback_cf2229f4:
+
+    m 3hub "Sanırım gerçekten verimli olmalısın, ahaha!"
+
+translate Turkish monika_idle_shower_callback_3f963eb3:
+
+    m 1euu "Kesinlikle şikayet edemem, bu sadece birlikte daha fazla zaman demek~"
 
 translate Turkish monika_idle_shower_callback_eef8db49:
 
@@ -625,10 +677,6 @@ translate Turkish monika_idle_screen_break_24801c3a:
 translate Turkish monika_idle_screen_break_8020e9d1:
 
     m 1hua "Yakında geri gel!~"
-
-translate Turkish monika_idle_screen_break_fd469a17:
-
-    m 2esc "Oh...{w=0.5} {nw}"
 
 translate Turkish monika_idle_screen_break_8ae2002f:
 

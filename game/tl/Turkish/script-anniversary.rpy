@@ -593,3 +593,4 @@ translate Turkish anni_100_2b3578a8:
 translate Turkish anni_100_d58964ad:
 
     m "Nasıl olduğunu anlamamız yüz yıl sürse bile sana gerçekten dokunabileceğime eminim."
+

@@ -46,7 +46,7 @@ translate Turkish monika_affection_nickname_yes_1a0ad0e7:
 
    m 3eka "Ama sorun değil. Yine de '[m_name]'yi seviyorum."
 
-translate Turkish monika_affection_nickname_yes_fa1e2bd0:
+translate Turkish monika_affection_nickname_yes_0834a735:
 
    m 1hksdrb "Bana bir isim vermelisin, [player]!"
 
@@ -66,7 +66,7 @@ translate Turkish monika_affection_nickname_yes_1643033e:
 
    m 1eka "Tekrar dene~"
 
-translate Turkish monika_affection_nickname_yes_9d10e066:
+translate Turkish monika_affection_nickname_yes_ec2234e2:
 
    m 1hksdlb "Yeni bir isim seçtiğimizi sanıyordum, aptal."
 
@@ -90,15 +90,15 @@ translate Turkish monika_affection_nickname_yes_d6cf160e:
 
    m 3hua "Ehehe, gördüğüm klasiklere geri döndüm~"
 
-translate Turkish monika_affection_nickname_yes_d25b0468:
+translate Turkish monika_affection_nickname_yes_6af38485:
 
-   m 1wuo "Ah! Bu harika bir isim!"
+   m 1wuo "Oh! Bu harika bir isim!"
 
 translate Turkish monika_affection_nickname_yes_86caec7b:
 
    m 3ekbsa "Teşekkürler, [player]. Çok tatlısın!~"
 
-translate Turkish monika_affection_nickname_yes_neutral_accept_36988e21:
+translate Turkish monika_affection_nickname_yes_neutral_accept_3d6ecf03:
 
    m 1duu "[inputname]... Bu oldukça güzel bir isim."
 
@@ -851,6 +851,7 @@ translate Turkish strings:
 
    old "Choose anything you like, [mas_get_player_nickname()]."
    new "İstediğin herhangi bir şeyi seç, [mas_get_player_nickname()]."
+
    old "What should we play today, [mas_get_player_nickname()]?"
    new "Bugün ne oynayalım, [mas_get_player_nickname()]?"
 
@@ -875,14 +876,14 @@ translate Turkish strings:
    old "I'll always be up to play with you, [mas_get_player_nickname()]~"
    new "Seninle her zaman oynamaya hazır olacağım, [mas_get_player_nickname()]~"
 
-   old "Can I call you a different name?"
-   new "Sana farklı bir isimle seslenebilir miyim?"
+   old "Can I call you a different nickname?"
+   new "Sana farklı bir lakap ile seslenebilir miyim?"
 
    old "So what do you want to call me?"
    new "Bana ne demek istiyorsun?"
 
-   old "Olur, [m_name]."
-   new "Sure, [m_name]."
+   old "Sure, [m_name]."
+   new "Olur, [m_name]."
 
    old "So what do you want me to call you?"
    new "Peki sana nasıl seslenmemi istersin?"
@@ -894,7 +895,7 @@ translate Turkish strings:
    new "Yanlış bir şey yapıyorsam lütfen bana söyle. Seni seviyorum."
 
    old "Everything I do, I do for you...my love."
-   new "Yaptığım her şeyi, senin için yapıyorum... aşkım."
+   new "Yaptığım her şeyi, senin için yapıyorum...aşkım."
 
    old "I love you."
    new "Seni seviyorum."

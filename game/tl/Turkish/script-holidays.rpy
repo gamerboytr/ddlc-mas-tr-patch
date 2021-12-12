@@ -1,8 +1,4 @@
-﻿translate Turkish mas_lingerie_intro_aebae8b5:
-
-    m 1ekbfa "..."
-
-translate Turkish mas_lingerie_intro_0d5c13c7:
+﻿translate Turkish mas_lingerie_intro_0d5c13c7:
 
     m "Also, [player]..."
 
@@ -13,10 +9,6 @@ translate Turkish mas_lingerie_intro_0f0c390b:
 translate Turkish mas_lingerie_intro_e53b5040:
 
     m 2rkbfsdla "I've been wanting to do this for a while now actually, but...{w=1}well it's kind of embarrassing..."
-
-translate Turkish mas_lingerie_intro_e612037c:
-
-    m "..."
 
 translate Turkish mas_lingerie_intro_672e867d:
 
@@ -1046,9 +1038,9 @@ translate Turkish mas_d25_monika_holiday_intro_a708029e:
 
     m 1hua "I must say that I'm pretty proud of it."
 
-translate Turkish mas_d25_monika_holiday_intro_d5b8f9c4:
+translate Turkish mas_d25_monika_holiday_intro_8e2fded1:
 
-    m 3rksdla "I only had enough decorations for one room, so I decided on the classroom...{w=0.2}I hope that's okay."
+    m 3rksdla "I couldn't really get the decorations to work right in our other room, so I decided to decorate the classroom...{w=0.2}I hope that's okay."
 
 translate Turkish mas_d25_monika_holiday_intro_d57ef83e:
 
@@ -4422,18 +4414,6 @@ translate Turkish mas_f14_monika_valentines_intro_a8205d5c:
 
     m 3tkbsu "I hope you enjoy it too~"
 
-translate Turkish mas_f14_monika_valentines_intro_b1d8253c:
-
-    m 2eua "..."
-
-translate Turkish mas_f14_monika_valentines_intro_a4d9d025:
-
-    m 2eksdla "..."
-
-translate Turkish mas_f14_monika_valentines_intro_542614fd:
-
-    m 2rksdlb "Ahaha...{w=1}{nw}"
-
 translate Turkish mas_f14_monika_valentines_intro_09697856:
 
     extend 2rksdlu "it's not polite to stare, [player]..."
@@ -4961,10 +4941,6 @@ translate Turkish mas_f14_no_time_spent_e0078506:
 translate Turkish mas_f14_no_time_spent_daa943f9:
 
     m 1ekd "...a day I wanted to spend with you."
-
-translate Turkish mas_f14_no_time_spent_c61f257d:
-
-    m 2dkc "..."
 
 translate Turkish mas_f14_no_time_spent_1347a91b:
 
@@ -5606,14 +5582,6 @@ translate Turkish mas_bday_spent_time_with_wrapup_c4a5624c:
 
     m 3eka "I know it can't be easy."
 
-translate Turkish mas_bday_spent_time_with_wrapup_d68c0e32:
-
-    m 1dku "..."
-
-translate Turkish mas_bday_spent_time_with_wrapup_f4e32d64:
-
-    m 1dktpu "..."
-
 translate Turkish mas_bday_spent_time_with_wrapup_53e9fdd2:
 
     m 1ektpu "Ahaha, sorry, [player]!"
@@ -6004,7 +5972,7 @@ translate Turkish bye_922_delegate_b0fb3e5b:
 
 translate Turkish bye_922_delegate_7219f520:
 
-    m 1hua "You're so sweet~"
+    m 1hua "Çok tatlısın~"
 
 translate Turkish bye_922_delegate_b5bb2be0:
 
@@ -6254,13 +6222,9 @@ translate Turkish greeting_returned_home_bday_6aeeef39:
 
     m 1eka "I hope you had as great of a time as I did~"
 
-translate Turkish greeting_returned_home_bday_3f5c78b1:
-
-    m 1dka "..."
-
 translate Turkish greeting_returned_home_bday_70f3c4ef:
 
-    m 3eud "Oh, and [player]..."
+    m 3eud "Oh, ve [player]..."
 
 translate Turkish greeting_returned_home_bday_ea5e8e7b:
 
@@ -6312,11 +6276,7 @@ translate Turkish mas_monika_cake_on_player_bday_35f1d086:
 
 translate Turkish mas_monika_cake_on_player_bday_a0857f18:
 
-    m 6tub "Almost."
-
-translate Turkish mas_monika_cake_on_player_bday_30727938:
-
-    m "Ahaha!"
+    m 6tub "Nerdeyse."
 
 translate Turkish mas_monika_cake_on_player_bday_bd36eb02:
 
@@ -6333,47 +6293,47 @@ translate Turkish mas_monika_cake_on_player_bday_d1fbbfc5:
 translate Turkish strings:
 
     old "Hello?"
-    new "Hello?"
+    new "Merhaba?"
 
     old "Actually, it {i}is{/i} a bit late..."
-    new "Actually, it {i}is{/i} a bit late..."
+    new "Aslında, {i}bu{/i} biraz geç..."
 
     old "You're right, it's too early."
-    new "You're right, it's too early."
+    new "Haklısın, çok erken."
 
     old "You're right, it's too late."
-    new "You're right, it's too late."
+    new "Haklısın, çok geç."
 
     old "Actually, I can't take you right now."
-    new "Actually, I can't take you right now."
+    new "Aslında, şu anda seni alamam."
 
     old "Nothing."
-    new "Nothing."
+    new "Hiçbirşey."
 
     old "Next one!"
-    new "Next one!"
+    new "Sıradaki!"
 
     old "Oh, there's another one here!"
-    new "Oh, there's another one here!"
+    new "Oh, burada bir tane daha var!"
 
     old "Now let me open this one!"
-    new "Now let me open this one!"
+    new "Şimdi şunu açayım!"
 
     old "I'll open this one next!"
-    new "I'll open this one next!"
+    new "Bundan sonra bunu açacağım!"
 
     old "Merry Christmas, [m_name]."
-    new "Merry Christmas, [m_name]."
+    new "Mutlu Noeller, [m_name]."
 
     old "I love you, [m_name]."
-    new "I love you, [m_name]."
+    new "Seni seviyorum, [m_name]."
 
     old "I would love that."
-    new "I would love that."
+    new "Bunu çok isterim."
 
     old "Light candles."
-    new "Light candles."
+    new "Mum ışığı."
 
     old "Make a wish, [m_name]..."
-    new "Make a wish, [m_name]..."
+    new "Bir dilek tut, [m_name]..."
 

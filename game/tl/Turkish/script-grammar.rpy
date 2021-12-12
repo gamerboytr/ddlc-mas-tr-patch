@@ -640,5 +640,5 @@ translate Turkish monika_gtod_tip010_e428a7a8:
 
 translate Turkish monika_gtod_tip010_7566f426:
 
-    m 3hub "Thanks for listening!"
+    m 3hub "Dinlediğin için teşekkürler!"
 

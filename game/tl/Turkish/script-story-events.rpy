@@ -397,15 +397,15 @@ translate Turkish birthdate_set_a6abfbfc:
 
     m 3sub "Oh...{w=0.5}pastan!"
 
-translate Turkish _call_mas_player_bday_cake_6_09ebbcd1:
+translate Turkish birthdate_set_09ebbcd1:
 
     m 2eka "Oh, demek {i}bugün{/i} senin doğum günün..."
 
-translate Turkish _call_mas_player_bday_cake_6_223a7b0e:
+translate Turkish birthdate_set_223a7b0e:
 
     m "Doğum günün kutlu olsun, [player]."
 
-translate Turkish _call_mas_player_bday_cake_6_56d53a18:
+translate Turkish birthdate_set_56d53a18:
 
     m 4eka "İyi bir gün geçirmen dileğiyle."
 translate Turkish birthdate_set_0a0e85b4:
@@ -1100,11 +1100,11 @@ translate Turkish mas_corrupted_persistent_48f90769:
 
     extend 1ekd "ama burada."
 
-translate Turkish _call_mas_showpoem_11_547ecc7c:
+translate Turkish mas_corrupted_persistent_547ecc7c:
 
     m 1ekc "Bunun ne hakkında olduğunu biliyor musun?{nw}"
 
-translate Turkish _call_mas_showpoem_11_5e0b43e4:
+translate Turkish mas_corrupted_persistent_5e0b43e4:
 
     m "Bunun ne hakkında olduğunu biliyor musun?{fast}" nointeract
 
@@ -1254,7 +1254,7 @@ translate Turkish monika_rpy_files_c7d1ccea:
 
 translate Turkish monika_rpy_files_ef6dfa9c:
 
-    m "Anlıyorum"
+    m "Anlıyorum."
 
 translate Turkish monika_rpy_files_1d868665:
 

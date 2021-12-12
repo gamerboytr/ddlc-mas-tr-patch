@@ -68,7 +68,7 @@ translate Turkish monika_ptod_tip001_1d36fef2:
 
 translate Turkish monika_ptod_tip001_b43554c2:
 
-    m 1hua "Thanks for listening!"
+    m 1hua "Dinlediğin için teşekkürler!"
 
 translate Turkish monika_ptod_tip002_2cd78d06:
 
@@ -144,7 +144,7 @@ translate Turkish monika_ptod_tip002_797d95d0:
 
 translate Turkish monika_ptod_tip002_b43554c2:
 
-    m 1hua "Thanks for listening!"
+    m 1hua "Dinlediğin için teşekkürler!"
 
 translate Turkish monika_ptod_tip003_e9115318:
 
@@ -212,7 +212,7 @@ translate Turkish monika_ptod_tip003_f7af61a6:
 
 translate Turkish monika_ptod_tip003_b43554c2:
 
-    m 1hua "Thanks for listening!"
+    m 1hua "Dinlediğin için teşekkürler!"
 
 translate Turkish monika_ptod_tip005_aafe4e6c:
 
@@ -444,7 +444,7 @@ translate Turkish monika_ptod_tip005_3ecaaf94:
 
 translate Turkish monika_ptod_tip005_b43554c2:
 
-    m 1hua "Thanks for listening!"
+    m 1hua "Dinlediğin için teşekkürler!"
 
 translate Turkish monika_ptod_tip006_df283c73:
 
@@ -584,7 +584,7 @@ translate Turkish monika_ptod_tip006_cd0e708a:
 
 translate Turkish monika_ptod_tip006_b43554c2:
 
-    m 1hua "Thanks for listening!"
+    m 1hua "Dinlediğin için teşekkürler!"
 
 translate Turkish monika_ptod_tip007_3ff3432a:
 
@@ -696,7 +696,7 @@ translate Turkish monika_ptod_tip008_a04a1c0a:
 
 translate Turkish monika_ptod_tip008_b43554c2:
 
-    m 1hua "Thanks for listening!"
+    m 1hua "Dinlediğin için teşekkürler!"
 
 translate Turkish monika_ptod_tip009_f5f021ab:
 
@@ -780,13 +780,13 @@ translate Turkish monika_ptod_tip009_aa61ecdc:
 
 translate Turkish monika_ptod_tip009_b43554c2:
 
-    m 1hua "Thanks for listening!"
+    m 1hua "Dinlediğin için teşekkürler!"
 
 translate Turkish strings:
 
     old "Yes!"
-    new "Yes!"
+    new "Evet!"
 
     old "I'm a bit confused."
-    new "I'm a bit confused."
+    new "Biraz kafam karıştı."
 

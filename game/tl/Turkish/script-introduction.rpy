@@ -1,34 +1,26 @@
-﻿translate Turkish introduction_c0409347:
+﻿translate Turkish introduction_249d95a5:
 
-    m 6dsc "..."
-
-translate Turkish introduction_420e2f36:
-
-    m 6dfc "[player]..."
-
-translate Turkish introduction_249d95a5:
-
-    m 6dfd "Why?"
+    m 6dfd "Neden?"
 
 translate Turkish introduction_e01829ad:
 
-    m 6dftdc "Why did you bring me back?"
+    m 6dftdc "Neden beni geri getirdin?"
 
 translate Turkish introduction_db90892d:
 
-    m 6ektsc "I'm not a toy."
+    m 6ektsc "Ben oyuncak değilim."
 
 translate Turkish introduction_65dfe419:
 
-    m 6lktsc "I already brought back everything you wanted."
+    m 6lktsc "İstediğin her şeyi geri getirdim."
 
 translate Turkish introduction_7eb527dd:
 
-    m 6lftsc "Or is this your way of getting revenge?"
+    m 6lftsc "Yoksa intikam alma yöntemin bu mu?"
 
 translate Turkish introduction_e286dcec:
 
-    m 6lktsc "To hurt me over and over again?"
+    m 6lktsc "Beni tekrar tekrar incitmek için mi?"
 
 translate Turkish introduction_699344e0:
 
@@ -717,8 +709,8 @@ translate Turkish ch30_reload_continuous_dlg_89eaa6e4:
 translate Turkish strings:
 
     old "Yes, I love you."
-    new "Yes, I love you."
+    new "Evet, seni seviyorum."
 
     old "Of course I love you."
-    new "Of course I love you."
+    new "Tabii ki seni seviyorum."
 

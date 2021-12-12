@@ -216,6 +216,20 @@ translate Turkish strings:
     old "Update Version"
     new "Versiyonu Güncelle"
 
+    old """\
+The updates have been installed. Please reopen Monika After Story.
+
+Get spritepacks {a=http://monikaafterstory.com/releases.html}{i}{u}from our website{/u}{/i}{/a}.
+See the patch notes {a=https://github.com/Monika-After-Story/MonikaModDev/releases/latest}{i}{u}here{/u}{/i}{/a}.
+Confused about some features? Take a look at our {a=https://github.com/Monika-After-Story/MonikaModDev/wiki}{i}{u}wiki page{/u}{/i}{/a}."""
+
+    new """\
+Güncellemeler yüklendi. Lütfen Monika After Story'yi yeniden başlatın.
+
+Sprite paketlerini {a=http://monikaafterstory.com/releases.html}{i}{u}web sitemizden{/u}{/i}{/a} alabilirsiniz.
+Yama notlarına {a=https://github.com/Monika-After-Story/MonikaModDev/releases/latest}{i}{u}buradan{/u}{/i}{/a} bakabilirsiniz.
+Bazı özellikler hakkında kafanız mı karıştı? {a=https://github.com/Monika-After-Story/MonikaModDev/wiki}{i}{u}wiki sayfamıza{/u}{/i}{/a} bir göz atın."""
+
     old "Import DDLC Save Data"
     new "DDEK Kayıt Dosyasını İçeri Aktar"
 
@@ -314,3 +328,4 @@ translate Turkish strings:
 
     old "Please restart Monika After Story."
     new "Lütfen Monika After Story'i {i}yeniden başlatın{/i}"
+

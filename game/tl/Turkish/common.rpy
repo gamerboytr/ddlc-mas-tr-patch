@@ -276,11 +276,11 @@ translate Turkish strings:
     old "Filename List"
     new "Dosya Adı Listesi"
 
-    old "Show Image Load Log"
-    new "Resim Yükleme Günlüğünü Göster"
+    old "Show Image Load Log (F4)"
+    new "Resim Yükleme Günlüğünü Göster (F4)"
 
-    old "Hide Image Load Log"
-    new "Resim Yükleme Günlüğünü Gizle"
+    old "Hide Image Load Log (F4)"
+    new "Resim Yükleme Günlüğünü Gizle (F4)"
 
     old "Show Texture Size"
     new "Doku Boyutunu Göster"
@@ -309,12 +309,14 @@ translate Turkish strings:
     old "Position copied to clipboard."
     new "Konum panoya kopyalandı."
 
-    old "\n{color=#cfc}? predicted image (good){/color}\n{color=#fcc}? unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
-    new "\n{color=#cfc}? predicted image (good){/color}\n{color=#fcc}? unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
+    old "Type to filter: "
+    new "Filtrelemek için yazın: "
 
-    old "{size_mb:,.1f} MB in {count} textures."
-    new "{count} dokuda {size_mb:,.1f} MB."
+    old "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
+    new "Dokular: [tex_count] ([tex_size_mb:.1f] MB)"
 
+    old "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
+    new "Resim önbelleği: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
     old "Displayable Inspector"
     new "Görüntülenebilir Denetçi"
 
@@ -403,7 +405,7 @@ translate Turkish strings:
     new "Güncellemeler iptal edildi."
 
     old "Proceed"
-    new "İlerledi"
+    new "İlerle"
 
     old "Image [index] of [count] locked."
     new "Image [index] of [count] locked."
@@ -462,6 +464,9 @@ translate Turkish strings:
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
     new "Grafik sürücüleri güncel olmayabilir veya düzgün çalışmıyor olabilir. Bu, grafiklerin yavaş veya yanlış görüntülenmesine neden olabilir."
 
+    old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
+    new "{a=edit:1:log.txt}log.txt{/a} dosyası, bilgisayarınızda neyin yanlış olduğunu belirlemenize yardımcı olacak bilgiler içerebilir."
+
     old "Update DirectX"
     new "DirectX'i güncelle"
 
@@ -495,8 +500,8 @@ translate Turkish strings:
     old "Calibrating [name] ([i]/[total])"
     new "Calibrating [name] ([i]/[total])"
 
-    old "Press or move the [control!r] [kind]."
-    new "Press or move the [control!r] [kind]."
+    old "Press or move the '[control!s]' [kind]."
+    new "'[control!s]' [kind] öğesine basın veya hareket ettirin."
 
     old "Skip (A)"
     new "Atla (A)"
@@ -509,6 +514,18 @@ translate Turkish strings:
 
     old "Opens the traceback.txt file in a text editor."
     new "traceback.txt dosyasını bir metin düzenleyicide açar."
+
+    old "Copy BBCode"
+    new "BBCode'u Kopyala"
+
+    old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
+    new "https://lemmasoft.renai.us/ gibi forumlar için traceback.txt dosyasını panoya BBcode olarak kopyalar."
+
+    old "Copy Markdown"
+    new "Markdown'u Kopyala"
+
+    old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
+    new "traceback.txt dosyasını Discord için Markdown olarak panoya kopyalar."
 
     old "Copy"
     new "Kopyala"

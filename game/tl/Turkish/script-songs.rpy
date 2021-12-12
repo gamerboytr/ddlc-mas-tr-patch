@@ -1,10 +1,10 @@
 ﻿translate Turkish monika_sing_song_pool_menu_7ad23832:
 
-    m 3hub "Alright!"
+    m 3hub "Pekala!"
 
 translate Turkish monika_sing_song_analysis_7ad23832:
 
-    m 3hub "Alright!"
+    m 3hub "Pekala!"
 
 translate Turkish mas_song_derandom_37451494:
 
@@ -24,7 +24,7 @@ translate Turkish mas_song_derandom_4bfcc0d4:
 
 translate Turkish mas_song_derandom_bd219ce5:
 
-    m 1eua "Alright, [player]."
+    m 1eua "Pekala, [player]."
 
 translate Turkish mas_song_aiwfc_98827522:
 
@@ -1790,10 +1790,6 @@ translate Turkish mas_song_god_knows_62098acf:
 
     m 1eubsa "{i}~As if we were God blessed~{/i}"
 
-translate Turkish mas_song_god_knows_7c589e13:
-
-    m 1dubsu "..."
-
 translate Turkish mas_song_god_knows_8374c099:
 
     m 3rud "You know, I'm still skeptical about whether some sort of a god exists or not..."
@@ -2861,17 +2857,17 @@ translate Turkish mas_monika_plays_or_0534b98f:
 translate Turkish strings:
 
     old "A little."
-    new "A little."
+    new "Biraz."
 
     old "It's okay."
-    new "It's okay."
+    new "Tamam."
 
     old "Sure."
-    new "Sure."
+    new "Tabii."
 
     old "Sure!"
-    new "Sure!"
+    new "Tabii!"
 
     old "Not now."
-    new "Not now."
+    new "Şimdi değil."
 

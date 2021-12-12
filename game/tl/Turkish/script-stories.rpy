@@ -1426,9 +1426,9 @@ translate Turkish mas_scary_story_hunter_4ce5394b:
 
     m 1eud "The hunter vowed to remain true to her for as long as he lived..."
 
-translate Turkish mas_scary_story_hunter_b2efc7ed:
+translate Turkish mas_scary_story_hunter_360193a1:
 
-    m 1dsd "...{w=1}or so he would."
+    m 1dsd "...{w=1}or so he thought."
 
 translate Turkish mas_scary_story_hunter_d06517f8:
 
@@ -1474,9 +1474,9 @@ translate Turkish mas_scary_story_hunter_31245fb0:
 
     y "{cps=*2}I'll get you too.{/cps}{nw}"
 
-translate Turkish mas_scary_story_kuchisake_onna_1331ae94:
+translate Turkish mas_scary_story_kuchisake_onna_d31f5e5b:
 
-    m 3eud "There once was a beautiful woman, who was the wife of a samurai."
+    m 3eud "There once was a beautiful woman who was the wife of a samurai."
 
 translate Turkish mas_scary_story_kuchisake_onna_966e017f:
 
@@ -2006,9 +2006,9 @@ translate Turkish mas_scary_story_jack_o_lantern_a0c50971:
 
     m "Once the Devil promised not to bother him again for another 10 years, Jack removed them. When Jack died, he went to Heaven."
 
-translate Turkish mas_scary_story_jack_o_lantern_f95f1a5f:
+translate Turkish mas_scary_story_jack_o_lantern_d0a78913:
 
-    m 1eud "When he arrived, he was told he could not enter for how poorly a life he had lived on Earth."
+    m 1eud "When he arrived, he was told he could not enter for how poorly he had lived his life on Earth."
 
 translate Turkish mas_scary_story_jack_o_lantern_97688119:
 
@@ -2809,41 +2809,41 @@ translate Turkish mas_scary_story_flowered_lantern_3_bb2f7e5e:
 translate Turkish strings:
 
     old "Alright, let's start the story."
-    new "Alright, let's start the story."
+    new "Pekala, hikayeye başlayalım."
 
     old "Ready to hear the story?"
-    new "Ready to hear the story?"
+    new "Hikayeyi duymaya hazır mısın?"
 
     old "Ready for story time?"
-    new "Ready for story time?"
+    new "Hikaye zamanı için hazır mısın?"
 
     old "Let's begin~"
-    new "Let's begin~"
+    new "Hadi başlayalım~"
 
     old "Are you ready?"
-    new "Are you ready?"
+    new "Hazır mısın?"
 
     old "Alright let's start the story."
-    new "Alright let's start the story."
+    new "Pekala, hikayeye başlayalım."
 
     old "Let's begin."
-    new "Let's begin."
+    new "Hadi başlayalım."
 
     old "Scared, [player]?"
-    new "Scared, [player]?"
+    new "Korktun, [player]?"
 
     old "Did I scare you, [player]?"
-    new "Did I scare you, [player]?"
+    new "Seni korkuttum mu, [plaer]?"
 
     old "How was it?"
-    new "How was it?"
+    new "Nasıldı?"
 
     old "Well?"
-    new "Well?"
+    new "Peki?"
 
     old "So...{w=0.5}did I scare you?"
-    new "So...{w=0.5}did I scare you?"
+    new "Yani...{w=0.5}Seni korkuttum mu?"
 
     old "am I pretty?"
-    new "am I pretty?"
+    new "Güzel miyim?"
 

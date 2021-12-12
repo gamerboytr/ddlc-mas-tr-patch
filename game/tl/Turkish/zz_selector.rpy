@@ -1,10 +1,10 @@
 ﻿translate Turkish mas_selector_generic_sidebar_select_acs_3dd0f7cb:
 
-    m "Sure [player]!"
+    m "Tabii [player]!"
 
 translate Turkish mas_selector_generic_sidebar_select_acs_bd2a5f73:
 
-    m 1eka "Oh, alright."
+    m 1eka "Oh, pekala."
 
 translate Turkish monika_clothes_select_74680220:
 

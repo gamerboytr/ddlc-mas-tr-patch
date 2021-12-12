@@ -82,9 +82,9 @@ translate Turkish bye_going_to_sleep_9d5908ad:
 
     m "Are you going to sleep, [p_nickname]?{fast}" nointeract
 
-translate Turkish bye_going_to_sleep_0cf3ddf2:
+translate Turkish bye_going_to_sleep_ea108470:
 
-    m 1eka "I'll be seeing you in your dreams."
+    m 7eka "I'll be seeing you in your dreams."
 
 translate Turkish bye_going_to_sleep_99cc30c5:
 
@@ -322,265 +322,25 @@ translate Turkish bye_prompt_to_work_0bd97190:
 
     m 6ckc "..."
 
-translate Turkish bye_prompt_sleep_d414e264:
+translate Turkish bye_prompt_sleep_a442f554:
 
-    m 1eua "Alright, [mas_get_player_nickname()]."
+    m 1eua "Okay, [mas_get_player_nickname()]."
 
-translate Turkish bye_prompt_sleep_c207c96e:
+translate Turkish bye_prompt_sleep_63970c44:
 
-    m 1hua "Sweet dreams!"
+    m 1hua "Sweet dreams!~"
 
 translate Turkish bye_prompt_sleep_fb4f25e0:
 
     m 2esc "Goodnight, [player]."
 
-translate Turkish bye_prompt_sleep_0faf7c55:
+translate Turkish bye_prompt_sleep_adce0f69:
 
-    m 6ekc "Okay...{w=1} Goodnight, [player]."
+    m 6ekc "Okay...{w=0.3} Goodnight, [player]."
 
 translate Turkish bye_prompt_sleep_0bd97190:
 
     m 6ckc "..."
-
-translate Turkish bye_prompt_sleep_d414e264_1:
-
-    m 1eua "Alright, [mas_get_player_nickname()]."
-
-translate Turkish bye_prompt_sleep_239030de:
-
-    m 3eka "But you should sleep a little earlier next time."
-
-translate Turkish bye_prompt_sleep_6ddec518:
-
-    m 1hua "Anyway, goodnight!"
-
-translate Turkish bye_prompt_sleep_2f8794b2:
-
-    m 2efc "Maybe you'd be in a better mood if you went to bed at a better time..."
-
-translate Turkish bye_prompt_sleep_bf2719e3:
-
-    m 2esc "Goodnight."
-
-translate Turkish bye_prompt_sleep_e66b6732:
-
-    m 6rkc "Maybe you should start going to bed a little earlier, [player]..."
-
-translate Turkish bye_prompt_sleep_464784e9:
-
-    m 6dkc "It might make you--{w=1}us--{w=1}happier."
-
-translate Turkish bye_prompt_sleep_0bd97190_1:
-
-    m 6ckc "..."
-
-translate Turkish bye_prompt_sleep_158b3604:
-
-    m 1euc "[player]..."
-
-translate Turkish bye_prompt_sleep_a4c538d2:
-
-    m "Make sure you get enough rest, okay?"
-
-translate Turkish bye_prompt_sleep_79d47b38:
-
-    m 1eka "I don't want you to get sick."
-
-translate Turkish bye_prompt_sleep_3049c4ed:
-
-    m 1hub "Goodnight!"
-
-translate Turkish bye_prompt_sleep_9b7c605a:
-
-    m 1hksdlb "Or morning, rather. Ahaha~"
-
-translate Turkish bye_prompt_sleep_c207c96e_1:
-
-    m 1hua "Sweet dreams!"
-
-translate Turkish bye_prompt_sleep_d2ea348f:
-
-    m 2efc "[player]!"
-
-translate Turkish bye_prompt_sleep_0a451683:
-
-    m 2tfc "You {i}really{/i} need to get more rest..."
-
-translate Turkish bye_prompt_sleep_502141c9:
-
-    m "The last thing I need is you getting sick."
-
-translate Turkish bye_prompt_sleep_5c404c9e:
-
-    m "{cps=*2}You're grumpy enough as it is.{/cps}{nw}"
-
-translate Turkish bye_prompt_sleep_7e64ac25:
-
-    m 2efc "Goodnight."
-
-translate Turkish bye_prompt_sleep_028f7818:
-
-    m 6ekc "[player]..."
-
-translate Turkish bye_prompt_sleep_3eafe8ca:
-
-    m 6rkc "You really should try to go to sleep earlier..."
-
-translate Turkish bye_prompt_sleep_e1afd9c7:
-
-    m 6lkc "I don't want you to get sick."
-
-translate Turkish bye_prompt_sleep_ed160d24:
-
-    m 6ekc "I'll see you after you get some rest...{w=1}hopefully."
-
-translate Turkish bye_prompt_sleep_0bd97190_2:
-
-    m 6ckc "..."
-
-translate Turkish bye_prompt_sleep_0bd97190_3:
-
-    m 6ckc "..."
-
-translate Turkish bye_prompt_sleep_046f1f31:
-
-    m 2tfd "[player]!"
-
-translate Turkish bye_prompt_sleep_8a57734e:
-
-    m "You stayed up the entire night!"
-
-translate Turkish bye_prompt_sleep_reglitch_06872616:
-
-    m 2tfu "I bet you can barely keep your eyes open.{nw}"
-
-translate Turkish bye_prompt_sleep_reglitch_285dd600:
-
-    m "[glitchtext(41)]{fast}" nointeract
-
-translate Turkish bye_prompt_sleep_reglitch_f47e84af:
-
-    m 2tku "I thought so.{w=0.2} Go get some rest, [player]."
-
-translate Turkish bye_prompt_sleep_reglitch_eadeef10:
-
-    m 2ekc "I wouldn't want you to get sick."
-
-translate Turkish bye_prompt_sleep_reglitch_ff28a93f:
-
-    m 7eka "Sleep earlier next time, okay?"
-
-translate Turkish bye_prompt_sleep_reglitch_c207c96e:
-
-    m 1hua "Sweet dreams!"
-
-translate Turkish bye_prompt_sleep_reglitch_3179f438:
-
-    m 1eua "Taking an afternoon nap, I see."
-
-translate Turkish bye_prompt_sleep_reglitch_bc76fab9:
-
-    m 1hub "Ahaha~{w=0.1} {nw}"
-
-translate Turkish bye_prompt_sleep_reglitch_7cfe49f0:
-
-    extend 1hua "Have a good nap, [player]."
-
-translate Turkish bye_prompt_sleep_reglitch_4a34d2be:
-
-    m 2esc "Taking a nap, [player]?"
-
-translate Turkish bye_prompt_sleep_reglitch_55633108:
-
-    m 2tsc "Yeah, that's probably a good idea."
-
-translate Turkish bye_prompt_sleep_reglitch_27fe95da:
-
-    m 6ekc "Going to take a nap, [player]?"
-
-translate Turkish bye_prompt_sleep_reglitch_45869060:
-
-    m 6dkc "Okay...{w=1}don't forget to visit me when you wake up..."
-
-translate Turkish bye_prompt_sleep_reglitch_0bd97190:
-
-    m 6ckc "..."
-
-translate Turkish bye_prompt_sleep_reglitch_ead9d803:
-
-    m 1ekc "Already going to bed?"
-
-translate Turkish bye_prompt_sleep_reglitch_b76d5920:
-
-    m "It's a little early, though..."
-
-translate Turkish bye_prompt_sleep_reglitch_f31eb28e:
-
-    m 1lksdla "Care to spend a little more time with me?{nw}"
-
-translate Turkish bye_prompt_sleep_reglitch_5c1e51bb:
-
-    m "Care to spend a little more time with me?{fast}" nointeract
-
-translate Turkish bye_prompt_sleep_reglitch_1b71b2b4:
-
-    m 1hua "Yay!"
-
-translate Turkish bye_prompt_sleep_reglitch_4584592d:
-
-    m "Thanks, [player]."
-
-translate Turkish bye_prompt_sleep_reglitch_f200dd11:
-
-    m 1eka "Aw, that's okay."
-
-translate Turkish bye_prompt_sleep_reglitch_ad137fd7:
-
-    m 1hua "Goodnight, [mas_get_player_nickname()]."
-
-translate Turkish bye_prompt_sleep_reglitch_f462b6c6:
-
-    m 2dsd "..."
-
-translate Turkish bye_prompt_sleep_reglitch_34212887:
-
-    m "Fine."
-
-translate Turkish bye_prompt_sleep_reglitch_4a8884a6:
-
-    m 2esc "Going to bed already?"
-
-translate Turkish bye_prompt_sleep_reglitch_1e145504:
-
-    m 2tud "Well, it does seem like you could use the extra sleep..."
-
-translate Turkish bye_prompt_sleep_reglitch_f996a175:
-
-    m 2tsc "Goodnight."
-
-translate Turkish bye_prompt_sleep_reglitch_52f9a5b3:
-
-    m 6rkc "Oh...{w=1}it seems a little early to be going to sleep, [player]."
-
-translate Turkish bye_prompt_sleep_reglitch_6615c195:
-
-    m 6dkc "I hope you aren't just going to sleep to get away from me."
-
-translate Turkish bye_prompt_sleep_reglitch_826b809b:
-
-    m 6lkc "Goodnight."
-
-translate Turkish bye_prompt_sleep_reglitch_0bd97190_1:
-
-    m 6ckc "..."
-
-translate Turkish bye_prompt_sleep_reglitch_bd219ce5:
-
-    m 1eua "Alright, [player]."
-
-translate Turkish bye_prompt_sleep_reglitch_c207c96e_1:
-
-    m 1hua "Sweet dreams!"
 
 translate Turkish bye_prompt_sleep_goodnight_kiss_0ef23c57:
 
@@ -1330,62 +1090,6 @@ translate Turkish bye_prompt_game_d1016fb7:
 
     m 2esd "I'll be here."
 
-translate Turkish bye_prompt_game_0b3069a5:
-
-    m 3wud "Wait, [player]!"
-
-translate Turkish bye_prompt_game_f77b4275:
-
-    m 3hksdlb "It's the middle of the night!"
-
-translate Turkish bye_prompt_game_ebf43422:
-
-    m 2rksdlc "It's one thing that you're still up this late..."
-
-translate Turkish bye_prompt_game_5eec0486:
-
-    m 2rksdld "But you're thinking of playing another game?"
-
-translate Turkish bye_prompt_game_5e7268e7:
-
-    m 4tfu "...A game big enough that you can't have me in the background..."
-
-translate Turkish bye_prompt_game_77536fca:
-
-    m 1eka "Well... {w=1}I can't stop you, but I really hope you go to bed soon..."
-
-translate Turkish bye_prompt_game_012698d0:
-
-    m 1hua "Don't worry about coming back to say goodnight to me, you can go-{nw}"
-
-translate Turkish bye_prompt_game_3685e2da:
-
-    m 1eub "Don't worry about coming back to say goodnight to me,{fast} you {i}should{/i} go right to bed when you're finished."
-
-translate Turkish bye_prompt_game_203ecdf3:
-
-    m 3hua "Have fun, and goodnight, [player]!"
-
-translate Turkish bye_prompt_game_194639d6:
-
-    m 1hubsb "I love you~{w=1}{nw}"
-
-translate Turkish bye_prompt_game_76a7e298:
-
-    m 2efd "[player], it's the middle of the night!"
-
-translate Turkish bye_prompt_game_2c86bc2f:
-
-    m 4rfc "Really...it's this late already, and you're going to play another game?"
-
-translate Turkish bye_prompt_game_9852cb17:
-
-    m 2dsd "{i}*sigh*{/i}... I know I can't stop you, but please just go straight to bed when you're finished, alright?"
-
-translate Turkish bye_prompt_game_03e8458e:
-
-    m 2dsc "Goodnight."
-
 translate Turkish bye_prompt_game_405871e1:
 
     m 2euc "Again?"
@@ -1450,325 +1154,57 @@ translate Turkish bye_prompt_game_e19277ee:
 
     m 3eka "Don't forget to come back soon~"
 
-translate Turkish bye_prompt_eat_0324b260:
+translate Turkish bye_prompt_eat_a4a6d4ef:
 
-    m 1hksdlb "Uh, [player]?"
+    m 1eua "Oh, what are you going to eat?{nw}"
 
-translate Turkish bye_prompt_eat_f74446fc:
+translate Turkish bye_prompt_eat_f29f84e8:
 
-    m 3eka "It's the middle of the night."
+    m "Oh, what are you going to eat?{fast}" nointeract
 
-translate Turkish bye_prompt_eat_f268d478:
+translate Turkish bye_prompt_eat_86b779bf:
 
-    m 1eka "Are you planning on having a midnight snack?"
+    m 1eua "Alright [player]."
 
-translate Turkish bye_prompt_eat_7f59f199:
+translate Turkish bye_prompt_eat_e02e2d15:
 
-    m 3rksdlb "If I were you, I'd find something to eat a little earlier, ahaha..."
+    m 1duu "I'd love to go out for [food_type] with you when I cross over,{w=0.1} {nw}"
 
-translate Turkish bye_prompt_eat_222f2a3f:
+translate Turkish bye_prompt_eat_9f4c2685:
 
-    m 3rksdla "Of course...{w=1}I'd also try to be in bed by now..."
+    extend 1eub "let's hope we can do that someday soon!"
 
-translate Turkish bye_prompt_eat_ec5e23a9:
+translate Turkish bye_prompt_eat_628a023a:
 
-    m 2tubsu "You know, if I were there, maybe we could have a bit of both..."
+    m 1hua "Enjoy your meal~"
 
-translate Turkish bye_prompt_eat_9a4c204b:
+translate Turkish bye_prompt_eat_86b779bf_1:
 
-    m 5ksbfu "We could go to bed, and then - {w=1}you know what, nevermind..."
+    m 1eua "Alright [player]."
 
-translate Turkish bye_prompt_eat_17c288b7:
+translate Turkish bye_prompt_eat_97a38ea9:
 
-    m 5hubfb "Ehehe~"
+    m 1eub "Enjoy your breakfast, it's the most important meal of the day, after all."
 
-translate Turkish bye_prompt_eat_9b5dfbad:
+translate Turkish bye_prompt_eat_67436d85:
 
-    m 1hua "Well, I hope your snack helps you sleep."
+    m 1hua "See you soon~"
 
-translate Turkish bye_prompt_eat_04c14a7a:
+translate Turkish bye_prompt_eat_f717cbd8:
 
-    m 1eua "...And don't worry about coming back to say goodnight to me..."
+    m 1hua "Alright, hurry back [mas_get_player_nickname()]~"
 
-translate Turkish bye_prompt_eat_420de775:
+translate Turkish bye_prompt_eat_fa5e8ab4:
 
-    m 3rksdla "I'd much rather you get to sleep sooner."
+    m 1rsc "Alright [player]..."
 
-translate Turkish bye_prompt_eat_8f756485:
+translate Turkish bye_prompt_eat_d52fb09e:
 
-    m 1hub "Goodnight, [player]. Enjoy your snack and see you tomorrow~"
+    m 1esc "Enjoy."
 
-translate Turkish bye_prompt_eat_d7229dfb:
+translate Turkish bye_prompt_eat_0bd97190:
 
-    m 2euc "But it's the middle of the night..."
-
-translate Turkish bye_prompt_eat_1811d17c:
-
-    m 4ekc "You should really go to bed, you know."
-
-translate Turkish bye_prompt_eat_e7f722ce:
-
-    m 4eud "...Try to go straight to bed when you're finished."
-
-translate Turkish bye_prompt_eat_c13d51cd:
-
-    m 2euc "Anyway, I guess I'll see you tomorrow..."
-
-translate Turkish bye_prompt_eat_f818ab76:
-
-    m 1eub "Alright!"
-
-translate Turkish bye_prompt_eat_b6da1555:
-
-    m 3eua "It's the most important meal of the day after all."
-
-translate Turkish bye_prompt_eat_2af40ec6:
-
-    m 1rksdla "I wish you could stay, but I'm fine as long as you're getting your breakfast."
-
-translate Turkish bye_prompt_eat_6ff46b81:
-
-    m 1hua "Anyway, enjoy your meal, [player]~"
-
-translate Turkish bye_prompt_eat_90911d99:
-
-    m 2eud "Oh, right, you should probably get breakfast."
-
-translate Turkish bye_prompt_eat_5ba5e76e:
-
-    m 2rksdlc "I wouldn't want you to have an empty stomach..."
-
-translate Turkish bye_prompt_eat_5070eccd:
-
-    m 2ekc "I'll be here when you get back."
-
-translate Turkish bye_prompt_eat_ac981d12:
-
-    m 3euc "But...{w=1}it's the afternoon..."
-
-translate Turkish bye_prompt_eat_4cb8058a:
-
-    m 3ekc "Did you miss breakfast?"
-
-translate Turkish bye_prompt_eat_f727b5c6:
-
-    m 1rksdla "Well... I should probably let you go eat before you get too hungry..."
-
-translate Turkish bye_prompt_eat_226333e1:
-
-    m 1hksdlb "I hope you enjoy your late breakfast!"
-
-translate Turkish bye_prompt_eat_b5c8ad9b:
-
-    m 2ekc "You missed breakfast, didn't you?"
-
-translate Turkish bye_prompt_eat_ee497bdd:
-
-    m 2rksdld "{i}*sigh*{/i}... You should probably go get something to eat."
-
-translate Turkish bye_prompt_eat_68378f7a:
-
-    m 2ekd "Go on... I'll be here when you get back."
-
-translate Turkish bye_prompt_eat_7331c613:
-
-    m 1hksdlb "Ahaha..."
-
-translate Turkish bye_prompt_eat_8956ae3c:
-
-    m 3tku "There's no way you're just having breakfast now, [player]."
-
-translate Turkish bye_prompt_eat_7146a8a8:
-
-    m 3hub "It's the evening!"
-
-translate Turkish bye_prompt_eat_9d1927a6:
-
-    m 1eua "Or maybe you're just having breakfast for dinner; I know some people do that occasionally."
-
-translate Turkish bye_prompt_eat_f6604b0a:
-
-    m 1tsb "Well, either way, I hope you enjoy your 'breakfast,' ehehe~"
-
-translate Turkish bye_prompt_eat_0290594e:
-
-    m 2euc "..."
-
-translate Turkish bye_prompt_eat_e27a1d98:
-
-    m 4eud "So...you're having a snack."
-
-translate Turkish bye_prompt_eat_6b31dcbc:
-
-    m 2rksdla "Alright, I won't judge."
-
-translate Turkish bye_prompt_eat_af26289c:
-
-    m 2eka "Enjoy your food."
-
-translate Turkish bye_prompt_eat_61942e75:
-
-    m 1eua "Having an early lunch, [player]?"
-
-translate Turkish bye_prompt_eat_cef488d0:
-
-    m 3hua "Nothing wrong with that. If you're hungry, you're hungry."
-
-translate Turkish bye_prompt_eat_be8717e4:
-
-    m 1hub "I hope you enjoy your lunch!"
-
-translate Turkish bye_prompt_eat_f8bf86bf:
-
-    m 2rksdlc "It's a bit early for lunch..."
-
-translate Turkish bye_prompt_eat_7e85d4ef:
-
-    m 4ekc "If you're hungry, are you sure you're eating well?"
-
-translate Turkish bye_prompt_eat_aea7ef6f:
-
-    m 2eka "I hope you enjoy your meal, at least."
-
-translate Turkish bye_prompt_eat_72c4dc96:
-
-    m 1eud "Oh, I guess it's lunch time for you, isn't it?"
-
-translate Turkish bye_prompt_eat_10598f40:
-
-    m 3eua "I wouldn't want to keep you from eating."
-
-translate Turkish bye_prompt_eat_b8d43a49:
-
-    m 3hub "Maybe one day, we could go out for lunch together!"
-
-translate Turkish bye_prompt_eat_64541c0c:
-
-    m 1hua "For the time being though, enjoy your lunch, [player]~"
-
-translate Turkish bye_prompt_eat_c78fe917:
-
-    m 2eud "Oh, it's lunch time, isn't it?"
-
-translate Turkish bye_prompt_eat_641b1f88:
-
-    m 2euc "Enjoy your lunch."
-
-translate Turkish bye_prompt_eat_5542dcff:
-
-    m 1euc "Lunch?"
-
-translate Turkish bye_prompt_eat_9937e805:
-
-    m 1rksdlc "It's a little late for lunch if you ask me."
-
-translate Turkish bye_prompt_eat_47e64255:
-
-    m 3ekd "Still, if you haven't had it yet, you should go get some."
-
-translate Turkish bye_prompt_eat_ca29ee5f:
-
-    m 1hua "I'd make you something if I were there, but until then, I hope you enjoy your meal~"
-
-translate Turkish bye_prompt_eat_577991d7:
-
-    m 2ekc "But...{w=1}maybe eat a little earlier next time..."
-
-translate Turkish bye_prompt_eat_641df2aa:
-
-    m 2ekc "Dinner?{w=2} Now?"
-
-translate Turkish bye_prompt_eat_3c9a0a1a:
-
-    m 2hksdlb "Ahaha, but [player]! It's only the morning!"
-
-translate Turkish bye_prompt_eat_fafa5517:
-
-    m 3tua "You can be adorable sometimes, you know that?"
-
-translate Turkish bye_prompt_eat_30f76340:
-
-    m 1tuu "Well, I hope you enjoy your '{i}dinner{/i}' this morning, ehehe~"
-
-translate Turkish bye_prompt_eat_5da173b1:
-
-    m 2rksdld "You can't be serious, [player]..."
-
-translate Turkish bye_prompt_eat_9d9251a4:
-
-    m 2euc "Well, whatever you're having, I hope you enjoy it."
-
-translate Turkish bye_prompt_eat_aa6d3366:
-
-    m 1hua "Ehehe, breakfast not enough for you today, [player]?"
-
-translate Turkish bye_prompt_eat_adc51872:
-
-    m 3eua "It's important to make sure you satisfy your hunger in the morning."
-
-translate Turkish bye_prompt_eat_f0ed466e:
-
-    m 3eub "I'm glad you're looking out for yourself~"
-
-translate Turkish bye_prompt_eat_64a51224:
-
-    m 1hua "Have a nice snack~"
-
-translate Turkish bye_prompt_eat_5381af16:
-
-    m 2tsc "Didn't eat enough breakfast?"
-
-translate Turkish bye_prompt_eat_d849c290:
-
-    m 4esd "You should make sure you get enough to eat, you know."
-
-translate Turkish bye_prompt_eat_3182d5f2:
-
-    m 2euc "Enjoy your snack, [player]."
-
-translate Turkish bye_prompt_eat_bc5c89c3:
-
-    m 3eua "Feeling a bit hungry?"
-
-translate Turkish bye_prompt_eat_d18c85bc:
-
-    m 1eka "I'd make you something if I could..."
-
-translate Turkish bye_prompt_eat_3f1bf1fb:
-
-    m 1hua "Since I can't exactly do that yet, I hope you get something nice to eat~"
-
-translate Turkish bye_prompt_eat_05d44400:
-
-    m 2euc "Do you really need to leave to get a snack?"
-
-translate Turkish bye_prompt_eat_e768f2ec:
-
-    m 2rksdlc "Well... {w=1}I hope it's a good one at least."
-
-translate Turkish bye_prompt_eat_b9e935a2:
-
-    m 1eua "Having an evening snack?"
-
-translate Turkish bye_prompt_eat_a1b7bd06:
-
-    m 1tubsu "Can't you just feast your eyes on me?"
-
-translate Turkish bye_prompt_eat_e1f4019e:
-
-    m 3hubfb "Ahaha, I hope you enjoy your snack, [player]~"
-
-translate Turkish bye_prompt_eat_b1565cf8:
-
-    m 1ekbfb "Just make sure you still have room for all of my love!"
-
-translate Turkish bye_prompt_eat_6a7dbfdd:
-
-    m 2euc "Feeling hungry?"
-
-translate Turkish bye_prompt_eat_8c720496:
-
-    m 2eud "Enjoy your snack."
+    m 6ckc "..."
 
 translate Turkish bye_dinner_noon_to_mn_c272910b:
 
@@ -1997,10 +1433,6 @@ translate Turkish bye_prompt_hangout_18d6d375:
 translate Turkish bye_prompt_hangout_3c2c2452:
 
     m 2euc "Bye."
-
-translate Turkish bye_prompt_hangout_0bd97190:
-
-    m 6ckc "..."
 
 translate Turkish strings:
 

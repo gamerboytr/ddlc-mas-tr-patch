@@ -567,3 +567,4 @@ translate Turkish strings:
 
     old "...Maybe."
     new "...Belki."
+

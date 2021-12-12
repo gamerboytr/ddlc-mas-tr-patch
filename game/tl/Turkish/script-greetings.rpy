@@ -5125,71 +5125,68 @@ translate Turkish monikaroom_greeting_ear_recursionerror_fe714c83:
 translate Turkish strings:
 
     old "No..."
-    new "No..."
+    new "Hayır..."
 
     old "Good."
-    new "Good."
+    new "Güzel."
 
     old "Bad."
-    new "Bad."
+    new "Kötü."
 
     old "[_opendoor_text]"
-    new "[_opendoor_text]"
+    new "[_opendoor_text!t]"
 
     old "Open the door."
-    new "Open the door."
-
-    old "Knock."
-    new "Knock."
+    new "Kapıyı aç."
 
     old "Listen."
-    new "Listen."
+    new "Dinle."
 
     old "I will."
-    new "I will."
+    new "Yapacağım."
 
     old "I won't."
-    new "I won't."
+    new "Yapmayacağım."
 
     old "...the textbox..."
-    new "...the textbox..."
+    new "...metin kutusu..."
 
     old "Your room?"
-    new "Your room?"
+    new "Senin odan?"
 
     old "...the window..."
-    new "...the window..."
+    new "...pencere..."
 
     old "It's me."
-    new "It's me."
+    new "Benim."
 
     old "Maybe not..."
-    new "Maybe not..."
+    new "Belki değil..."
 
     old "I'm already resting."
-    new "I'm already resting."
+    new "Ben zaten dinleniyorum."
 
     old "Amazing."
-    new "Amazing."
+    new "İnanılmaz."
 
     old "Really bad..."
-    new "Really bad..."
+    new "Gerçekten kötü..."
 
     old "Amazing!"
-    new "Amazing!"
+    new "İnanılmaz!"
 
     old "I moved up!"
-    new "I moved up!"
+    new "Yukarı hareket ettim!"
 
     old "I got a lot done!"
-    new "I got a lot done!"
+    new "Çok şey yaptım!"
 
     old "It was just an amazing day."
-    new "It was just an amazing day."
+    new "Sadece harika bir gündü."
 
     old "I could help you with that..."
-    new "I could help you with that..."
+    new "Sana bu konuda yardımcı olabilirim..."
 
     old "They're already my friend."
-    new "They're already my friend."
+    new "Onlar zaten benim arkadaşım."
 

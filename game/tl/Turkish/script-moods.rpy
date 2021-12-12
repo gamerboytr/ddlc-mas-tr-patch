@@ -1505,16 +1505,16 @@ translate Turkish mas_mood_excited_34231711:
 translate Turkish strings:
 
     old "...like talking about something else."
-    new "...like talking about something else."
+    new "...başka bir şey hakkında konuşmak gibi."
 
     old "I'm done."
-    new "I'm done."
+    new "Bitirdim."
 
     old "Yeah I do."
-    new "Yeah I do."
+    new "Evet yaparım."
 
     old "Not really."
-    new "Not really."
+    new "Pek sayılmaz."
 
     old "Major."
     new "Major."
@@ -1523,35 +1523,35 @@ translate Turkish strings:
     new "Minor."
 
     old "No, I'm not bored {i}of you{/i}..."
-    new "No, I'm not bored {i}of you{/i}..."
+    new "Hayır, {i}senden{/i} sıkılmadım..."
 
     old "Well..."
-    new "Well..."
+    new "Peki..."
 
     old "I'm not sure."
-    new "I'm not sure."
+    new "Emin değilim."
 
     old "I'd like to vent."
-    new "I'd like to vent."
+    new "Havalandırmak isterim."
 
     old "I don't want to talk about it."
-    new "I don't want to talk about it."
+    new "Bunun hakkında konuşmak istemiyorum."
 
     old "Everything's fine."
-    new "Everything's fine."
+    new "Herşey yolunda."
 
     old "I made it through something difficult."
-    new "I made it through something difficult."
+    new "Zor bir şeyi atlattım."
 
     old "Something I was worried about didn't happen."
-    new "Something I was worried about didn't happen."
+    new "Endişelendiğim bir şey olmadı."
 
     old "It is!"
-    new "It is!"
+    new "Bu!"
 
     old "It's something small."
-    new "It's something small."
+    new "Küçük bir şey."
 
     old "I'm not too sure."
-    new "I'm not too sure."
+    new "Pek emin değilim."
 

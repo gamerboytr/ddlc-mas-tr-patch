@@ -1194,15 +1194,11 @@ translate Turkish mas_fun_fact_round_earth_a2b760a9:
 
     m 3kubsu "It's you.{w=0.2} You're the center of {i}my{/i} universe, [mas_get_player_nickname()]."
 
-translate Turkish mas_fun_fact_round_earth_8df8d080:
-
-    m 3hubsb "Ahaha!"
-
 translate Turkish strings:
 
     old "Round."
-    new "Round."
+    new "Yuvarlak."
 
     old "Flat."
-    new "Flat."
+    new "Düz."
 
