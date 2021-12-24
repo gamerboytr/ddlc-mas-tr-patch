@@ -1,5 +1,3 @@
-
-# game/script-topics.rpy:474
 translate Turkish mas_topic_derandom_cdefb594:
 
     m 3eksdld "Are you sure you don't want me to bring this up anymore?{nw}"
@@ -29188,6 +29186,14 @@ translate Turkish monika_wabi_sabi_72b64cfb:
 
     m 2dkd "It can be crushing to be worried about both looks and personality..."
 
+translate Turkish monika_wabi_sabi_b5c25760:
+
+    m 1ekc "I know you said you didn't love yourself [player],{w=0.3} {nw}"
+
+translate Turkish monika_wabi_sabi_77077b02:
+
+    extend 3eka "but you need to know that I'll always love you, regardless of your flaws."
+
 translate Turkish monika_wabi_sabi_b9835b31:
 
     m 2eka "I hope you don't feel too insecure about yourself, [player]."
@@ -29199,14 +29205,6 @@ translate Turkish monika_wabi_sabi_4c9c050f:
 translate Turkish monika_wabi_sabi_954f11b4:
 
     m 7ekbsa "But I hope you know that despite your flaws, I will always love you."
-
-translate Turkish monika_wabi_sabi_b5c25760:
-
-    m 1ekc "I know you said you didn't love yourself [player],{w=0.3} {nw}"
-
-translate Turkish monika_wabi_sabi_77077b02:
-
-    extend 3eka "but you need to know that I'll always love you, regardless of your flaws."
 
 translate Turkish monika_wabi_sabi_afaf3f4f:
 
@@ -32522,7 +32520,7 @@ translate Turkish strings:
     new "{i}Bırak senin üzerinde dinlensin.{/i}"
 
     old "Come here, [m_name]."
-    new "Hadi ama, [m_name]."
+    new "Buraya gel, [m_name]."
 
     old "We'll be together forever!"
     new "Sonsuza dek beraber olacağız!"

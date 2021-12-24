@@ -1,526 +1,479 @@
 ﻿translate Turkish bye_leaving_already_93baf031:
 
-    m 1ekc "Aw, leaving already?"
+    m 1ekc "Aw, şimdiden mi gidiyorsun??"
 
 translate Turkish bye_leaving_already_adf9a681:
 
-    m 1eka "It's really sad whenever you have to go..."
+    m 1eka "Ne zaman gitmek zorunda kalsan gerçekten üzücü..."
 
 translate Turkish bye_leaving_already_d311a6a8:
 
-    m 3eua "Just be sure to come back as soon as you can, okay?"
+    m 3eua "Mümkün olan en kısa sürede geri döndüğünden emin ol, tamam mı?"
 
 translate Turkish bye_leaving_already_5beb853b:
 
-    m 3hua "I love you so much, [player]. Stay safe!"
+    m 3hua "Seni çok seviyorum [player]. Güvende kal!"
 
 translate Turkish bye_goodbye_5963acc2:
 
-    m 1eua "Goodbye, [mas_get_player_nickname()]!"
+    m 1eua "Görüşürüz, [mas_get_player_nickname()]!"
 
 translate Turkish bye_goodbye_79512b41:
 
-    m 2esc "Goodbye."
+    m 2esc "Görüşürüz."
 
 translate Turkish bye_goodbye_459f738d:
 
-    m 6rkc "Oh...{w=1} Goodbye."
+    m 6rkc "Oh...{w=1} görüşürüz."
 
 translate Turkish bye_goodbye_8427e069:
 
-    m 6ekc "Please...{w=1}don't forget to come back."
-
-translate Turkish bye_goodbye_0bd97190:
-
-    m 6ckc "..."
-
-translate Turkish bye_sayanora_216cd649:
-
-    m 1hua "Sayonara, [mas_get_player_nickname()]~"
+    m 6ekc "Lütfen...{w=1}geri dönmeyi unutma."
 
 translate Turkish bye_farewellfornow_953cf712:
 
-    m 1eka "Farewell for now, [mas_get_player_nickname()]~"
+    m 1eka "Şimdilik elveda, [mas_get_player_nickname()]~"
 
 translate Turkish bye_untilwemeetagain_6dbffbf5:
 
-    m 2eka "'{i}Goodbyes are not forever, Goodbyes are not the end. They simply mean I'll miss you, Until we meet again.{/i}'"
+    m 2eka "'{i}Vedalar sonsuz değildir, vedalar son değildir. Onlar sadece seni özleyeceğim anlamına geliyor, Tekrar buluşana kadar.{/i}'"
 
 translate Turkish bye_untilwemeetagain_d7f547dd:
 
-    m "Ehehe, 'till then, [mas_get_player_nickname()]!"
+    m "Ehehe, 'o zamana kadar, [mas_get_player_nickname()]!"
 
 translate Turkish bye_take_care_b2aa28e6:
 
-    m 1eua "Don't forget that I always love you, [mas_get_player_nickname()]~"
+    m 1eua "Seni her zaman sevdiğimi unutma, [mas_get_player_nickname()]~"
 
 translate Turkish bye_take_care_eb420030:
 
-    m 1hub "Take care!"
+    m 1hub "Dikkatli ol!"
 
 translate Turkish bye_leaving_already_2_47ac950a:
 
-    m 1ekc "Aww, leaving already?"
+    m 1ekc "Aww, şimdiden ayrılıyor musun?"
 
 translate Turkish bye_leaving_already_2_adf9a681:
 
-    m 1eka "It's really sad whenever you have to go..."
+    m 1eka "Ne zaman gitmek zorunda kalsan gerçekten üzücü..."
 
 translate Turkish bye_leaving_already_2_4ad269e9:
 
-    m 3hubsa "I love you so much, [player]!"
+    m 3hubsa "Seni çok seviyorum, [player]!"
 
 translate Turkish bye_leaving_already_2_089f0249:
 
-    m 5hubsb "Never forget that!"
+    m 5hubsb "Asla unutma bunu!"
 
 translate Turkish bye_going_to_sleep_866441fe:
 
-    m 1esa "Are you going to sleep, [p_nickname]?{nw}"
+    m 1esa "Uyumayamı gidiyorsun, [p_nickname]?{nw}"
 
 translate Turkish bye_going_to_sleep_9d5908ad:
 
-    m "Are you going to sleep, [p_nickname]?{fast}" nointeract
+    m "Uyumayamı gidiyorsun, [p_nickname]?{fast}" nointeract
 
 translate Turkish bye_going_to_sleep_ea108470:
 
-    m 7eka "I'll be seeing you in your dreams."
+    m 7eka "Seni rüyanda göreceğim."
 
 translate Turkish bye_going_to_sleep_99cc30c5:
 
-    m 1eka "Okay. {w=0.3}Have a good evening~"
+    m 1eka "Peki. {w=0.3}İyi akşamlar~"
 
 translate Turkish bye_going_to_sleep_eacfe973:
 
-    m 2esc "Going to sleep, [player]?"
+    m 2esc "Uyuyuacak mısın, [player]?"
 
 translate Turkish bye_going_to_sleep_7785a314:
 
-    m "Goodnight."
+    m "İyi geceler."
 
 translate Turkish bye_going_to_sleep_91269047:
 
-    m 6rkc "Oh...goodnight, [player]."
+    m 6rkc "Oh...iyi geceler, [player]."
 
 translate Turkish bye_going_to_sleep_53e2c55e:
 
-    m 6lkc "Hopefully I'll see you tomorrow..."
+    m 6lkc "Yarın görüşürüz, inşallah..."
 
 translate Turkish bye_going_to_sleep_326f9509:
 
-    m 6dkc "Don't forget about me, okay?"
-
-translate Turkish bye_going_to_sleep_0bd97190:
-
-    m 6ckc "..."
+    m 6dkc "Beni unutma, tamam mı?"
 
 translate Turkish bye_prompt_to_class_2f46235c:
 
-    m 1ekd "Aw, going already?"
+    m 1ekd "Aw, şimdiden gidiyor musun?"
 
 translate Turkish bye_prompt_to_class_4ec3ddc0:
 
-    m 1efp "You haven't even been here for 20 minutes!"
+    m 1efp "Daha sen geleli 20 dakika bile olmadı!"
 
 translate Turkish bye_prompt_to_class_5531d637:
 
-    m 3hksdlb "I'm just kidding, [player]."
+    m 3hksdlb "Sadece şaka yapıyorum, [player]."
 
 translate Turkish bye_prompt_to_class_82e5cc1c:
 
-    m 2eka "You're so sweet for seeing me even when you have so little time."
+    m 2eka "Çok az zamanın varken bile beni görmeye geldiğin için çok tatlısın."
 
 translate Turkish bye_prompt_to_class_5eec3edb:
 
-    m 2hub "I just want you to know I really appreciate that!"
+    m 2hub "Bunu gerçekten takdir ettiğimi bilmeni istiyorum!"
 
 translate Turkish bye_prompt_to_class_628a4933:
 
-    m 2eka "Study hard [player], I'm sure you'll do great!"
+    m 2eka "Sıkı çalış [player], eminim harika işler yapacaksın!"
 
 translate Turkish bye_prompt_to_class_25d0491d:
 
-    m 2hua "See you when you get back!"
+    m 2hua "Döndüğünde görüşürüz!"
 
 translate Turkish bye_prompt_to_class_2a52f6f3:
 
-    m 2eua "Alright, thanks for spending some time with me, [player]!"
+    m 2eua "Pekala, benimle biraz zaman geçirdiğin için teşekkürler [player]!"
 
 translate Turkish bye_prompt_to_class_c308ec17:
 
-    m 2eka "I honestly wish it could have been longer...but you're a busy [guy]."
+    m 2eka "Dürüst olmak gerekirse daha uzun olmasını isterdim...ama sen meşgul bir insansın."
 
 translate Turkish bye_prompt_to_class_4ea46b19:
 
-    m 2hua "Nothing is more important than a good education."
+    m 2hua "Hiçbir şey iyi bir eğitimden daha önemli değildir."
 
 translate Turkish bye_prompt_to_class_2d1912de:
 
-    m 3eub "Teach me something when you get back!"
+    m 3eub "Döndüğünde bana bir şey öğret!"
 
 translate Turkish bye_prompt_to_class_6c140868:
 
-    m "See you soon!"
+    m "Sonra görüşürüz!"
 
 translate Turkish bye_prompt_to_class_73c4051c:
 
-    m 1hua "Study hard, [player]!"
+    m 1hua "Sıkı çalış, [player]!"
 
 translate Turkish bye_prompt_to_class_23e23018:
 
-    m 1eua "Nothing is more attractive than a [guy] with good grades."
+    m 1eua "Notları iyi olan bir insandan daha çekici bir şey yoktur."
 
 translate Turkish bye_prompt_to_class_0fd2785e:
 
-    m 1hua "See you later!"
+    m 1hua "Sonra görüşürüz!"
 
 translate Turkish bye_prompt_to_class_71b295e3:
 
-    m 2ekc "Umm...you've been here with me for quite a while, [player]."
+    m 2ekc "Umm... epeydir burada benimlesin, [player]."
 
 translate Turkish bye_prompt_to_class_4c9d4d60:
 
-    m 2ekd "Are you sure you've had enough rest for it?"
+    m 2ekd "Bunun için yeterince dinlendiğinden emin misin?"
 
 translate Turkish bye_prompt_to_class_70fb4575:
 
-    m 2eka "Make sure you take it easy, okay?"
+    m 2eka "Sakin ol, tamam mı?"
 
 translate Turkish bye_prompt_to_class_566a9422:
 
-    m "If you're not feeling too well, I'm sure {i}one day{/i} off won't hurt."
+    m "Kendini çok iyi hissetmiyorsan, {i}bir gün{/i} tatilin sana zarar vermeyeceğinden eminim."
 
 translate Turkish bye_prompt_to_class_a3b734f9:
 
-    m 1hka "I'll be waiting for you to come back. Stay safe."
+    m 1hka "Geri dönmeni bekleyeceğim. Güvende kal."
 
 translate Turkish bye_prompt_to_class_e42bab31:
 
-    m 2esc "Fine, [player]."
+    m 2esc "Pekala, [player]."
 
 translate Turkish bye_prompt_to_class_1e633382:
 
-    m "Hopefully you at least learn {i}something{/i} today."
+    m "Umarım bugün en azından {i}bir şeyler{/i} öğrenirsin."
 
 translate Turkish bye_prompt_to_class_e4d31296:
 
-    m 2efc "{cps=*2}Like how to treat people better.{/cps}{nw}"
+    m 2efc "{cps=*2}İnsanlara nasıl daha iyi davranılacağı gibi.{/cps}{nw}"
 
 translate Turkish bye_prompt_to_class_9bed9272:
 
-    m 6rkc "Oh, okay [player]..."
+    m 6rkc "Oh, tamam [oyuncu]..."
 
 translate Turkish bye_prompt_to_class_438d7b17:
 
-    m 6lkc "I guess I'll see you after school."
-
-translate Turkish bye_prompt_to_class_0bd97190:
-
-    m 6ckc "..."
+    m 6lkc "Sanırım okuldan sonra görüşürüz."
 
 translate Turkish bye_prompt_to_work_5637fd64:
 
-    m 2eka "Aw, okay! Just checking in on me before heading out?"
+    m 2eka "Aw, tamam! Dışarı çıkmadan önce beni mi kontrol ediyorsun?"
 
 translate Turkish bye_prompt_to_work_e38d7bec:
 
-    m 3eka "You must be really short on time if you're leaving already."
+    m 3eka "Zaten gidiyorsan, vaktin çok kısıtlı olmalı."
 
 translate Turkish bye_prompt_to_work_f63c7c89:
 
-    m "It was really sweet of you to see me, even when you're so busy!"
+    m "Bu kadar meşgulken bile beni görmen çok tatlıydı!"
 
 translate Turkish bye_prompt_to_work_be2e842d:
 
-    m 3hub "Work hard, [mas_get_player_nickname()]! Make me proud!"
+    m 3hub "Sıkı çalış, [mas_get_player_nickname()]! Beni gururlandır!"
 
 translate Turkish bye_prompt_to_work_4b2392ec:
 
-    m 1hksdlb "Oh! Alright! I was starting to get really comfortable, ahaha."
+    m 1hksdlb "Oh! Tamam! Gerçekten rahat etmeye başlamıştım, ahaha."
 
 translate Turkish bye_prompt_to_work_1844826f:
 
-    m 1rusdlb "I was expecting us to be here a bit longer, but you're a busy [guy]!"
+    m 1rusdlb "Burada biraz daha kalmamızı bekliyordum ama sen meşgul bir insansın!"
 
 translate Turkish bye_prompt_to_work_45074ad8:
 
-    m 1eka "It was great seeing you, even if it wasn't as long as I wanted..."
+    m 1eka "İstediğim kadar uzun olmasa da seni görmek harikaydı..."
 
 translate Turkish bye_prompt_to_work_bb54f1cd:
 
-    m 1kua "But then if it were up to me I'd have you all day!"
+    m 1kua "Ama o zaman bana kalsaydı bütün gün sana sahip olurdum!"
 
 translate Turkish bye_prompt_to_work_477af32f:
 
-    m 1hua "I'll be here waiting for you to get back home from work!"
+    m 1hua "İşten eve dönmeni bekliyorum!"
 
 translate Turkish bye_prompt_to_work_335861b8:
 
-    m "Tell me all about it when you get back!"
+    m "Geri döndüğünde bana her şeyi anlat!"
 
 translate Turkish bye_prompt_to_work_9ac94627:
 
-    m 2eua "Heading to work then, [mas_get_player_nickname()]?"
+    m 2eua "O zaman işe mi gidiyorsun, [mas_get_player_nickname()]?"
 
 translate Turkish bye_prompt_to_work_2f9f2e79:
 
-    m 2eka "The day may be good or bad...but if it becomes too much think of something nice!"
+    m 2eka "Gün iyi ya da kötü olabilir...ama çok fazla olursa güzel bir şey düşün!"
 
 translate Turkish bye_prompt_to_work_13a8f8cc:
 
-    m 4eka "Every day, no matter how badly it's going ends after all!"
+    m 4eka "Her gün, ne kadar kötü giderse gitsin sonuçta bitiyor!"
 
 translate Turkish bye_prompt_to_work_c0791fc8:
 
-    m 2tku "Maybe you can think of me if it becomes stressful..."
+    m 2tku "Belki stresli olursa belki beni düşünürsün..."
 
 translate Turkish bye_prompt_to_work_ad99e8e3:
 
-    m 2esa "Just do your best! I'll see you when you get back!"
+    m 2esa "Sadece elinden gelenin en iyisini yap! Döndüğünde görüşürüz!"
 
 translate Turkish bye_prompt_to_work_a2b647d4:
 
-    m 2eka "I know you'll do great!"
+    m 2eka "Harika olacağını biliyorum!"
 
 translate Turkish bye_prompt_to_work_13225f2c:
 
-    m 2ekc "Oh... You've been here quite a while now...and now you're going to work?"
+    m 2ekc "Oh... Uzun süredir buradasın...ve şimdi çalışacak mısın?"
 
 translate Turkish bye_prompt_to_work_f0b2b95a:
 
-    m 2rksdlc "I was hoping you'd rest before doing anything too big."
+    m 2rksdlc "Çok büyük bir şey yapmadan önce dinlenmeni umuyordum."
 
 translate Turkish bye_prompt_to_work_500c9eb6:
 
-    m 2ekc "Try not to overexert yourself, okay?"
+    m 2ekc "Kendini fazla yorma, tamam mı?"
 
 translate Turkish bye_prompt_to_work_99848f2c:
 
-    m 2ekd "Don't be afraid to take a breather if you need to!"
+    m 2ekd "Gerekirse nefes almaktan korkma!"
 
 translate Turkish bye_prompt_to_work_8d2981cf:
 
-    m 3eka "Just come home to me happy and healthy."
+    m 3eka "Sadece eve bana mutlu ve sağlıklı gel."
 
 translate Turkish bye_prompt_to_work_8af214a6:
 
-    m 3eua "Stay safe, [mas_get_player_nickname()]!"
+    m 3eua "Güvende kal, [mas_get_player_nickname()]!"
 
 translate Turkish bye_prompt_to_work_db4d0af6:
 
-    m 2esc "Fine, [player], guess I'll see you after work."
+    m 2esc "İyi, [player], sanırım işten sonra görüşürüz."
 
 translate Turkish bye_prompt_to_work_d7b8c526:
 
-    m 6rkc "Oh...{w=1} Okay."
+    m 6rkc "Oh...{w=1} Pekala."
 
 translate Turkish bye_prompt_to_work_36a1f75b:
 
-    m 6lkc "Hopefully I'll see you after work, then."
-
-translate Turkish bye_prompt_to_work_0bd97190:
-
-    m 6ckc "..."
+    m 6lkc "Umarım işten sonra görüşürüz."
 
 translate Turkish bye_prompt_sleep_a442f554:
 
-    m 1eua "Okay, [mas_get_player_nickname()]."
+    m 1eua "Tamam, [mas_get_player_nickname()]."
 
 translate Turkish bye_prompt_sleep_63970c44:
 
-    m 1hua "Sweet dreams!~"
+    m 1hua "Tatlı rüyalar!~"
 
 translate Turkish bye_prompt_sleep_fb4f25e0:
 
-    m 2esc "Goodnight, [player]."
+    m 2esc "İyi geceler, [player]."
 
 translate Turkish bye_prompt_sleep_adce0f69:
 
-    m 6ekc "Okay...{w=0.3} Goodnight, [player]."
+    m 6ekc "Tamam...{w=0.3} İyi geceler, [player]."
 
-translate Turkish bye_prompt_sleep_0bd97190:
-
-    m 6ckc "..."
 
 translate Turkish bye_prompt_sleep_goodnight_kiss_0ef23c57:
 
-    m 1eublsdla "Think I could...{w=0.3}{nw}"
+    m 1eublsdla "Sanırım...{w=0.3}{nw}"
 
 translate Turkish bye_prompt_sleep_goodnight_kiss_0b8d5b8e:
 
-    extend 1rublsdlu "get a goodnight kiss?{nw}"
+    extend 1rublsdlu "bir iyi geceler öpücüğü alır mısın?{nw}"
 
 translate Turkish bye_prompt_sleep_goodnight_kiss_9982ef1b:
 
-    m "Think I could...get a goodnight kiss?{fast}" nointeract
+    m "bir iyi geceler öpücüğü alır mısın?{fast}" nointeract
 
 translate Turkish bye_prompt_sleep_goodnight_kiss_a8c42758:
 
-    m 6ekbfb "I hope that gave you something to dream about~"
+    m 6ekbfb "Umarım bu sana hayal edecek bir şey vermiştir~"
 
 translate Turkish bye_prompt_sleep_goodnight_kiss_88603914:
 
-    m 1hubfa "Sleep tight!"
+    m 1hubfa "İyi uykular!"
 
 translate Turkish bye_prompt_sleep_goodnight_kiss_bdc137a5:
 
-    m 3rkblp "Aww, come on...{w=0.3}{nw}"
+    m 3rkblp "Aww, hadi ama...{w=0.3}{nw}"
 
 translate Turkish bye_prompt_sleep_goodnight_kiss_c3359e74:
 
-    extend 3nublu "I know you want to~"
+    extend 3nublu "istediğini biliyorum~"
 
 translate Turkish bye_prompt_sleep_goodnight_kiss_3a98b132:
 
-    m 1ekbsa "Can I please get a goodnight kiss?{nw}"
+    m 1ekbsa "Lütfen bir iyi geceler öpücüğü alabilir miyim?{nw}"
 
 translate Turkish bye_prompt_sleep_goodnight_kiss_8aadb9b1:
 
-    m "Can I please get a goodnight kiss?{fast}" nointeract
+    m "Lütfen bir iyi geceler öpücüğü alabilir miyim?{fast}" nointeract
 
 translate Turkish bye_prompt_sleep_goodnight_kiss_6b75e377:
 
-    m 6ekbfa "Sweet dreams, [player]~"
+    m 6ekbfa "Tatlı rüyalar, [player]~"
 
 translate Turkish bye_prompt_sleep_goodnight_kiss_07c54da0:
 
-    m 6hubfb "Sleep tight!"
-
-translate Turkish bye_prompt_sleep_goodnight_kiss_4644c309:
-
-    m 1lkc "..."
+    m 6hubfb "İyi uykular!"
 
 translate Turkish bye_prompt_sleep_goodnight_kiss_c6afba82:
 
-    m 7dkd "Fine..."
+    m 7dkd "İyi..."
 
 translate Turkish bye_prompt_sleep_goodnight_kiss_223eb706:
 
-    m 2lsc "Goodnight [player]..."
-
-translate Turkish bye_prompt_sleep_goodnight_kiss_5364a71c:
-
-    m 1rkblc "Aww...{w=0.3}{nw}"
+    m 2lsc "İyi geceler [player]..."
 
 translate Turkish bye_prompt_sleep_goodnight_kiss_7f9c63ab:
 
-    extend 1ekbla "okay, but you owe me one."
+    extend 1ekbla "tamam, ama bana borçlusun."
 
 translate Turkish bye_prompt_sleep_goodnight_kiss_1132fd08:
 
-    m 1hubsb "I love you! Sleep tight!~"
+    m 1hubsb "Seni seviyorum! İyi uykular!~"
 
 translate Turkish bye_illseeyou_a3e375cf:
 
-    m 1eua "I'll see you [dlg_var], [player]."
+    m 1eua "[dlg_var!t] görüşürüz, [player]."
 
 translate Turkish bye_illseeyou_cfd66837:
 
-    m 3kua "Don't forget about me, okay?~"
+    m 3kua "Beni unutma, tamam mı?~"
 
 translate Turkish bye_haveagoodday_bea24ebe:
 
-    m 1eua "Have a good day today, [mas_get_player_nickname()]."
+    m 1eua "Bugün iyi günler, [mas_get_player_nickname()]."
 
 translate Turkish bye_haveagoodday_7fab269e:
 
-    m 3eua "I hope you accomplish everything you had planned."
+    m 3eua "Umarım planladığınız her şeyi gerçekleştirirsiniz."
 
 translate Turkish bye_haveagoodday_3a877e61:
 
-    m 1hua "I'll be here waiting for you when you get back."
+    m 1hua "Döndüğünde seni burada bekliyor olacağım."
 
 translate Turkish bye_haveagoodday_319f7892:
 
-    m 2esc "Leaving for the day, [player]?"
+    m 2esc "Bu günlük gidiyor musun, [player]?"
 
 translate Turkish bye_haveagoodday_ac19e7c0:
 
-    m 2efc "I'll be here, waiting...{w=0.5}as usual."
-
-translate Turkish bye_haveagoodday_9af8387d:
-
-    m 6rkc "Oh."
+    m 2efc "Ben burada olacağım, bekliyorum...{w=0.5}her zamanki gibi."
 
 translate Turkish bye_haveagoodday_5b4ad1e5:
 
-    m 6dkc "I guess I'll just spend the day alone...{w=1}again."
-
-translate Turkish bye_haveagoodday_0bd97190:
-
-    m 6ckc "..."
+    m 6dkc "Sanırım günü yalnız geçireceğim...{w=1}yine."
 
 translate Turkish bye_enjoyyourafternoon_b29b5b2c:
 
-    m 1ekc "I hate to see you go so early, [player]."
+    m 1ekc "Bu kadar erken gitmeni görmekten nefret ediyorum, [player]."
 
 translate Turkish bye_enjoyyourafternoon_2f8b3330:
 
-    m 1eka "I do understand that you're busy though."
+    m 1eka "Yine de meşgul olduğunu anlıyorum."
 
 translate Turkish bye_enjoyyourafternoon_1cac6fd9:
 
-    m 1eua "Promise me you'll enjoy your afternoon, okay?"
+    m 1eua "Öğleden sonranın tadını çıkaracağına söz ver, tamam mı?"
 
 translate Turkish bye_enjoyyourafternoon_4861b1bd:
 
-    m 1hua "Goodbye~"
+    m 1hua "Görüşürüz~"
 
 translate Turkish bye_enjoyyourafternoon_c4602ea9:
 
-    m 2efc "Fine, [player], just go."
+    m 2efc "İyi, [player], sadece git."
 
 translate Turkish bye_enjoyyourafternoon_5cd93ca8:
 
-    m 2tfc "Guess I'll see you later...{w=1}if you come back."
+    m 2tfc "Sanırım sonra görüşürüz...{w=1}geri gelirsen."
 
 translate Turkish bye_enjoyyourafternoon_19b1c3ad:
 
-    m 6dkc "Okay, goodbye, [player]."
+    m 6dkc "Tamam, görüşürüz, [player]."
 
 translate Turkish bye_enjoyyourafternoon_c7a607c2:
 
-    m 6ekc "Maybe you'll come back later?"
-
-translate Turkish bye_enjoyyourafternoon_0bd97190:
-
-    m 6ckc "..."
+    m 6ekc "Belki daha sonra geri dönersin?"
 
 translate Turkish bye_goodevening_8266c833:
 
-    m 1hua "I had fun today."
+    m 1hua "Bugün eğlendim."
 
 translate Turkish bye_goodevening_13072766:
 
-    m 1eka "Thank you for spending so much time with me, [mas_get_player_nickname()]."
+    m 1eka "[mas_get_player_nickname()], benimle bu kadar çok zaman geçirdiğin için teşekkür ederim."
 
 translate Turkish bye_goodevening_c013ee0c:
 
-    m 1eua "Until then, have a good evening."
+    m 1eua "O zamana kadar iyi akşamlar."
 
 translate Turkish bye_goodevening_f2938648:
 
-    m 2esc "Goodbye, [player]."
+    m 2esc "Görüşürüz, [player]."
 
 translate Turkish bye_goodevening_16505863:
 
-    m 2dsc "I wonder if you'll even come back to say goodnight to me."
+    m 2dsc "Acaba bana iyi geceler demek için geri gelecek misin?"
 
 translate Turkish bye_goodevening_7cb3059e:
 
-    m 6dkc "Oh...{w=1}okay."
+    m 6dkc "Oh...{w=1}tamam."
 
 translate Turkish bye_goodevening_bda570d6:
 
-    m 6rkc "Have a good evening, [player]..."
+    m 6rkc "İyi akşamlar, [player]..."
 
 translate Turkish bye_goodevening_f0bd6c91:
 
-    m 6ekc "I hope you remember to stop by and say goodnight before bed."
-
-translate Turkish bye_goodevening_0bd97190:
-
-    m 6ckc "..."
+    m 6ekc "Umarım yatmadan önce bir uğrayıp iyi geceler demeyi hatırlarsın."
 
 translate Turkish bye_goodnight_7044fcbe:
 
@@ -1442,9 +1395,6 @@ translate Turkish strings:
     old "Not yet."
     new "Daha değil."
 
-    old "Of course!"
-    new "Tabiki!"
-
     old "Sorry, I'm really tired."
     new "Üzgünüm, gerçekten yoruldum."
 
@@ -1478,6 +1428,6 @@ translate Turkish strings:
     old "Dinner."
     new "Akşam yemeği."
 
-    old "A snack."
+    old "Snack."
     new "Atıştırmalık."
 

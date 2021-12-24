@@ -356,7 +356,7 @@ translate Turkish monika_idle_coding_callback_5d17f0c3:
 
 translate Turkish monika_idle_workout_d5dec9bc:
 
-    m 1hub "Pekala, [player]！"
+    m 1hub "Pekala, [player]!"
 
 translate Turkish monika_idle_workout_0f16cba9:
 
@@ -877,4 +877,4 @@ translate Turkish strings:
     new "Gözlerimin ekrandan bir molaya ihtiyacı var"
 
     old "I'm going to read"
-    new "Kitap okuyacağım"
+    new "Birşeyler okuyacağım"

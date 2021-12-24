@@ -440,6 +440,15 @@ translate Turkish strings:
     old "Calibrate"
     new "Calibrate"
 
+    old "Powersave"
+    new "Güç tasarrufu"
+
+    old "Framerate"
+    new "Kare hızı (FPS)"
+
+    old "Screen"
+    new "Ekran"
+
     old "Changes will take effect the next time this program is run."
     new "Değişiklikler, bu program bir sonraki çalıştırılışında geçerli olacaktır."
 

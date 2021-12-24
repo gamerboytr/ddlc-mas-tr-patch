@@ -2204,6 +2204,9 @@ translate Turkish strings:
     old "You don't mind if I think about what to say next, do you?"
     new "Bundan sonra ne diyeceğimi düşünmemde bir sakınca yok, değil mi?"
 
+    old "Of course!"
+    new "Tabii ki!"
+
     old "...Yes."
     new "...Evet."
 

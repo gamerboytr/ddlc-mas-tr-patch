@@ -1,6 +1,4 @@
-﻿
-
-translate Turkish mas_monika_islands_3e3b6f6f:
+﻿translate Turkish mas_monika_islands_3e3b6f6f:
 
     m 1eub "Of course! You can admire the scenery for now."
 

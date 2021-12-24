@@ -126,14 +126,6 @@ translate Turkish mas_compliment_intelligent_2_6ecd8f50:
 
     m 2lkbsc "Üzgünüm, niyetim bu değildi..."
 
-translate Turkish mas_compliment_intelligent_3_75854caf:
-
-    m 1ekbfa "[mas_compliments.thanks_quip]"
-
-translate Turkish mas_compliment_intelligent_3_159a68dc:
-
-    m 1hub "[intelligent_quip]"
-
 translate Turkish mas_compliment_hair_2_798b5d19:
 
     m 1wubsb "Çok teşekkürler, [player]..."
@@ -1087,7 +1079,7 @@ translate Turkish strings:
     new "Bu kulağa çok eğlenceli geliyor!"
 
     old "No promises, but I'll do my best."
-    new "Söz yok ama elimden geleni yapacağım."
+    new "Söz yok, ama elimden geleni yapacağım."
 
     old "I'd rather not get sweaty..."
     new "Üzülmemeyi tercih ederim..."

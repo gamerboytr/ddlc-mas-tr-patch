@@ -1498,9 +1498,9 @@ translate Turkish mas_scary_story_kuchisake_onna_4e3cb883:
 
     m 2dsc "He then brutally punished her by cutting her mouth from ear to ear, disfiguring her delicate beauty."
 
-translate Turkish mas_scary_story_kuchisake_onna_474c7627:
+translate Turkish mas_scary_story_kuchisake_onna_5300ce86:
 
-    m 4efd "'Who will think you as beautiful now?' were his salt to her horrifying wound."
+    m 4efd "'Who will think you as beautiful now?' was the salt to her horrifying wound."
 
 translate Turkish mas_scary_story_kuchisake_onna_1c5ebc2f:
 

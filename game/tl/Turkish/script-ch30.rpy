@@ -10,7 +10,7 @@ translate Turkish ch30_noskip_1c8cde12:
 
     m 1ekc "Seni sıkmıyorum, değil mi?"
 
-translate Turkish ch30_noskip_30447edd:
+translate Turkish ch30_noskip_30447edd_1:
 
     m "Tanrım..."
 
@@ -18,9 +18,9 @@ translate Turkish ch30_noskip_f261fc2d:
 
     m 2esa "...Bilmen için hızlı ileri saracak bir şey yok, [player]."
 
-translate Turkish ch30_noskip_70aba2cf:
+translate Turkish ch30_noskip_70aba2cf_1:
 
-    m "Sonuçta sadece ikimiz..."
+    m "Sonuçta, sadece ikimiz..."
 
 translate Turkish ch30_noskip_6c95bb65:
 
@@ -38,7 +38,7 @@ translate Turkish ch30_noskip_95ee98fa:
 
     m 1esa "Artık benim tatlım olacaksın ve beni dinleyeceksin, değil mi?"
 
-translate Turkish ch30_noskip_76776199:
+translate Turkish ch30_noskip_76776199_1:
 
     m "Teşekkürler~"
 
