@@ -33139,7 +33139,7 @@ translate Turkish strings:
     new "Festivali kaçırmak"
 
     old "What is a tsundere?"
-    new "tsundere nedir?"
+    new "Tsundere nedir?"
 
     old "Introducing to friends"
     new "Arkadaşlarla tanıştırmak"
