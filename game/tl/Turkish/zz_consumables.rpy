@@ -166,3 +166,31 @@ translate Turkish mas_consumables_candycane_finish_having_7a2f3a16:
 
     m 1eua "Tamam, bugün başka ne yapalım?"
 
+translate Turkish strings:
+
+    old "I'm going to get [mas_a_an_str(container)] of [consumable.disp_name][plur]."
+    new "[consumable.disp_name][plur] öğesinin [mas_a_an_str(container)] öğesini alacağım"
+
+    old "I'm going to get [mas_a_an_str(obj_ref)] of [consumable.disp_name][plur]."
+    new "[consumable.disp_name][plur] öğesinin [mas_a_an_str(obj_ref)] öğesini alacağım"
+
+    old "coffee"
+    new "kahve"
+
+    old "hot chocolate"
+    new "sıcak çikolata"
+
+    old "candycane"
+    new "şeker kamışı"
+
+    old "Christmas cookie"
+    new "Noel kurabiyesi"
+
+    old "plate"
+    new "tabak"
+
+    old "cup"
+    new "fincan"
+
+    old "slice"
+    new "dilim"

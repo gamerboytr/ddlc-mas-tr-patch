@@ -104,7 +104,7 @@ translate Turkish mas_compliment_awesome_3_332aba7b:
 
 translate Turkish mas_compliment_intelligent_2_ef8d60ea:
 
-    m 1wub "Wow...{w=0.3}teşekkürler, [player]."
+    m 1wub "Vay canına...{w=0.3}teşekkürler, [player]."
 
 translate Turkish mas_compliment_intelligent_2_f420221e:
 
@@ -688,7 +688,7 @@ translate Turkish mas_compliment_humor_3_418dc515:
 
 translate Turkish mas_compliment_missed_154bd938:
 
-    m 1fka "Bende seni çok özledim, [mas_get_player_nickname()]!"
+    m 1fka "Bende seni çok özledim, [mas_get_player_nickname()!t]!"
 
 translate Turkish mas_compliment_missed_f13f86a3:
 
@@ -696,7 +696,7 @@ translate Turkish mas_compliment_missed_f13f86a3:
 
 translate Turkish mas_compliment_missed_74920eba:
 
-    m 1fka "Bende seni özledim, [mas_get_player_nickname()]!"
+    m 1fka "Bende seni özledim, [mas_get_player_nickname()!t]!"
 
 translate Turkish mas_compliment_missed_f91f98c9:
 
@@ -848,11 +848,11 @@ translate Turkish mas_compliment_sweet_1863c5a4:
 
 translate Turkish mas_compliment_sweet_38008d69:
 
-    m 5ekbsa "Benim hakkımda böyle hissettiğin için gerçekten mutluyum, [mas_get_player_nickname()]. Seni çok seviyorum."
+    m 5ekbsa "Benim hakkımda böyle hissettiğin için gerçekten mutluyum, [mas_get_player_nickname()!t]. Seni çok seviyorum."
 
 translate Turkish mas_compliment_sweet_004441b3:
 
-    m 1ekbsa "Teşekkürler, [mas_get_player_nickname()]."
+    m 1ekbsa "Teşekkürler, [mas_get_player_nickname()!t]."
 
 translate Turkish mas_compliment_sweet_8704f540:
 
@@ -872,7 +872,7 @@ translate Turkish mas_compliment_sweet_repeat_1366a1cd:
 
 translate Turkish mas_compliment_outfit_512d7750:
 
-    m 1hubsb "Teşekkürler, [mas_get_player_nickname()]!"
+    m 1hubsb "Teşekkürler, [mas_get_player_nickname()!t]!"
 
 translate Turkish mas_compliment_outfit_6ba66314:
 
@@ -904,11 +904,11 @@ translate Turkish mas_compliment_outfit_70c619fd:
 
 translate Turkish mas_compliment_outfit_4b44ecad:
 
-    m 5hubsa "Seni seviyorum, [mas_get_player_nickname()]!"
+    m 5hubsa "Seni seviyorum, [mas_get_player_nickname()!t]!"
 
 translate Turkish mas_compliment_outfit_b9aa5d81:
 
-    m 3hubfb "Teşekkürler, [mas_get_player_nickname()]!"
+    m 3hubfb "Teşekkürler, [mas_get_player_nickname()!t]!"
 
 translate Turkish mas_compliment_outfit_14c69898:
 
@@ -947,13 +947,13 @@ translate Turkish strings:
     new "Bunu tekrar söylediğin için teşekkürler, [player]!"
 
     old "Thanks for telling me that again, [mas_get_player_nickname()]!"
-    new "Bunu bana tekrar söylediğin için teşekkürler, [mas_get_player_nickname()]!"
+    new "Bunu bana tekrar söylediğin için teşekkürler, [mas_get_player_nickname()!t]!"
 
     old "You always make me feel special, [mas_get_player_nickname()]."
-    new "Beni her zaman özel hissettiriyorsun, [mas_get_player_nickname()]."
+    new "Beni her zaman özel hissettiriyorsun, [mas_get_player_nickname()!t]."
 
     old "Thanks, [mas_get_player_nickname()]!"
-    new "Teşekkürler, [mas_get_player_nickname()]!"
+    new "Teşekkürler, [mas_get_player_nickname()!t]!"
 
     old "You always flatter me, [player]."
     new "Beni her zaman şımartıyorsun [player]."
@@ -1398,4 +1398,3 @@ translate Turkish strings:
 
     old "I love this outfit!"
     new "Bu kıyafeti seviyorum!"
-

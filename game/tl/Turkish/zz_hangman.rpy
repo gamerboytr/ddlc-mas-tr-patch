@@ -1,6 +1,4 @@
-﻿$ store.mas_hangman.game_name = "Adam asmaca"
-
-translate Turkish mas_hangman_game_select_diff_0176af25:
+﻿translate Turkish mas_hangman_game_select_diff_0176af25:
 
     m "Bir zorluk seç.{nw}"
 
@@ -22,7 +20,7 @@ translate Turkish mas_hangman_game_loop_6f9f945d:
 
 translate Turkish mas_hangman_game_loop_ec08e45d:
 
-    m "{cps=*2}[hm_glitch_word]{/cps}{w=0.2}{nw}"
+    m "{cps=*2}[hm_glitch_word!t]{/cps}{w=0.2}{nw}"
 
 translate Turkish mas_hangman_game_loop_3b6e1424:
 
@@ -94,7 +92,7 @@ translate Turkish mas_hangman_game_loop_17be01df:
 
 translate Turkish mas_hangman_game_loop_c7891309:
 
-    m 1hua "Wow, [the_word] doğru tahmin ettin!"
+    m 1hua "Vay canına, [the_word] doğru tahmin ettin!"
 
 translate Turkish mas_hangman_game_loop_73956dbf:
 
@@ -110,7 +108,7 @@ translate Turkish mas_hangman_game_loop_32d0248c:
 
 translate Turkish mas_hangman_dlg_game_end_long_a3194e1a:
 
-    m 1euc "[store.mas_hangman.game_name] aslında oldukça zor bir oyundur."
+    m 1euc "[store.mas_hangman.game_name!t] aslında oldukça zor bir oyundur."
 
 translate Turkish mas_hangman_dlg_game_end_long_5a7c1bd2:
 
@@ -130,9 +128,29 @@ translate Turkish mas_hangman_dlg_game_end_short_05c7b63d:
 
 translate Turkish strings:
 
+    old "Missed:"
+    new "Iskalanan:"
+
+    old "Guess a letter: (Type '?' to repeat the hint, "
+    new "Bir harf tahmin et: (İpucunu tekrarlamak için '?' yaz,"
+
+    old "!' to give up"
+    new "pes etmek için '!'"
+
     old "Easy."
     new "Kolay."
 
     old "Hard."
     new "Zor."
 
+    old "{0} would like this word the most."
+    new "{0} en çok bu kelimeyi seviyor."
+
+    old "your name"
+    new "adın"
+
+    old "the word"
+    new "kelime"
+
+    old "Okay. Let's play again soon!"
+    new "Peki. Yakında tekrar oynayalım!"

@@ -757,67 +757,67 @@ translate Turkish strings:
    new "Utanma, [player]."
 
    old "What would you like to talk about, [mas_get_player_nickname()]?"
-   new "Ne hakkında konuşmak istersin, [mas_get_player_nickname()]?"
+   new "Ne hakkında konuşmak istersin, [mas_get_player_nickname()!t]?"
 
    old "Is there something you'd like to talk about, [mas_get_player_nickname()]?"
-   new "Konuşmak istediğin bir şey var mı, [mas_get_player_nickname()]?"
+   new "Konuşmak istediğin bir şey var mı, [mas_get_player_nickname()!t]?"
 
    old "Something on your mind, [mas_get_player_nickname()]?"
-   new "Aklında birşey mi var, [mas_get_player_nickname()]？"
+   new "Aklında birşey mi var, [mas_get_player_nickname()!t]?"
 
    old "Up to chat, [mas_get_player_nickname()]?"
-   new "Sohbete hazır mısın, [mas_get_player_nickname()]?"
+   new "Sohbete hazır mısın, [mas_get_player_nickname()!t]?"
 
    old "Yes, [mas_get_player_nickname()]?"
-   new "Evet, [mas_get_player_nickname()]？"
+   new "Evet, [mas_get_player_nickname()!t]?"
 
    old "What's on your mind, [mas_get_player_nickname()]?"
-   new "Aklında ne var, [mas_get_player_nickname()]？"
+   new "Aklında ne var, [mas_get_player_nickname()!t]?"
    
    old "What's up, [mas_get_player_nickname()]?"
-   new "Naber, [mas_get_player_nickname()]?"
+   new "Naber, [mas_get_player_nickname()!t]?"
 
    old "Ask away, [mas_get_player_nickname()]."
-   new "Sor, [mas_get_player_nickname()]."
+   new "Sor, [mas_get_player_nickname()!t]."
 
    old "Don't be shy, [mas_get_player_nickname()]~"
-   new "Utanma, [mas_get_player_nickname()]~"
+   new "Utanma, [mas_get_player_nickname()!t]~"
 
    old "I'm all ears, [mas_get_player_nickname()]~"
-   new "Can kulağı ile dinliyorum, [mas_get_player_nickname()]~"
+   new "Can kulağı ile dinliyorum, [mas_get_player_nickname()!t]~"
 
    old "Of course we can talk, [mas_get_player_nickname()]."
-   new "Tabikide konuşabiliriz, [mas_get_player_nickname()]."
+   new "Tabikide konuşabiliriz, [mas_get_player_nickname()!t]."
 
    old "What would you like to talk about? <3"
    new "Ne hakkında konuşmak istersin? <3"
 
    old "What would you like to talk about, [mas_get_player_nickname()]? <3"
-   new "Ne hakkında konuşmak istersin, [mas_get_player_nickname()]? <3"
+   new "Ne hakkında konuşmak istersin, [mas_get_player_nickname()!t]? <3"
 
    old "Up to chat, I see~"
    new "Sohbete hazırsın, görüyorum~"
 
    old "Ask away, [mas_get_player_nickname()]~"
-   new "Sor, [mas_get_player_nickname()]~"
+   new "Sor, [mas_get_player_nickname()!t]~"
 
    old "Of course we can talk, [mas_get_player_nickname()]~"
-   new "Tabikide konuşabiliriz, [mas_get_player_nickname()]~"
+   new "Tabikide konuşabiliriz, [mas_get_player_nickname()!t]~"
 
    old "Take all the time you need, [player]."
    new "İhtiyacın olan tüm zamanı al, [player]."
 
    old "We can talk about whatever you'd like, [mas_get_player_nickname()]."
-   new "Ne istersen konuşabiliriz, [mas_get_player_nickname()]."
+   new "Ne istersen konuşabiliriz, [mas_get_player_nickname()!t]."
 
    old "Take all the time you need, [mas_get_player_nickname()]~"
-   new "İhtiyacın olan tüm zamanı al, [mas_get_player_nickname()]~"
+   new "İhtiyacın olan tüm zamanı al, [mas_get_player_nickname()!t]~"
 
    old "I'm all yours, [mas_get_player_nickname()]~"
-   new "Tamamen seninim, [mas_get_player_nickname()]~"
+   new "Tamamen seninim, [mas_get_player_nickname()!t]~"
 
    old "Oh? Something...{w=0.3}{i}important{/i} on your mind, [mas_get_player_nickname()]?~"
-   new "Oh? Aklında...{w=0.3}{i}önemli{/i} birşey mi var, [mas_get_player_nickname()]?~"
+   new "Oh? Aklında...{w=0.3}{i}önemli{/i} birşey mi var, [mas_get_player_nickname()!t]?~"
 
    old "If that's what you want..."
    new "Eğer istediğin buysa..."
@@ -850,10 +850,10 @@ translate Turkish strings:
    new "Elbette, bir oyun için hazırım!"
 
    old "Choose anything you like, [mas_get_player_nickname()]."
-   new "İstediğin herhangi bir şeyi seç, [mas_get_player_nickname()]."
+   new "İstediğin herhangi bir şeyi seç, [mas_get_player_nickname()!t]."
 
    old "What should we play today, [mas_get_player_nickname()]?"
-   new "Bugün ne oynayalım, [mas_get_player_nickname()]?"
+   new "Bugün ne oynayalım, [mas_get_player_nickname()!t]?"
 
    old "Pick anything you like."
    new "Beğendiğin herhangi bir şeyi seç."
@@ -865,16 +865,16 @@ translate Turkish strings:
    new "Bir oyun seç, herhangi bir oyun~"
 
    old "Pick anything you like, [mas_get_player_nickname()]."
-   new "İstediğin herhangi bir şeyi seç, [mas_get_player_nickname()]."
+   new "İstediğin herhangi bir şeyi seç, [mas_get_player_nickname()!t]."
 
    old "I'd love to play something with you, [mas_get_player_nickname()]~"
-   new "Seninle bir şeyler çalmayı çok isterim, [mas_get_player_nickname()]~"
+   new "Seninle bir şeyler çalmayı çok isterim, [mas_get_player_nickname()!t]~"
 
    old "Sure, I'd love to play with you!"
    new "Elbette, seninle oynamayı çok isterim!"
 
    old "I'll always be up to play with you, [mas_get_player_nickname()]~"
-   new "Seninle her zaman oynamaya hazır olacağım, [mas_get_player_nickname()]~"
+   new "Seninle her zaman oynamaya hazır olacağım, [mas_get_player_nickname()!t]~"
 
    old "Can I call you a different nickname?"
    new "Sana farklı bir lakap ile seslenebilir miyim?"

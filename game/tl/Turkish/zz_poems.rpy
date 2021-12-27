@@ -23,6 +23,13 @@ translate Turkish monika_showpoem_bd219ce5:
     m 1eua "Pekala, [player]."
 
 translate Turkish strings:
+
+    old "Can I read one of your poems again?"
+    new "Şiirlerinden birini tekrar okuyabilir miyim?"
+
+    old "Which poem would you like to read?"
+    new "Hangi şiiri okumak istersin?"
+
     old "Hole in Wall"
     new "Duvardaki Delik"
 
@@ -160,17 +167,17 @@ Parlak, güzel renkler
 Yanip sönme, genisletme, delme
 Kirmizi yesil mavi
 sonsuz
-KAKOFONİ
+KAKOFONI
 anlamsiz
 gürültü, ses
 Gürültü, durmayacak.
 siddet, rendeleme w vef rms
 Sq e kral, çiglik, delici
-SİNE, KOSİN, TANGENT
+SINE, KOSIN, TANGENT
     Bir mas da yazi tah asi oyn mak gibi
-        NEFES ALAN BİR GÖĞÜS KAFESİ üzerinde BIÇAK oynamak gibi
- n ndl ss
-p m
+        NEFES ALAN bir GÖĞÜS KAFESİ üzerinde BIÇAK oynamak gibi
+ n  ndl ss
+p  m
 Of m  n ngl ss\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
 Onu Sil
     """

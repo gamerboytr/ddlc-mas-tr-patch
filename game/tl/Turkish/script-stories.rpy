@@ -2847,3 +2847,98 @@ translate Turkish strings:
     old "am I pretty?"
     new "Güzel miyim?"
 
+    old "Which story would you like to hear?"
+    new "Hangi hikayeyi duymak istersin?"
+
+    old "The Cat and the Cock"
+    new "Kedi ve Horoz"
+
+    old "The Fox"
+    new "Tilki"
+
+    old "The Shepherd Boy and the Wolf"
+    new "Çoban Çocuk ve Kurt"
+
+    old "The Grasshopper"
+    new "Çekirge"
+
+    old "The Wind and the Sun"
+    new "Rüzgar ve Güneş"
+
+    old "The Seeds"
+    new "Tohumlar"
+
+    old "The Gray Hair"
+    new "Gri Saç"
+
+    old "The Fisherman"
+    new "Balıkçı"
+
+    old "Old Man's Three Wishes"
+    new "Yaşlı Adamın Üç Dileği"
+
+    old "The Simple Genie"
+    new "Basit Cin"
+
+    old "The Genie's Regret"
+    new "Genie'nin Pişmanlığı"
+
+    old " at least"
+    new " en azından"
+
+    old "The Genie's End"
+    new "Cin'in Sonu"
+
+    old "Love Never Ends"
+    new "Aşk asla bitmez"
+
+    old "A mother and her trees"
+    new "Bir anne ve onun ağaçları"
+
+    old "Self-hate"
+    new "Kendi kendine nefret"
+
+    old "The Tale of O-Tei"
+    new "O-Tei'nin Hikayesi"
+
+    old "The Crow and the Pitcher"
+    new "Karga ve Sürahi"
+
+    old "Having A Best Friend"
+    new "En İyi Arkadaşa Sahip Olmak"
+
+    old "The Hunter"
+    new "Avcı"
+
+    old "The Ubume"
+    new "Ubume"
+
+    old "The Woman in Black"
+    new "Siyah Giyen Kadın"
+
+    old "Resurrection Mary"
+    new "Diriliş Meryem"
+
+    old "The Resuscitated Corpse"
+    new "Canlandırılmış Ceset"
+
+    old "The Serial Killer"
+    new "Seri Katil"
+
+    old "The Revenant"
+    new "Diriliş"
+
+    old "Many Loves"
+    new "Birçok Aşk"
+
+    old "The Gray Lady"
+    new "Gri Bayan"
+
+    old "The Flowered Lantern"
+    new "Çiçekli Fener"
+
+    old "The Flowered Lantern 2"
+    new "Çiçekli Fener 2"
+
+    old "The Flowered Lantern 3"
+    new "Çiçekli Fener 3"

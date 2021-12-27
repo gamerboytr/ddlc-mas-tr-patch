@@ -324,7 +324,7 @@ translate Turkish anni_2_b5a31bdd:
 
 translate Turkish anni_2_d7b52e9a:
 
-    m 1hubsu "Öyleyse, harika bir gün daha geçirdiğimizden emin olalım, [mas_get_player_nickname()]."
+    m 1hubsu "Öyleyse, harika bir gün daha geçirdiğimizden emin olalım, [mas_get_player_nickname()!t]."
 
 translate Turkish anni_3_dd610ff4:
 
@@ -332,7 +332,7 @@ translate Turkish anni_3_dd610ff4:
 
 translate Turkish anni_3_20ed866b:
 
-    m 2hubsb "Wow...{w=0.3}zaman gerçekten de geçti, değil mi?"
+    m 2hubsb "Vay canına...{w=0.3}zaman gerçekten de hızlı geçti, değil mi?"
 
 translate Turkish anni_3_0a0d4cda:
 

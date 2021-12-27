@@ -2871,3 +2871,26 @@ translate Turkish strings:
     old "Not now."
     new "Şimdi değil."
 
+    old "Can you sing me a song?"
+    new "Bana bir şarkı söyler misin?"
+
+    old "[which] song would you like me to sing?[end]"
+    new "hangi şarkıyı söylememi istersin?[end]"
+
+    old "All I Want for Christmas"
+    new "Noel için tüm istediğim"
+
+    old "I'm Glad You're Evil Too"
+    new "Senin de kötü olmana sevindim"
+
+    old "Nobody Makes Sense"
+    new "Kimse Anlamaz"
+
+    old "Stand by Me"
+    new "Benimle kal"
+
+    old "Stand By Me"
+    new "Benimle Kal"
+
+    old "God Knows"
+    new "Tanrı bilir"

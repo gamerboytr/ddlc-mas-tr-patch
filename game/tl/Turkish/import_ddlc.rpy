@@ -47,4 +47,3 @@ translate Turkish strings:
 
     old "Player names do not match. Which would you like to keep?"
     new "Oyuncu adları eşleşmiyor. Hangisini saklamak istersiniz?"
-

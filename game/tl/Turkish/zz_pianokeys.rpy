@@ -48,7 +48,7 @@ translate Turkish mas_piano_result_none_4f2ceaa2:
 
 translate Turkish mas_piano_def_win_47b90b65:
 
-    m 1eua "Wow! Neredeyse anladın!"
+    m 1eua "Vay canına! Neredeyse anladın!"
 
 translate Turkish mas_piano_def_win_d70f3474:
 
@@ -76,7 +76,7 @@ translate Turkish mas_piano_def_prac_fa0a49ca:
 
 translate Turkish mas_piano_hb_win_47b90b65:
 
-    m 1eua "Wow! Neredeyse anladın!"
+    m 1eua "Vay canına! Neredeyse anladın!"
 
 translate Turkish mas_piano_hb_win_82d6a914:
 

@@ -88,3 +88,5 @@ translate Turkish strings:
     old "Server returned bad JSON."
     new "Sunucu hatalı JSON döndürdü."
 
+    old "Error: Failed to move 'update/' folder. Please manually move the update folder from 'game/' to the base 'ddlc/' directory and try again."
+    new "Hata: 'update/' klasörü taşınamadı. Lütfen güncelleme klasörünü 'game/'den temel 'ddlc/' dizinine taşıyın ve yeniden deneyin."

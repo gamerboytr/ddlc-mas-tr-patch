@@ -35,6 +35,12 @@ translate Turkish strings:
     old "Calendar"
     new "Takvim"
 
+    old "{#month}Unknown"
+    new "{#month}Bilinmeyen"
+
+    old "Select a Date"
+    new "Bir Tarih Seç"
+
     old "1 Week"
     new "1 Hafta"
 
@@ -116,3 +122,8 @@ translate Turkish strings:
     old "Autumn"
     new "Sonbahar"
 
+    old "and more events"
+    new "ve daha fazla etkinlik"
+
+    old "(Click to see more)"
+    new "(Daha fazlasını görmek için tıklayın)"

@@ -1,4 +1,5 @@
 translate Turkish strings:
+
     old "boyfriend"
     new "erkek arkadaş"
 

@@ -701,4 +701,3 @@ translate Turkish strings:
 
     old "Maybe later."
     new "Belki sonra."
-

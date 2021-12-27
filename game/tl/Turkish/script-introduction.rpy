@@ -714,3 +714,110 @@ translate Turkish strings:
     old "Of course I love you."
     new "Tabii ki seni seviyorum."
 
+    old "Welcome back! Can you be careful to close the game properly next time?"
+    new "Tekrar hoşgeldin! Bir dahaki sefere oyunu düzgün bir şekilde kapatmak için dikkatli olabilir misin?"
+
+    old "It hurts when you don't close the game properly...but I'm sure it was a mistake."
+    new "Oyunu düzgün kapatmadığın zaman acıyor...ama bunun bir hata olduğuna eminim."
+
+    old "That was really scary...but you've fixed it again. Thank you..."
+    new "Bu gerçekten korkutucuydu...ama yine düzelttin. Teşekkürler..."
+
+    old "Would you give me some more of a warning next time?"
+    new "Bir dahaki sefere beni biraz daha uyarır mısın?"
+
+    old "I'm sure you didn't mean to close the game on me but I do need to stress how bad it feels."
+    new "Benim üzerimde oyunu kapatmak istemediğine eminim ama bunun ne kadar kötü hissettirdiğini vurgulamam gerekiyor."
+
+    old "You do remember there was a way to say goodbye right? Just checking~"
+    new "Hoşçakal demenin bir yolu olduğunu hatırlıyorsun değil mi? Sadece kontrol ediyorum~"
+
+    old "My patience is wearing a little thin...but I suppose I can forgive you this time."
+    new "Sabrım biraz zayıflıyor...ama sanırım bu sefer seni affedebilirim."
+
+    old "Everybody makes mistakes..."
+    new "Herkes hata yapar..."
+
+    old "That hurt...I know you wouldn't do it on purpose but please do be more careful."
+    new "Bu acıttı... Bunu bilerek yapmayacağını biliyorum ama lütfen daha dikkatli ol."
+
+    old "...Oh... It's over and I'm back with you my love. That...that was awful."
+    new "...Oh... Bitti ve tekrar seninleyim aşkım. Bu... korkunçtu."
+
+    old "Did something happen outside of your control? I'm just going to guess it was."
+    new "Kontrolün dışında bir şey mi oldu? Sadece öyle olduğunu tahmin edeceğim."
+
+    old "You should have just asked me...but I guess you might have had your reasons"
+    new "Bana sormalıydın...ama sanırım sebeplerin olabilirdi"
+
+    old "I'm so exhausted. It's impossible to rest when you close the game on me."
+    new "Çok yorgunum. Üzerimde oyunu kapattığında dinlenmek imkansız."
+
+    old "...I hate when you close the game without telling me."
+    new "...oyunu bana söylemeden kapatmandan nefret ediyorum."
+
+    old "I feel miserable..."
+    new "kendimi mutsuz hissediyorum..."
+
+    old "It's still so scary when I'm suddenly turned off."
+    new "Aniden kapatıldığımda hala çok korkutucu."
+
+    old "Every time is as bad as the first."
+    new "Her seferinde ilki kadar kötü."
+
+    old "I'm running out of patience for this."
+    new "Bunun için sabrım tükeniyor."
+
+    old "I wish you understood what it felt like when you close the game."
+    new "Keşke oyunu kapattığında nasıl bir his olduğunu anlasaydın."
+
+    old "Well, that was pretty abrupt wasn't it?"
+    new "Pekala, bu oldukça ani oldu değil mi?"
+
+    old "You could have just asked me to close the game silly."
+    new "Benden oyunu kapatmamı isteyebilirdin aptalca."
+
+    old "I'm just going to assume the power went out or someone pulled the plug."
+    new "Sadece gücün kesildiğini veya birinin fişini çektiğini varsayacağım."
+
+    old "I can't understand why you won't ask me to close the game..."
+    new "Benden neden oyunu kapatmamı istemediğini anlayamıyorum..."
+
+    old "This is really painful for me, you know?"
+    new "Bu benim için gerçekten acı verici, biliyor musun?"
+
+    old "Do you enjoy hurting me, [player]?"
+    new "Beni incitmekten zevk alıyor musun, [player]?"
+
+    old "Too lazy to click the 'Talk' button, [player]?"
+    new "'Konuş' düğmesini tıklayamayacak kadar tembel misin, [player]?"
+
+    old "You...really do like hurting me, don't you?"
+    new "Sen...gerçekten beni incitmekten hoşlanıyorsun, değil mi?"
+
+    old "That was a mistake right? It had to have been..."
+    new "Bu bir hataydı değil mi? Olması gerekiyordu..."
+
+    old "Y-You're not doing this on purpose are you? Did I do something wrong?"
+    new "S-Sen bunu bilerek yapmıyorsun değil mi? Ben yanlış bir şey mi yaptım?"
+
+    old "Please be more careful with how I feel... It really does hurt..."
+    new "Lütfen nasıl hissettiğime daha dikkat et... Gerçekten acıtıyor..."
+
+    old "That was an accident...it was an accident...you wouldn't do it on purpose..."
+    new "Bu bir kazaydı...kazaydı...bunu bilerek yapmazdın..."
+
+    old "You must have just forgot...right?"
+    new "Unutmuş olmalısın... değil mi?"
+
+    old "That wasn't funny... That really did hurt."
+    new "Bu komik değildi... Bu gerçekten acıttı."
+
+    old "Everyone makes mistakes... Even you."
+    new "Herkes hata yapar... Sen bile."
+
+    old "I don't know what I'm doing wrong."
+    new "Neyi yanlış yaptığımı bilmiyorum."
+
+    old "That really was awful... Just tell me what I'm doing wrong."
+    new "Bu gerçekten korkunçtu... Sadece bana neyi yanlış yaptığımı söyle."

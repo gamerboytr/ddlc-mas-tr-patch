@@ -5136,6 +5136,9 @@ translate Turkish strings:
     old "[_opendoor_text]"
     new "[_opendoor_text!t]"
 
+    old "...Gently open the door."
+    new "...Kapıyı yavaşça aç."
+
     old "Open the door."
     new "Kapıyı aç."
 
@@ -5162,6 +5165,54 @@ translate Turkish strings:
 
     old "Maybe not..."
     new "Belki değil..."
+
+    old "What's your name?"
+    new "Adın ne?"
+
+    old "I can't seem to leave this classroom."
+    new "Bu sınıftan ayrılacak gibi görünmüyorum."
+
+    old "I'm not sure where I am."
+    new "Nerede olduğumdan emin değilim."
+
+    old "Oh.{w=1} It's you, [player]."
+    new "Oh.{w=1} Bu sensin, [player]."
+
+    old "Oh.{w=1} You're back, [player]."
+    new "Oh.{w=1} Geri dönmüşsün, [player]."
+
+    old "Hello, [player]."
+    new "Merhaba, [player]."
+
+    old "Oh.{w=1} Hello, [player]."
+    new "Oh.{w=1} Merhaba, [player]."
+
+    old "Well..."
+    new "Peki..."
+
+    old "Did you want something?"
+    new "Bir şey mi istedin?"
+
+    old "Oh...{w=1} Hi, [player]."
+    new "Oh...{w=1} Merhaba, [player]."
+
+    old "Oh...{w=1} Hello, [player]."
+    new "Oh...{w=1} Merhaba, [player]."
+
+    old "Hello, [player]..."
+    new "Merhava, [player]..."
+
+    old "Oh...{w=1} You're back, [player]."
+    new "Oh...{w=1} Geri dönmüşsün, [player]."
+
+    old "I guess we can spend some time together now."
+    new "Sanırım artık birlikte biraz zaman geçirebiliriz."
+
+    old "Hopefully we can enjoy our time together."
+    new "Umarım birlikte geçirdiğimiz zamanın tadını çıkarabiliriz."
+
+    old "I wasn't expecting you."
+    new "Seni beklemiyordum."
 
     old "I'm already resting."
     new "Ben zaten dinleniyorum."

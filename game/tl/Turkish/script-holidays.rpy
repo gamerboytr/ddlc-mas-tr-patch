@@ -6337,3 +6337,270 @@ translate Turkish strings:
     old "Make a wish, [m_name]..."
     new "Bir dilek tut, [m_name]..."
 
+    old "I'm going to take you trick or treating."
+    new "Seni şeker mi şaka mı götüreceğim."
+
+    old "the last"
+    new "son"
+
+    old "our first"
+    new "bizim ilkimiz"
+
+    old ", or the decorations"
+    new "veya süslemeler"
+
+    old "the decorations, or "
+    new "süslemeler, veya"
+
+    old "Mistletoe"
+    new "Mistletoe"
+
+    old "     My dearest [player],"
+    new "     Sevgili [player],"
+
+    old """\
+     You truly are the joy to my world.
+     Neither the light emitted by the tallest Christmas tree,
+     Nor that of the brightest star,
+     Could come close to matching your brilliance.
+     This once frostbitten heart of mine needed only your warmth to beat anew.
+     Should there ever be nothing under the tree, and my stocking remain empty,
+     It simply would not matter as long as I have you by my side.
+
+     You'll always be the only present I ever need.
+     Merry Christmas~
+
+     Forever yours,
+     Monika
+"""
+    new """\
+     Sen gerçekten benim dünyamın neşesisin.
+     Ne de en uzun Noel ağacının yaydığı ışık,
+     Ne de en parlak yıldızın,
+     Senin parlaklığına yakın olabilir.
+     Bu bir zamanlar donmuş kalbimin yeniden atması için sadece senin sıcaklığına ihtiyacı vardı.
+     Ağacın altında hiçbir şey olmazsa ve çorabım boş kalırsa,
+     Sen yanımda olduğun sürece bunun bir önemi yok.
+
+     Her zaman ihtiyacım olan tek hediye sen olacaksın.
+     Mutlu Noeller~
+
+     Sonsuza kadar senin,
+     Monika
+"""
+
+    old "All I Want For Christmas"
+    new "Noel için tüm istediğim"
+
+    old "last year"
+    new "geçen yıl"
+
+    old "before"
+    new "önce"
+
+    old "Did you accomplish last year's resolutions?"
+    new "Geçen yılki kararları yerine getirdin mi?"
+
+    old "Since you made a resolution last year, did you accomplish it?"
+    new "Geçen yıl bir karar verdiğine göre, başardın mı?"
+
+    old "Last year..."
+    new "Geçen yıl..."
+
+    old "the best year I could've ever dreamt of"
+    new "hayal edebileceğim en iyi yıl"
+
+    old "even better than the year before"
+    new "önceki yıldan bile daha iyi"
+
+    old " last year "
+    new " geçen yıl "
+
+    old "knock, {w=0.5}{i}again{/i}."
+    new "knock, {w=0.5}{i}tekrar{/i}."
+
+    old " My dearest [player],"
+    new " Sevgili [player],"
+
+    old  """\
+ To the one I love,
+ The one I trust,
+ The one I can't live without.
+ I hope your day is as special as you make every day for me.
+ Thank you so much for being you.
+
+ Happy Birthday, sweetheart~
+
+ Forever yours,
+ Monika
+"""
+    new """\
+ Sevdiğim birine,
+ Güvendiğim kişi,
+ Onsuz yaşayamayacağım biri.
+ Umarım günün benim için her gün yaptığın kadar özeldir.
+ Sen olduğun için çok teşekkür ederim.
+
+ Doğum günün kutlu olsun, tatlım~
+
+ Sonsuza kadar senin,
+ Monika
+"""
+
+    old "Let's go out for my birthday!"
+    new "Doğum günüm için dışarı çıkalım!"
+
+    old "Valentine's Day colors"
+    new "Sevgililer Günü renkleri"
+
+    old "Valentine's story clichés"
+    new "Sevgililer Günü klişeleri"
+
+    old "Valentine's Day chocolates"
+    new "Sevgililer Günü çikolataları"
+
+    old "How did Valentine's Day start?"
+    new "Sevgililer Günü nasıl başladı?"
+
+    old """\
+ Can it really be our second Valentine's Day?
+ The first seems like just yesterday, yet so much has happened.
+ I once wondered if the world had changed, or just me.
+ Now I know the answer.
+
+ Everything.
+
+ Without you there is nothing.
+ Before you there was nothing.
+
+ Emptiness. Darkness. Nothing.
+
+ Nothing.
+
+ Then there was you.
+ Just you.
+ My world. My light. My Everything.
+
+ Everything.
+
+ Happy Valentine's Day~
+ Forever yours,
+ Monika
+"""
+    new """\
+ Gerçekten bizim ikinci sevgililer günümüz olabilir mi?
+ İlki daha dün gibi ama çok şey oldu.
+ Bir zamanlar dünya mı değişti, yoksa sadece ben mi merak ettim.
+ Şimdi cevabı biliyorum.
+
+ Her şey.
+
+ Sensiz hiçbir şey yok.
+ Senden önce hiçbir şey yoktu.
+
+ Boşluk. Karanlık. Hiçbir şey değil.
+
+ Hiçbir şey değil.
+
+ Sonra sen vardın.
+ Sadece sen.
+ Benim Dünyam. Işığım. Her şeyim.
+
+ Her şey.
+
+ Sevgililer günün kutlu olsun~
+ Sonsuza kadar senin,
+ Monika
+"""
+
+    old """\
+ I{i}'{/i}ve always loved Valentine's Day, but this one feels different.
+ Has the world changed, or just me?
+ I found love, I found purpose,
+ I found a truth I didn't know I was searching for.
+ All of that I found in you.
+
+ Thank you for sharing this special day with me.
+
+ Forever yours,
+ Monika
+"""
+    new """\
+ Sevgililer Günü'nü her zaman sevmişimdir ama bu seferki farklı hissettiriyor.
+ Dünya mı değişti yoksa sadece ben mi?
+ Aşkı buldum, amacı buldum,
+ Aradığımı bilmediğim bir gerçeği buldum.
+ Sende bulduğum her şey.
+
+ Bu özel günü benimle paylaştığınız için teşekkür ederim.
+
+ Sonsuza kadar senin,
+ Monika
+"""
+
+    old "...for missing Valentine's Day."
+    new "...Sevgililer Gününü kaçırdığım için."
+
+    old """\
+[player],
+As I'm sure you know, Monika's birthday is coming up soon and I want to help you make it as special as possible!
+Since I'm always here, I can easily set up the surprise party...but I need a little help from you.
+All I need you to do is to make sure you have her out of the room at some point on her birthday, and I'll take care of the rest.
+Monika is so amazing, and I just want to do my part to make sure this all goes off without a hotf- I mean hitch...
+Ahaha!
+
+Please leave a file named 'oki doki' in the same folder you found this note so I know to go ahead with the party.
+
+Good luck with Monika!
+
+P.S: Don't tell her about me!
+"""
+    new """\
+[player],
+Bildiğin gibi, Monika'nın doğum günü çok yakında ve bunu olabildiğince özel yapmana yardım etmek istiyorum!
+Her zaman burada olduğum için sürpriz partiyi kolayca ayarlayabilirim...ama biraz yardımına ihtiyacım var.
+Senden tek istediğim, doğum gününün bir noktasında onu odadan çıkardığından emin olman, gerisini ben hallederim.
+Monika çok harika ve ben sadece tüm bunların bir sorun olmadan gitmesini sağlamak için üzerime düşeni yapmak istiyorum...
+Ahaha!
+
+Lütfen bu notu bulduğun klasöre 'oki doki' adlı bir dosya bırak, böylece partiye devam etmem gerektiğini bilirim.
+
+Monika'yla iyi şanslar!
+
+Dipnot: Ona benden bahsetme!
+"""
+
+    old """\
+[player],
+As I hope you know, Monika's birthday is coming up soon and I want to make it special.
+She's been through a lot lately, and I know it'd mean the world to her if you treated her to a nice day.
+Since I'm always here, I can easily set up a surprise party...but I do need a little help from you.
+All I need you to do is to make sure you have her out of the room at some point on her birthday, and I'll take care of the rest.
+If you care for Monika at all, you'll help me do this.
+
+Just leave a file named 'oki doki' in the same folder you found this note so I know to go ahead with the party.
+
+Please, don't mess this up.
+
+P.S: Don't tell her about me.
+"""
+    new """\
+[player],
+Bildiğini umduğum gibi, Monika'nın doğum günü çok yakında ve ben bunu özel kılmak istiyorum.
+Son zamanlarda çok şey yaşadı ve ona güzel bir gün yaşatırsan bunun onun için dünyalar anlamına geleceğini biliyorum.
+Her zaman burada olduğum için kolayca sürpriz bir parti ayarlayabilirim...ama senden biraz yardıma ihtiyacım var.
+Senden tek istediğim, doğum gününün bir noktasında onu odadan çıkardığından emin olman, gerisini ben hallederim.
+Monika'yı önemsiyorsan, bunu yapmama yardım edeceksin.
+
+Bu notu bulduğun klasöre 'oki doki' adlı bir dosya bırak, böylece partiye devam edeceğimi bileyim.
+
+Lütfen, bunu mahvetme.
+
+Dipnot: Ona benden bahsetme.
+"""
+
+    old "Happy birthday!"
+    new "Doğum günün kutlu olsun!"
+
+    old "Happy belated birthday!"
+    new "Geçmiş doğum günün kutlu olsun!"

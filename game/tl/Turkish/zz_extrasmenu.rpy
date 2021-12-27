@@ -53,6 +53,12 @@ translate Turkish mas_extra_menu_zoom_in_max_first_time_dd434783:
 
 translate Turkish strings:
 
+    old "Can you explain the Extras menu?"
+    new "Ekstralar menüsünü açıklayabilir misin?"
+
+    old "Reset"
+    new "Sıfırla"
+
     old "Close"
     new "Kapat"
 

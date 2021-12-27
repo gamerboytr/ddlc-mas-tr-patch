@@ -157,7 +157,7 @@ translate Turkish strings:
     new "Grafikler"
 
     old "Change Renderer"
-    new "Renderlayıcıyı Değiştir"
+    new "İşleyiciyi Değiştir"
 
     old "Disable Animation"
     new "Animasyonu Kapat"
@@ -185,6 +185,9 @@ translate Turkish strings:
 
     old "Window Reacts"
     new "Pencere Tepkileri"
+    
+    old "Enabling this will allow Monika to see your active window and offer some comments based on what you're doing."
+    new "Bunu etkinleştirmek, Monika'nın aktif pencerenizi görmesine ve yaptığınız şeye dayalı olarak bazı yorumlar sunmasına izin verecektir."
 
     old "Sunrise  "
     new "Gün doğumu  "
@@ -244,15 +247,6 @@ Bazı özellikler hakkında kafanız mı karıştı? {a=https://github.com/Monik
 
     old "General"
     new "Genel"
-
-    old "Music"
-    new "Müzik"
-
-    old "Play"
-    new "Oyna"
-
-    old "Talk"
-    new "Konuş"
 
     old "Click 'Help' for the complete list."
     new "Tam liste için 'Yardım'a tıklayın."

@@ -1764,6 +1764,120 @@ translate Turkish mas_reaction_gift_clothes_mocca_bun_blackandwhitestripedpullov
 
 translate Turkish strings:
 
+    old "bisexual-pride-themed ribbon"
+    new "biseksüel-bayrağı-temalı kurdele"
+
+    old "black and white ribbon"
+    new "siyah beyaz kurdele"
+
+    old "bronze ribbon"
+    new "bronz kurdele"
+
+    old "brown ribbon"
+    new "kahverengi kurdele"
+
+    old "multi-colored ribbon"
+    new "çok renkli kurdele"
+
+    old "rainbow-colored ribbon"
+    new "虹色リボン"
+
+    old "white and red polka-dot ribbon"
+    new "beyaz ve kırmızı puantiyeli kurdele"
+
+    old "night-sky-themed ribbon"
+    new "gece-gökyüzü-temalı kurdele"
+
+    old "blue-and-white-striped ribbon"
+    new "mavi-ve-beyaz-çizgili kurdele"
+
+    old "pink-and-white-striped ribbon"
+    new "pembe-ve-beyaz-çizgili kurdele"
+
+    old "transexual-pride-themed ribbon"
+    new "transeksüel-bayrağı-temalı kurdele"
+
+    old "black bow"
+    new "siyah yay"
+
+    old "blue twin ribbons"
+    new "mavi ikiz kurdeleler"
+
+    old "green twin ribbons"
+    new "yeşil ikiz kurdeleler"
+
+    old "pink twin ribbons"
+    new "pembe ikiz kurdeleler"
+
+    old "yellow twin ribbons"
+    new "sarı ikiz kurdeleler"
+
+    old "8-bit blue bow"
+    new "8-bit mavi yay"
+
+    old "8-bit emerald bow"
+    new "8-bit zümrüt yay"
+
+    old "8-bit bow"
+    new "8-bit yay"
+
+    old "choker"
+    new "gerdanlık"
+
+    old "flowered choker"
+    new "çiçekli gerdanlık"
+
+    old "blue bunny scrunchie"
+    new "mavi tavşan tokası"
+
+    old "black"
+    new "siyah"
+
+    old "blue"
+    new "mavi"
+
+    old "dark purple"
+    new "koyu mor"
+
+    old "emerald"
+    new "zümrüt"
+
+    old "gray"
+    new "gri"
+
+    old "green"
+    new "yeşil"
+
+    old "light purple"
+    new "açık mor"
+
+    old "peach"
+    new "şeftali"
+
+    old "pink"
+    new "pembe"
+
+    old "platinum"
+    new "platin"
+
+    old "red"
+    new "kırmızı"
+
+    old "ruby"
+    new "yakut"
+
+    old "sapphire"
+    new "safir"
+
+    old "silver"
+    new "gümüş"
+
+    old "teal"
+    new "deniz mavisi"
+
+    old "yellow"
+    new "sarı"
+
     old "I really appreciate it!"
     new "Gerçekten onu takdir ederim!"
 

@@ -339,7 +339,7 @@ translate Turkish strings:
     new "<repr() başarısız oldu>"
 
     old "Contacting App Store\nPlease Wait..."
-    new "App Store ile iletişime geçiliyor\nLütfen Bekleyin..."
+    new "App Store'a bağlanılıyor\nLütfen Bekleyin..."
 
     old "The Ren'Py Updater is not supported on mobile devices."
     new "Ren'Py Güncelleyici mobil cihazlarda desteklenmez."
@@ -592,6 +592,3 @@ translate Turkish strings:
 
     old "Reloading game..."
     new "Oyun yeniden yükleniyor..."
-
-    old "Reset"
-    new "Sıfırla"

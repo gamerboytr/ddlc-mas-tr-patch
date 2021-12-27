@@ -24,7 +24,7 @@ translate Turkish strings:
     new "Seni seviyorum"
 
     old "I feel..."
-    new "...Hissediyorum"
+    new "...hissediyorum"
 
     old "Goodbye"
     new "Görüşürüz"

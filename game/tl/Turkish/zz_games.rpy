@@ -8,6 +8,15 @@ translate Turkish mas_pick_a_game_0dcb9a60:
 
 translate Turkish strings:
 
+    old "Chess"
+    new "Satranç"
+    
+    old "[mas_games.HANGMAN_NAME]"
+    new "[mas_games.HANGMAN_NAME!t]"
+
+    old "Piano"
+    new "Piyano"
+
     old "Hangman"
     new "Adam asmaca"
 
@@ -24,22 +33,22 @@ translate Turkish strings:
     new "Hadi bunu yapalım!"
 
     old "Bring it on, [mas_get_player_nickname()]!"
-    new "Haydi, [mas_get_player_nickname()]!"
+    new "Haydi, [mas_get_player_nickname()!t]!"
 
     old "Ready to lose, [mas_get_player_nickname()]?"
-    new "Kaybetmeye hazır mısın, [mas_get_player_nickname()]?"
+    new "Kaybetmeye hazır mısın, [mas_get_player_nickname()!t]?"
 
     old "I'm ready when you are, [mas_get_player_nickname()]!"
-    new "Sen hazırsan ben dünden hazırım, [mas_get_player_nickname()]!"
+    new "Sen hazırsan ben dünden hazırım, [mas_get_player_nickname()!t]!"
 
     old "I hope you're ready, [mas_get_player_nickname()]~"
-    new "Umarım hazırsındır, [mas_get_player_nickname()]~"
+    new "Umarım hazırsındır, [mas_get_player_nickname()!t]~"
 
     old "Let's have some fun, [mas_get_player_nickname()]!"
-    new "Hadi biraz eğlenelim, [mas_get_player_nickname()]!"
+    new "Hadi biraz eğlenelim, [mas_get_player_nickname()!t]!"
 
     old "Don't expect me to go easy on you, [mas_get_player_nickname()]!~"
-    new "Sana kolay davranmamı bekleme, [mas_get_player_nickname()]!~"
+    new "Sana kolay davranmamı bekleme, [mas_get_player_nickname()!t]!~"
 
     old "Throwing down the gauntlet, are we?"
     new "Eldiveni atıyoruz, değil mi?"

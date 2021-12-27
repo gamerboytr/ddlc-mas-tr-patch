@@ -1525,9 +1525,6 @@ translate Turkish strings:
     old "No, I'm not bored {i}of you{/i}..."
     new "Hayır, {i}senden{/i} sıkılmadım..."
 
-    old "Well..."
-    new "Peki..."
-
     old "I'm not sure."
     new "Emin değilim."
 
@@ -1555,3 +1552,56 @@ translate Turkish strings:
     old "I'm not too sure."
     new "Pek emin değilim."
 
+    old "I know how tempting it can be to just stay in bed and not get up sometimes..."
+    new "Bazen yatakta kalıp kalkmamanın ne kadar çekici olduğunu biliyorum..."
+
+    old "I know how tempting it can be to just stay in bed and not get up sometimes...{w=0.5} {nw}"
+    new "Bazen yatakta kalıp kalkmamanın ne kadar çekici olduğunu biliyorum...{w=0.5} {nw}"
+
+    old "...angry."
+    new "Kızgın..."
+
+    old "...anxious."
+    new "Endişeli..."
+
+    old "...bored."
+    new "Sıkılmış..."
+
+    old "...excited."
+    new "Heyecanlı..."
+
+    old "...happy."
+    new "Mutlu..."
+
+    old "...hungry."
+    new "Aç..."
+
+    old "...inadequate."
+    new "Yetersiz..."
+
+    old "...lazy."
+    new "Tembel..."
+
+    old "...like crying."
+    new "Ağlıyormuş gibi..."
+
+    old "...lonely."
+    new "Yalnı..."
+
+    old "...proud of myself."
+    new "Kendimle gurur duyuyorum..."
+
+    old "...relieved."
+    new "Rahatlamış..."
+
+    old "...sad."
+    new "Üzgün..."
+
+    old "...sick."
+    new "Hasta..."
+
+    old "...tired."
+    new "Yorgun..."
+
+    old "...upset."
+    new "Sinirli..."

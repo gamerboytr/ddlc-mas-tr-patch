@@ -642,3 +642,37 @@ translate Turkish monika_gtod_tip010_7566f426:
 
     m 3hub "Dinlediğin için teşekkürler!"
 
+translate Turkish strings:
+
+    old "Can you teach me about grammar?"
+    new "Bana dil bilgisi hakkında bilgi verebilir misin?"
+
+    old "Clauses"
+    new "Maddeleri"
+
+    old "Comma Splices and Run-ons"
+    new "Virgül Eklemeleri ve Çalıştırmalar"
+
+    old "Conjunctions"
+    new "Bağlaçlar"
+
+    old "Semicolons"
+    new "Noktalı virgül"
+
+    old "Subjects and Objects"
+    new "Konular ve Nesneler"
+
+    old "Active and Passive Voices"
+    new "Aktif ve Pasif Sesler"
+
+    old "Who vs. Whom"
+    new "\"Kim\" v.s \"Kime\""
+
+    old "And I vs. And me"
+    new "\"Ve Ben\" vs. \"Ve Ben\""
+
+    old "Apostrophes"
+    new "kesme işaretleri"
+
+    old "The Oxford Comma"
+    new "Seri (Oxford) Virgül"

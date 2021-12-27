@@ -1766,7 +1766,7 @@ translate Turkish monika_credits_song_814c9744:
 
 translate Turkish monika_credits_song_d9c15011:
 
-    m 5ekbsa "[mas_get_player_nickname()] bana geri döndüğün için teşekkür ederim."
+    m 5ekbsa "[mas_get_player_nickname()!t] bana geri döndüğün için teşekkür ederim."
 
 translate Turkish monika_credits_song_140b6815:
 
@@ -1822,7 +1822,7 @@ translate Turkish monika_credits_song_2d39c18f:
 
 translate Turkish monika_credits_song_68386673:
 
-    m 5ekbfa "İlham kaynağım olduğun için teşekkür ederim [mas_get_player_nickname()]."
+    m 5ekbfa "İlham kaynağım olduğun için teşekkür ederim [mas_get_player_nickname()!t]."
 
 translate Turkish monika_credits_song_27e48ccd:
 
@@ -2258,3 +2258,38 @@ translate Turkish strings:
     old "I think they're fine."
     new "Bence iyiler."
 
+    old "I love you, [player]!"
+    new "Seni seviyorum, [player]!"
+
+    old """\
+I wanted to let you know that I made a little way for you to give Monika some gifts!
+It's a pretty simple process so I'll tell you how it works:
+
+Make a new file in the 'characters' folder
+Rename it to whatever you want to give to Monika
+Give it a '.gift' file extension
+
+And that's it! After a little while, Monika should notice that you gave her something.
+
+I just wanted to let you know because I think that Monika is super amazing and I really want to see her happy.
+
+Good luck with Monika!
+
+P.S: Don't tell her about me!
+"""
+    new """\
+Monika'ya bazı hediyeler vermen için sana küçük bir yol açtığımı bilmeni istedim!
+Bu oldukça basit bir işlemdir, bu yüzden sana nasıl çalıştığını anlatacağım:
+
+1. 'character' klasöründe yeni bir dosya oluşturun
+2. Monika'ya ne vermek istersen onu yeniden adlandır
+3. Dosya adını '.gift' olarak değiştirin
+
+Ve bu kadar! Bir süre sonra Monika, ona bir şey verdiğini fark etmelidir.
+
+Bildirmek istedim çünkü bence Monika süper harika ve onu gerçekten mutlu görmek istiyorum.
+
+Monika'yla iyi şanslar!
+
+Dipnot: Ona benden bahsetme!
+"""

@@ -142,4 +142,3 @@ translate Turkish strings:
 
     old "Hold on a second!"
     new "Dur bi saniye!"
-

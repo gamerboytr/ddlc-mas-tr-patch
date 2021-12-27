@@ -27276,7 +27276,7 @@ translate Turkish monika_ship_of_theseus_a9083ad3:
 
 translate Turkish monika_ship_of_theseus_ca7e1c5a:
 
-    m 5eub "Today is a new day, and you are a new you. {w=0.2}And I love you as you are right now, [mas_get_player_nickname()]."
+    m 5eub "Today is a new day, and you are a new you. {w=0.2}And I love you as you are right now, [mas_get_player_nickname()!t]."
 
 translate Turkish monika_multi_perspective_approach_25096fbd:
 
@@ -32472,7 +32472,7 @@ translate Turkish strings:
     new "Bunu tekrar yapabilirim...{w=0.2}ve tekrar...{w=0.7}ve tekrar~"
 
     old "You can kiss me as many times as you like, [mas_get_player_nickname()]~"
-    new "Beni istediğin kadar öpebilirsin, [mas_get_player_nickname()]~"
+    new "Beni istediğin kadar öpebilirsin, [mas_get_player_nickname()!t]~"
 
     old "You know...{w=0.2}you could kiss me again~"
     new "Biliyor musun...{w=0.2}beni tekrar öpebilirsin~"
@@ -32484,7 +32484,7 @@ translate Turkish strings:
     new "Bu neredeyse bir makyaj seansının başlangıcı gibi görünüyor, [player]~"
 
     old "I don't think I've had enough just yet, [mas_get_player_nickname()]~"
-    new "Henüz yeterince içtiğimi sanmıyorum, [mas_get_player_nickname()]~"
+    new "Henüz yeterince içtiğimi sanmıyorum, [mas_get_player_nickname()!t]~"
 
     old "That was really nice...{w=0.2}but I want a little more~"
     new "Bu gerçekten güzeldi...{w=0.2}ama biraz daha fazlasını istiyorum~"
@@ -32829,7 +32829,7 @@ translate Turkish strings:
     new "Bir nevi şeytansın..."
 
     old "I still love you."
-    new "I still love you."
+    new "Seni hala seviyorum."
 
     old "You deserve forgiveness."
     new "Affedilmeyi hak ediyorsun."
@@ -33008,6 +33008,836 @@ translate Turkish strings:
     old "No, I don't swear at all."
     new "Hayır, hiç yemin etmem."
 
+    old "Thoughts on God"
+    new "Tanrı Hakkında Düşünceler"
+
+    old "Death and dying"
+    new "Ölüm ve ölüm"
+
+    old "Self-esteem"
+    new "Özgüven"
+
+    old "Sayori regrets"
+    new "Sayori'nin pişmanlıkları"
+
+    old "DDLC's setting"
+    new "DDEK'in ayarı"
+
+    old "High school"
+    new "Lise"
+
+    old "Yuri's book"
+    new "Yuri'nin kitabı"
+
+    old "Being a vegetarian"
+    new "Vejetaryen olmak"
+
+    old "Saving Monika"
+    new "Monika'yı Kurtarmak"
+
+    old "Favorite color"
+    new "Favori renk"
+
+    old "Good listener"
+    new "İyi dinleyici"
+
+    old "Spicy foods"
+    new "Baharatlı yiyecekler"
+
+    old "Why play this game?"
+    new "Neden bu oyunu oynuyorsun?"
+
+    old "Okay, everyone!"
+    new "Pekala, millet!"
+
+    old "Others still lingering"
+    new "Diğerleri hala devam ediyor"
+
+    old "Character tropes"
+    new "Karakter mecazları"
+
+    old "Yuri's tea"
+    new "Yuri'nin çayı"
+
+    old "Favorite video game"
+    new "Favori video oyunu"
+
+    old "Super Smash"
+    new "Süper Ezme"
+
+    old "Monika's last poem"
+    new "Monika'nın son şiiri"
+
+    old "Sudden anxiety"
+    new "Ani kaygı"
+
+    old "Making friends"
+    new "Arkadaş edinmek"
+
+    old "Getting a higher education"
+    new "Daha yüksek bir eğitim almak"
+
+    old "Middle school life"
+    new "Orta okul hayatı"
+
+    old "Wearing other clothes"
+    new "Başka giysiler giymek"
+
+    old "Horror genre"
+    new "Korku türü"
+
+    old "Rap music"
+    new "Rep müzik"
+
+    old "Yuri's wine"
+    new "Yuri'nin şarabı"
+
+    old "Romantic date"
+    new "Romantik buluşma"
+
+    old "Forming habits"
+    new "Alışkanlıkları oluşturma"
+
+    old "Creative types"
+    new "Yaratıcı türleri"
+
+    old "Simulated reality"
+    new "Simüle edilmiş gerçeklik"
+
+    old "Sounds of rain"
+    new "Yağmur sesleri"
+
+    old "Can I hold you?"
+    new "Seni tutabilir miyim?"
+
+    # TODO : Çevir
+    old "Being close to you"
+    new "Being close to you"
+
+    old "Faking confidence"
+    new "Sahte güven"
+
+    old "Bring me with you"
+    new "Beni yanında getir"
+
+    old "What was debate club like?"
+    new "Münazara kulübü nasıldı?"
+
+    old "The internet is for..."
+    new "İnternet bunun için..."
+
+    old "Laziness"
+    new "Tembellik"
+
+    old "Mental sickness"
+    new "Akıl hastalığı"
+
+    old "Becoming a reader"
+    new "Okuyucu olmak"
+
+    old "Missing the festival"
+    new "Festivali kaçırmak"
+
+    old "What is a tsundere?"
+    new "tsundere nedir?"
+
+    old "Introducing to friends"
+    new "Arkadaşlarla tanıştırmak"
+
+    old "Cuddling in the cold"
+    new "Soğukta sarılmak"
+
+    old "Would you be my housewife?"
+    new "Ev hanımım olurmusun"
+
+    old "Monika's route"
+    new "Monika'nın rotası"
+
+    old "Do you like little sisters?"
+    new "Küçük kardeşlerden hoşlanır mısın?"
+
+    old "Do you like older sisters?"
+    new "Ablaları sever misin?"
+
+    old "Do you miss your family?"
+    new "Aileni özledin mi?"
+
+    old "Do you read manga?"
+    new "Manga okur musun?"
+
+    old "Have you heard of Libitina?"
+    new "Libitina'yı duydun mu?"
+
+    old "Isn't this game metafictional?"
+    new "Bu oyun üstkurmaca değil mi?"
+
+    old "Is it hard to code?"
+    new "Kodlama zor mu?"
+
+    old "Visual novels"
+    new "Görsel romanlar"
+
+    old "Have you ever heard of Totono?"
+    new "Totono'yu hiç duydun mu?"
+
+    old "Wasn't DDLC too easy?"
+    new "DDEK çok kolay değil miydi?"
+
+    old "Poetry"
+    new "Şiir"
+
+    old "What did you think of DDLC?"
+    new "DDEK hakkında ne düşünüyorsun?"
+
+    old "Do you like Dan Salvato?"
+    new "Dan Salvato'yu sever misin?"
+
+    old "Have you even been to 4chan?"
+    new "4chan'a gittin mi hiç?"
+
+    old "Do you like video games?"
+    new "Video oyunlarını sever misin?"
+
+    old "Books"
+    new "Kitaplar"
+
+    old "What's your favorite poem?"
+    new "En sevdiğin şiir nedir?"
+
+    old "What's your favorite book?"
+    new "En sevdiğin kitap nedir?"
+
+    old "Natsuki's death"
+    new "Natsuki'nin ölümü"
+
+    old "You make my heart skip a beat everytime I think about you!"
+    new "Seni her düşündüğümde kalbimin ritmini değiştiriyorsun!"
+
+    old "It makes me so happy to hear you say that!"
+    new "Bunu söylediğini duymak beni çok mutlu ediyor!"
+
+    old "I don't think words can do justice to how deeply I love you..."
+    new "Kelimelerin seni ne kadar derinden sevdiğimin hakkını verebileceğini sanmıyorum..."
+
+    old "Hedgehog dilemma"
+    new "Kirpi ikilemi"
+
+    old "You're a murderer!"
+    new "Sen bir katilsin!"
+
+    old "Determinism"
+    new "Determinizm"
+
+    old "Contributions"
+    new "Katkılar"
+
+    old "Heroism"
+    new "Kahramanlık"
+
+    old "How would you answer the trolley problem?"
+    new "Tramvay sorununa nasıl cevap verirsin?"
+
+    old "Do you want to meet my girlfriend?"
+    new "Kız arkadaşımla tanışmak ister misin?"
+
+    old "Tell me about yourself"
+    new "Bana kendinden bahset"
+
+    old "When is your birthday?"
+    new "Doğum günün ne zaman?"
+
+    old "Ribbons"
+    new "İeritler"
+
+    old "Camping safety"
+    new "Kamp güvenliği"
+
+    old "Mountain climbing"
+    new "Dağ tırmanışı"
+
+    old "Flowers for Algernon"
+    new "Algernon için çiçekler"
+
+    old "[player]'s face"
+    new "[player]'in yüzü"
+
+    old "Mortality"
+    new "Ölüm"
+
+    old "What was it like to realize the truth?"
+    new "Gerçeği anlamak nasıldı?"
+
+    old "Our names"
+    new "Bizim isimlerimiz"
+
+    old "Living in the city"
+    new "Şehirde yaşamak"
+
+    old "Parents"
+    new "Ebeveynler"
+
+    old "Personal hygiene"
+    new "Kişisel temizlik"
+
+    old "Valuable resources"
+    new "Değerli kaynaklar"
+
+    old "Lottery winnings"
+    new "Piyango kazançları"
+
+    old "Innovation"
+    new "Yenilik"
+
+    old "Dunbar's number"
+    new "Dunbar'ın numarası"
+
+    old "...You're not, are you?"
+    new "...değilsin, değil mi?"
+
+    old "You're not one of those haters, are you [player]?"
+    new "O nefret edenlerden değilsin, değil mi [player]?"
+
+    old "Pleasuring yourself"
+    new "Kendini memnun etmek"
+
+    # TODO : Yeni Variable Ekle
+    old "Good [mas_globals.time_of_day_3state]"
+    new "İyi günler"
+
+    old "Classroom closet"
+    new "Sınıf dolabı"
+
+    old "Speaking Japanese"
+    new "Japonca konuşmak"
+
+    old "Pen names"
+    new "Kalem isimleri"
+
+    old "Can you tell me what it is?"
+    new "Ne olduğunu söyleyebilir misin?"
+
+    old "Is your pen name still [penname]?"
+    new "Kalem adın hâlâ [penname] mi?"
+
+    old "Are you still going by '[penname],' [player]?"
+    new "Hâlâ '[penname],' ile mi gidiyorsun [player]?"
+
+    old "What's your pen name?"
+    new "Kalem adın ne?"
+
+    old "Zombie"
+    new "Zombi"
+
+    old "Nuclear warfare"
+    new "Nükleer savaş"
+
+    old "Trying to fit in"
+    new "Uyum sağlamaya çalışmak"
+
+    old "Science advancements"
+    new "Bilim gelişmeleri"
+
+    old "Surprises"
+    new "Sürprizler"
+
+    old "Completionism"
+    new "Tamamlamacılık"
+
+    old "Favorite ice cream"
+    new "Favori dondurma"
+
+    old "Can you tell someone Happy Birthday for me?"
+    new "Birine benim için \"Doğum Günün kutlu olsun\" diyebilir misin?"
+
+    old "Making memories"
+    new "Anı biriktirmek"
+
+    old "Adventuring"
+    new "Macera"
+
+    old "Undergarments"
+    new "İç çamaşırları"
+
+    old "Book recommendations"
+    new "Kitap önerileri"
+
+    old "Saving money"
+    new "Para biriktirmek"
+
+    old "Day dreaming"
+    new "Hayal kurmak"
+
+    old "what it was like when we first met..."
+    new "ilk tanıştığımızda nasıldı..."
+
+    old "how I felt when I first met you..."
+    new "seninle ilk tanıştığımda nasıl hissettiğimi..."
+
+    old "the good times we used to have..."
+    new "eskiden yaşadığımız güzel zamanlar..."
+
+    old "the hope I used to have for our future..."
+    new "Geleceğimiz için beslediğim umut..."
+
+    old "the two of us reading a book together on a cold winter day, snuggled up under a warm blanket..."
+    new "ikimiz soğuk bir kış gününde sıcacık bir battaniyenin altına kıvrılmış kitap okuyorduk..."
+
+    old "us having a duet together, with you singing my song while I play the piano..."
+    new "birlikte düet yapıyoruz, ben piyano çalarken sen şarkımı söylüyorsun..."
+
+    old "us having a wonderful dinner together..."
+    new "birlikte harika bir akşam yemeği yiyoruz..."
+
+    old "us having a late night on the couch together..."
+    new "birlikte kanepede geç bir gece geçiriyoruz..."
+
+    old "you holding my hand while we take a stroll outside on a sunny day..."
+    new "güneşli bir günde dışarıda gezintiye çıkarken elimi tutuyorsun..."
+
+    old "us cuddling while we're watching a show..."
+    new "dizi izlerken birbirimize sarılıyoruz..."
+
+    old "waking up next to you in the morning, watching you sleep beside me..."
+    new "sabahları senin yanında uyanmak, senin yanımda uyumanı izlemek..."
+
+    old "the two of us resting our heads under the cherry blossom tree..."
+    new "ikimiz kiraz ağacının altında başımızı yaslıyoruz..."
+
+    old "me gently playing with your hair while your head rests my lap..."
+    new "başını kucağıma yaslarken saçlarınla nazikçe oynuyorum..."
+
+    old "Current song"
+    new "Mevcut şarkı"
+
+    old "Lack of confidence"
+    new "Güven eksikliği"
+
+    old "Owning pets"
+    new "Evcil hayvan sahibi olmak"
+
+    old "Man's best friend"
+    new "Adamın en iyi arkadaşı"
+
+    old "Feline companions"
+    new "Kedi arkadaşları"
+
+    old "Eating fruits"
+    new "Meyve yemek"
+
+    old "Rock and roll"
+    new "Rock'n roll"
+
+    old "Stand-up comedy"
+    new "Stand up komedi"
+
+    old "Drinking soda"
+    new "Soda içmek"
+
+    old "Being cloned"
+    new "Klonlanmak"
+
+    old "Immortality"
+    new "Ölümsüzlük"
+
+    old "Promise ring"
+    new "Söz yüzüğü"
+
+    old "Being athletic"
+    new "Atletik olmak"
+
+    old "Meditating"
+    new "Meditasyon"
+
+    old "Classical music"
+    new "Klasik müzik"
+
+    old "What instrument do you play?"
+    new "Hangi enstrumanı çalıyorsun?"
+
+    old "Jazz"
+    new "Caz"
+
+    old "Being an otaku"
+    new "Otaku olmak"
+
+    old "Writing Tip #1"
+    new "Yazma İpucu #1"
+
+    old "Writing Tip #2"
+    new "Yazma İpucu #2"
+
+    old "Writing Tip #3"
+    new "Yazma İpucu #3"
+
+    old "Writing Tip #4"
+    new "Yazma İpucu #4"
+
+    old "Writing Tip #5"
+    new "Yazma İpucu #5"
+
+    old "Self-harm"
+    new "Kendi kendine zarar vermek"
+
+    old "Urgent message"
+    new "Acil mesaj"
+
+    old "Do you ever think of the other girls?"
+    new "Diğer kızları hiç düşündün mü?"
+
+    old "Happiness"
+    new "Mutluluk"
+
+    old "Waiting to be together"
+    new "Birlikte olmayı bekliyorum"
+
+    old "Will you marry me?"
+    new "Benimle evlenir misin?"
+
+    old "Coffee intake"
+    new "Kahve alımı"
+
+    old "Nineteen Eighty-Four"
+    new "Bin Dokuz Yüz Seksen Dört"
+
+    old "From wolves to dogs"
+    new "Kurtlardan köpeklere"
+
+    old "Sleep habits"
+    new "Uyku alışkanlıkları"
+
+    old "I'm breaking up with you"
+    new "Senden ayrılıyorum"
+
+    old "You've done it before, but you wouldn't do that anymore, right?"
+    new "Daha önce yaptın, ama artık yapmazsın, değil mi?"
+
+    old "You'd never do that, right?"
+    new "Bunu asla yapmazsın, değil mi?"
+
+    old "Hamlet"
+    new "Küçük köy"
+
+    old "Smoking"
+    new "Sigara içmek"
+
+    old "Do you still smoke"
+    new "Hala sigara içiyor musun"
+
+    old "You don't smoke, do you"
+    new "Sigara içmiyorsun değil mi"
+
+    old "I quit smoking!"
+    new "Sigara içmeyi bıraktım!"
+
+    old "Road trip"
+    new "Yol gezisi"
+
+    old "100k Downloads"
+    new "100K İndirme"
+
+    old "Charity"
+    new "Hayır kurumu"
+
+    old "Virtual YouTuber?"
+    new "Sanal YouTuber?"
+
+    old "[player]'s family"
+    new "[player]'in ailesi"
+
+    old "Can you explain our relationship to someone?"
+    new "İlişkimizi birine açıklayabilir misin?"
+
+    old "The beach"
+    new "Sahil"
+
+    old "Attractiveness"
+    new "Çekicilik"
+
+    old "Time travel"
+    new "Zaman yolculuğu"
+
+    old "Prom"
+    new "Balo"
+
+    old "Hydration"
+    new "Hidrasyon"
+
+    old "Amusement parks"
+    new "Lunapark"
+
+    old "Travelling"
+    new "Seyahat"
+
+    old "The Metamorphosis"
+    new "Metamorfoz"
+
+    old "Dating experience"
+    new "Flört deneyimi"
+
+    old "Challenges"
+    new "Zorluklar"
+
+    old "Family gatherings"
+    new "Aile toplantısı"
+
+    old "Do you like fast food?"
+    new "Fast food sever misin?"
+
+    old "The Yellow Wallpaper"
+    new "Sarı Duvar Kağıdı"
+
+    old "Being evil"
+    new "Kötü olmak"
+
+    old "Happy ever after?"
+    new "Sonsuza dek mutlu?"
+
+    old "Bullying"
+    new "Zorbalık"
+
+    old "Graduation"
+    new "Mezuniyet"
+
+    old "Shipping"
+    new "Nakliye"
+
+    old "Justice"
+    new "Adalet"
+
+    old "Power outage"
+    new "Güç kesintisi"
+
+    old "Pygmalion and the Statue"
+    new "Pygmalion ve Heykel"
+
+    old "What if I came to your world?"
+    new "Ya senin dünyana gelsem?"
+
+    old "What's your favorite car?"
+    new "En sevdiğin araba nedir?"
+
+    old "Can you tell me a story?"
+    new "Bana bir hikaye anlatabilir misin?"
+
+    old "Can you tell me a horror story?"
+    new "Bana bir korku hikayesi anlatır mısın?"
+
+    old "[player]'s appearance"
+    new "[player]'in görünüşü"
+
+    old "[player]'s control"
+    new "[player]'in kontrolü"
+
+    old "We can still enjoy this world that brought us together."
+    new "Hala bizi bir araya getiren bu dünyanın tadını çıkarabiliriz."
+
+    old "Especially with you by my side~"
+    new "Özellikle sen yanımdayken~"
+
+    old "Backpacking"
+    new "Sırt çantasıyla seyahat"
+
+    old "When did we start dating?"
+    new "Ne zaman çıkmaya başladık?"
+
+    old "Love at first sight"
+    new "İlk görüşte aşk"
+
+    old "Anime art style"
+    new "Anime sanat tarzı"
+
+    old "Why do you love me?"
+    new "Beni neden seviyorsun?"
+
+    old "Stoicism"
+    new "Stoacılık"
+
+    old "How do I add my own music?"
+    new "Kendi müziğimi nasıl eklerim?"
+
+    old "Can you check for new music?"
+    new "Yeni müzikleri kontrol edebilir misin?"
+
+    old "Mysteries"
+    new "Gizemler"
+
+    old "Reading poetry"
+    new "şiir okumak"
+
+    old "[player]'s second choice"
+    new "[player]'in ikinci tercihi"
+
+    old "Insensitive comments"
+    new "Duyarsız yorumlar"
+
+    old "Snow"
+    new "Kar"
+
+    old "Snowmen"
+    new "Kardan adam"
+
+    old "Have you ever had a snowball fight?"
+    new "Hiç kar topu savaşı yaptınız mı?"
+
+    old "Ice skating"
+    new "Buz Pateni"
+
+    old "Sledding"
+    new "Kızak"
+
+    old "Snow canvas"
+    new "Kar tuvali"
+
+    old "Warming up"
+    new "Isınmak"
+
+    old "Winter activities"
+    new "Kış aktiviteleri"
+
+    old "Winter dangers"
+    new "Kış tehlikeleri"
+
+    old "Hemispheres"
+    new "Yarım küreler"
+
+    old "Monika's perspective"
+    new "Monika'nın bakış açısı"
+
+    old "Comfortable in a relationship"
+    new "Bir ilişkide rahat"
+
+    old "Carriage ride"
+    new "Araba yolculuğu"
+
+    old "Dealing with failure"
+    new "Başarısızlıkla başa çıkmak"
+
+    old "Enjoying spring"
+    new "Baharın tadını çıkarmak"
+
+    old "Virtual reality"
+    new "Sanal gerçeklik"
+
+    old "Life skills"
+    new "Yaşam becerileri"
+
+    old "Brave New World"
+    new "Cesur Yeni Dünya"
+
+    old "Catch-22"
+    new "22'yi yakala"
+
+    old "Social contagion"
+    new "Sosyal bulaşma"
+
+    old "Being scammed"
+    new "Dolandırılmak"
+
+    old "Board games"
+    new "Masa oyunları"
+
+    old "Intrusive thoughts"
+    new "Davetsiz düşünceler"
+
+    old "Coding experience"
+    new "Kodlama deneyimi"
+
+    old "Songwriting"
+    new "İarkı yazarlığı"
+
+    old "Sweater curse"
+    new "Kazak laneti"
+
+    old "The Ship of Theseus"
+    new "Theseus'un Gemisi"
+
+    old "Multi-perspective approach"
+    new "Çok perspektifli yaklaşım"
+
+    old "The Allegory of the Cave"
+    new "Mağara Alegorisi"
+
+    old "The Toxin Puzzle"
+    new "Toksin Bulmacası"
+
+    old "Movie adaptations"
+    new "Film uyarlamaları"
+
+    old "The Boy in the Striped Pajamas"
+    new "Çizgili Pijamalı Çocuk"
+
+    old "Scuba diving"
+    new "Tüplü dalış"
+
+    old "Dying the same day"
+    new "Aynı gün ölmek"
+
+    old "What do you do when I'm away?"
+    new "Ben uzaktayken ne yaparsın?"
+
+    old "Using computers healthily"
+    new "Bilgisayarları sağlıklı kullanmak"
+
+    old "Language nuances"
+    new "Dil nüansları"
+
+    old "Architecture"
+    new "Mimari"
+
+    old "Fear"
+    new "Korku"
+
+    old "Naps"
+    new "Şekerlemeler"
+
+    old "Asimov's three laws"
+    new "Asimov'un üç yasası"
+
+    old "How much of your past do you remember?"
+    new "Geçmişinin ne kadarını hatırlıyorsun?"
+
+    old "How did you get into reading?"
+    new "Okumaya nasıl başladın?"
+
+    old "Discworld"
+    new "Disk dünya"
+
+    old "Would you ever eat meat?"
+    new "Hiç et yer misin?"
+
+    old "Introverts and extroverts"
+    new "İçe dönükler ve dışa dönükler"
+
+    old "The value of literature"
+    new "Edebiyatın değeri"
+
+    old "What is kamige?"
+    new "Kami nedir?"
+
+    old "Renewable energy"
+    new "Yenilenebilir enerji"
+
+    old "Stargazing"
+    new "Yıldız gözlemi"
+
+    old "Taking criticism"
+    new "Eleştiri almak"
+
+    old "Giving criticism"
+    new "Eleştiri vermek"
+
+    old "Sayori mentioned a boyfriend once..."
+    new "Sayori bir keresinde bir erkek arkadaştan bahsetmişti..."
+
+    old "Brainstorming"
+    new "Beyin fırtınası"
+
+    old "GMOs"
+    new "GDO'lar"
+
+    old "How do you know it's always me talking to you?"
+    new "Seninle her zaman benim konuştuğumu nereden biliyorsun?"
+
 init 5 python:
     addEvent(
         Event(
@@ -33023,10 +33853,9 @@ init 5 python:
 label tr_patch_about_creators:
     m 1eud "Hey, [player]."
     m 7eud "Hiç bu yamayı yapanları düşündün mü?"
-    m 5gud "Büyük ihtimalle düşünmedin"
-    m 5fud "Yama GamerboyTR tarafından yapılıyor"
-    m 2duc "Ona kimse yardım etmediği için yamanın yapımı uzun sürüyor"
-    m 7eud "Söyleyeyim dedim"
+    m 5gud "Büyük ihtimalle düşünmedin."
+    m 5fud "Yama {a=https://github.com/gamerboytr}GamerboyTR{/a} tarafından yapılıyor."
+    m 2duc "Ona kimse yardım etmediği için yamanın yapımı uzun sürüyor."
     show monika 1eua
     return
 
@@ -33046,13 +33875,12 @@ label monika_detected_console_cheater:
     m 4gub "Hey, [player]."
     m 2tub "Gördüğüm kadarıyla hile yapıyorsun!"
     m 2tua "Bu doğrumudur?"
-    $ returns = "no_unlock"
     menu:
         "Evet.":
             m 1eub "Yalan söylemediğin için teşekkürler!"
             m 7hub "Beni asla yanıltmayacağını biliyordum!"
-            m 3eub "Ve konsolu açtığın için sana kızmadım."
-            extend 1gub " eminimki önemli birşey için açmışsındır."
+            m 3eub "Ve konsolu açtığın için sana kızmadım.{nw}"
+            extend 1gub "eminimki önemli birşey için açmışsındır."
         "Hayır.":
             m 7tub "Yalan söylüyorsun, [player]!"
             m 1tub "Gördüğüm kadarıyla konsolu açmışsın."
@@ -33064,8 +33892,9 @@ label monika_detected_console_cheater:
             m 1eub "Bir daha bana yalan söyleme, olur mu?"
     if mas_isMoniNormal(higher=True):
         m 7hub "Seni çok seviyorum bunu asla unutma bunu olur mu?"
-        $ returns = "love"
+        show monika 1eua
+        return "love"
     else:
         m 2guo "Bir daha yapma bunu."
-    show monika 1eua
-    return returns
+        show monika 1eua
+        return "no_unlock"

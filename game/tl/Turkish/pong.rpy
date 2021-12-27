@@ -372,7 +372,7 @@ translate Turkish mas_pong_dlg_loser_ae4b017c:
 
 translate Turkish mas_pong_dlg_loser_9b13d6ee:
 
-    m 2wuo "Wow, bu harika bir atıştı!"
+    m 2wuo "Vay canına, bu harika bir atıştı!"
 
 translate Turkish mas_pong_dlg_loser_16aa840b:
 
@@ -416,7 +416,7 @@ translate Turkish mas_pong_dlg_loser_a6627fcb:
 
 translate Turkish mas_pong_dlg_loser_a029d538:
 
-    m 2wuo "Wow,{w=0.1} yetişemiyorum!"
+    m 2wuo "Vay canına,{w=0.1} yetişemiyorum!"
 
 translate Turkish mas_pong_dlg_loser_1161d388:
 
@@ -480,7 +480,7 @@ translate Turkish mas_pong_dlg_loser_985307ce:
 
 translate Turkish mas_pong_dlg_loser_138626f7:
 
-    m 2wuo "Wow,{w=0.1} gerçekten deniyorum...{w=0.3}durdurulamazsın!"
+    m 2wuo "Vay canına,{w=0.1} gerçekten deniyorum...{w=0.3}durdurulamazsın!"
 
 translate Turkish mas_pong_dlg_loser_08aba477:
 
@@ -528,7 +528,7 @@ translate Turkish mas_pong_dlg_winner_fast_6838f013:
 
 translate Turkish mas_pong_dlg_loser_end_f64703da:
 
-    m 1wuo "Wow, o zaman gerçekten çabalıyordum."
+    m 1wuo "Vay canına, o zaman gerçekten çabalıyordum."
 
 translate Turkish mas_pong_dlg_loser_end_d2e1a7c2:
 
@@ -567,4 +567,3 @@ translate Turkish strings:
 
     old "...Maybe."
     new "...Belki."
-

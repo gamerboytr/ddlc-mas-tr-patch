@@ -1196,6 +1196,21 @@ translate Turkish mas_fun_fact_round_earth_a2b760a9:
 
 translate Turkish strings:
 
+    old "Can you tell me a fun fact?"
+    new "Bana eğlenceli bir gerçeği söyler misin?"
+
+    old "But make sure you keep up with your family and friends too, okay?"
+    new "Ama ailene ve arkadaşlarına da ayak uydur, tamam mı?"
+
+    old "But make sure you keep up with your family too, okay?"
+    new "Ama ailene de ayak uydur, tamam mı?"
+
+    old "But make sure you keep up with your friends too, okay?"
+    new "Ama arkadaşlarına da ayak uydur, tamam mı?"
+
+    old "Just be sure you find some people to talk to in your reality too, okay?"
+    new "Sadece gerçekliğinde de konuşacak birilerini bul, tamam mı?"
+
     old "Round."
     new "Yuvarlak."
 
