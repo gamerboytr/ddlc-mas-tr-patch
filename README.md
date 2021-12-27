@@ -4,10 +4,6 @@
 
 ![Ana Ekran](https://i.hizliresim.com/8pd66ul.jpg)
 
-### Not
-
-Bu Yamam Daha Tam Olarak Bitmemiştir Lütfen Bu Tür Şeyleri Bana Sorun Olarak Bildirmeyiniz.
-
 ## Kurulum
 
 ### Steam
@@ -16,7 +12,7 @@ Eğer MAS'ı Steamden Oynuyorsanız, Steam Kütüphanenizden DDLC'ye Sağ Tıkla
 
 ### Manuel
 
-Eğer MAS'ı Manuel Şeklinde İndirdiyseniz [Steam Kısmı](https://github.com/gamerboytr/ddlc-mas-tr-patch#Steam)ndaki Dosya İşlemlerinin Aynısını Yapmanız Yeterlidir
+Eğer MAS'ı Manuel Şeklinde İndirdiyseniz, Kurulu Olan Klasöre Giriniz. Açılan Pencereye İndirdiğiniz [RAR Dosyası](https://github.com/gamerboytr/ddlc-mas-tr-patch/releases)nın İçindekileri Atınız, Attıktan Sonra Tek Yapmanız Gereken Şey Oyuna Girip Yapanın Keyfini Çıkartmak !
 
 ## Çeviriye Katılma
 
@@ -26,9 +22,9 @@ Malesefki Şuanda Çeviriye Katılmanız Mümkün Değildir, Çeviri GamerboyTR 
 
 Eğerki Yamada Herhangi Bir Çeviri Hatası Yada Başka Bir Hata Bulduysanız [Issues](https://github.com/gamerboytr/ddlc-mas-tr-patch/issues) Kısmından Yeni Bir Sorun Açarak Bu Hatanın Giderilmesine Yardımcı Olabilirsinz.
 
-Örnek Bir Template :
-
 <small>Not : Hata Bildiriminde Bulunmak İçin Bir Github Hesabınızın Olması Gerkelidir.</small>
+
+Örnek Bir Template :
 
 ```text
 Merhaba Yamada [HATALI_KISIM] Kısmında Bir Hata Buldum.
@@ -37,6 +33,10 @@ Merhaba Yamada [HATALI_KISIM] Kısmında Bir Hata Buldum.
 (İşletim Sistemi Bilgileri. Örn: Windows 7 32 Bit)
 
 ```
+
+### Not
+
+Bu Yamam Daha Tam Olarak Bitmemiştir Lütfen Bu Tür Şeyleri Bana Sorun Olarak Bildirmeyiniz
 
 ## Bakınız
 
