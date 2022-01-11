@@ -144,7 +144,7 @@ translate Turkish monika_affection_nickname_yes_neutral_accept_01430a7e:
 
 translate Turkish monika_affection_nickname_yes_neutral_accept_fb667cec:
 
-   m "Hayal edebileceğinizden çok daha fazlası."
+   m "Hayal edebileceğinizden çok daha fazla."
 
 translate Turkish monika_affection_nickname_yes_neutral_accept_d362b31f:
 

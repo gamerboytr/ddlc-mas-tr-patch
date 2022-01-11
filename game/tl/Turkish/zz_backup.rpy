@@ -1,24 +1,24 @@
-﻿translate Turkish mas_backups_you_have_corrupted_persistent_a60c4b04:
+﻿translate Turkish mas_backups_you_have_bad_persistent_a60c4b04:
 
     "Selamlar!"
 
-translate Turkish mas_backups_you_have_corrupted_persistent_10227717:
+translate Turkish mas_backups_you_have_bad_persistent_10227717:
 
     "Kötü haber getiren olmaktan nefret ediyorum..."
 
-translate Turkish mas_backups_you_have_corrupted_persistent_7bb9f2db:
+translate Turkish mas_backups_you_have_bad_persistent_7bb9f2db:
 
     "Ama ne yazık ki, {b}persistent{/b} dosyan bozuk."
 
-translate Turkish mas_backups_you_have_corrupted_persistent_6d8df287:
+translate Turkish mas_backups_you_have_bad_persistent_6d8df287:
 
     "Ve daha da kötüsü..."
 
-translate Turkish mas_backups_you_have_corrupted_persistent_7826f0df:
+translate Turkish mas_backups_you_have_bad_persistent_7826f0df:
 
     "{b}persistent{/b} dosyası için bir yedek bulamadım."
 
-translate Turkish mas_backups_you_have_corrupted_persistent_34cf3f8e:
+translate Turkish mas_backups_you_have_bad_persistent_34cf3f8e:
 
     "Kendi yedeklerin var mı?{nw}"
 
@@ -150,8 +150,169 @@ translate Turkish mas_backups_dont_tell_eefbfce8:
 
     "Bu yüzden benim hakkımda sessiz ol, ben de Monika'nın güvende ve rahat olduğundan emin olayım!"
 
+translate Turkish mas_backups_incompat_start_a60c4b04:
+
+    "Selamlar!"
+
+translate Turkish mas_backups_incompat_start_8694b358:
+
+    "Tekrar güncellemeyi deneyelim!"
+
+translate Turkish mas_backups_incompat_start_59952f15:
+
+    "Selamlar!{nw}"
+
+translate Turkish mas_backups_incompat_start_2316686b:
+
+    "Ne yazık ki, {b}persistent{/b} dosyan v[mas_per_check.mas_per_version] sürümüyle çalışıyor, bu MAS yapısıyla uyumlu değildir (v[config.version])."
+
+translate Turkish mas_backups_incompat_start_36fb1a33:
+
+    "Bunu düzeltmemin tek yolu, MAS'ı güncellemeniz veya uyumlu bir {b}persistent{/b} ile geri yüklemenizdir."
+
+translate Turkish mas_backups_incompat_what_do_884295ca:
+
+    "Ne yapmak istersin?{nw}"
+
+translate Turkish mas_backups_incompat_user_will_restore_16cd82b1:
+
+    "Pekala!"
+
+translate Turkish mas_backups_incompat_user_will_restore_8518d51c:
+
+    "Lütfen uyumlu bir {b}persistent{/b} dosyasını '[renpy.config.savedir]' içine kopyalayın."
+
+translate Turkish mas_backups_incompat_user_will_restore_f54106ad:
+
+    "Ardından '[mas_per_check.per_unstable]' adlı dosyayı silin."
+
+translate Turkish mas_backups_incompat_user_will_restore_597fa4a8:
+
+    "İyi şanslar!"
+
+translate Turkish mas_backups_incompat_user_will_restore_again_443189fb:
+
+    "Oh olamaz!"
+
+translate Turkish mas_backups_incompat_user_will_restore_again_efc886c9:
+
+    "Görnüşe göre {b}persistent{/b} dosyan v[mas_per_check.mas_per_version] sürümüyle çalışıyor, bu MAS yapısıyla uyumlu değildir (v[config.version])"
+
+translate Turkish mas_backups_incompat_updater_cannot_because_rpy_7f8949a3:
+
+    "Ne yazık ki güncelleyici çalışmayacak çünkü oyun dizininizde {b}RPY{/b} dosyaları var."
+
+translate Turkish mas_backups_incompat_updater_cannot_because_rpy_f50b9478:
+
+    "Bunun çalışması için bu dosyaları silmem gerekecek. Sorun değil mi?{nw}"
+
+translate Turkish mas_backups_incompat_updater_cannot_because_rpy_again_443189fb:
+
+    "Oh olamaz!"
+
+translate Turkish mas_backups_incompat_updater_cannot_because_rpy_again_73dc28d5:
+
+    "Oyun dizininizde hala {b}RPY{/b} dosyaları var gibi görünüyor."
+
+translate Turkish mas_backups_incompat_updater_cannot_because_rpy_again_ca1b3175:
+
+    "Onları tekrar silmeyi denememi ister misin?{nw}"
+
+translate Turkish mas_backups_incompat_rpy_yes_del_c04eea25:
+
+    "Peki!"
+
+translate Turkish mas_backups_incompat_rpy_yes_del_443189fb:
+
+    "Oh olamaz!"
+
+translate Turkish mas_backups_incompat_rpy_yes_del_27212a80:
+
+    "Görünüşe göre tüm {b}RPY{/b} dosyalarını silemedim."
+
+translate Turkish mas_backups_incompat_rpy_yes_del_0c85e755:
+
+    "Bunları manuel olarak silmeniz gerekecek."
+
+translate Turkish mas_backups_incompat_rpy_yes_del_597fa4a8:
+
+    "İyi şanslar!"
+
+translate Turkish mas_backups_incompat_rpy_yes_del_77e884a9:
+
+    "Tamam!"
+
+translate Turkish mas_backups_incompat_rpy_yes_del_540db159:
+
+    "Şimdi güncellemeyi deneyelim!"
+
+translate Turkish mas_backups_incompat_rpy_no_del_ec7095ae:
+
+    "Bu dosyalar varken güncelleyici çalışmayacaktır, bu yüzden sanırım tek seçeneğiniz bir {b}persistent{/b} yedeğini geri yüklemek."
+
+translate Turkish mas_backups_incompat_updater_start_intro_c04eea25:
+
+    "Tamam!"
+
+translate Turkish mas_backups_incompat_updater_failed_443189fb:
+
+    "Oh olamaz!"
+
+translate Turkish mas_backups_incompat_updater_failed_f24b12f8:
+
+    "Güncelleyici MAS'ı güncelleyemedi gibi görünüyor."
+
+translate Turkish mas_backups_incompat_updater_failed_3cf4a602:
+
+    "Tekrar deneyelim!"
+
+translate Turkish mas_backups_incompat_updater_start_91e14dde:
+
+    "Güncelleyiciyi iptal etmeyin! MAS'ı güncellemeniz gerekiyor!"
+
+translate Turkish mas_backups_incompat_updater_start_4d46cc43:
+
+    "Güncelleyici güncellenemedi gibi görünüyor."
+
+translate Turkish mas_backups_incompat_updater_start_3a84e80c:
+
+    "Güncelleyici sorunlarını düzelttiğinizden emin olun ve tekrar deneyin."
+
+translate Turkish mas_backups_incompat_updater_start_597fa4a8:
+
+    "İyi şanslar!"
+
 translate Turkish strings:
 
     old "Do you have your own backups?{fast}"
     new "Kendi yedeklerin var mı?{fast}"
 
+    old "Hello there!{fast}"
+    new "Selamlar!{fast}"
+
+    old "What happened?"
+    new "Ne oldu?"
+
+    old "Take me to the updater."
+    new "Beni güncelleyiciye götür."
+
+    old "What would you like to do?{fast}"
+    new "Ne yapmak istersin?{fast}"
+
+    old "Update MAS."
+    new "MAS'ı güncelle."
+
+    old "Restore a compatible persistent."
+    new "Uyumlu bir {b}persistent{/b}i geri yükle."
+
+    old "I'll have to delete those files for this to work. Is that okay?{fast}"
+    new "Bunun çalışması için bu dosyaları silmem gerekecek. Uygun mu?{fast}"
+
+    old "Yes, delete them."
+    new "Evet, onları sil."
+
+    old "No, don't delete them."
+    new "Hayır, onları silme."
+
+    old "Would you like me to try deleting them again?{fast}"
+    new "Onları tekrar silmeyi denememi ister misin?{fast}"

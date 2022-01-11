@@ -58,6 +58,66 @@ translate Turkish mas_compliment_eyes_3_56ed5f12:
 
     m 2ekbfb "[eyes_quip!t]"
 
+translate Turkish mas_compliment_goodmood_2_7a22f637:
+
+    m 1subsb "Gerçekten mi?!"
+
+translate Turkish mas_compliment_goodmood_2_2379e88a:
+
+    m 3hubsb "Bunun benim için ne kadar önemli olduğunu bilmiyorsun!"
+
+translate Turkish mas_compliment_goodmood_2_b3843ac8:
+
+    m 3ekbsu "Hep böyle olmasını ummuştum, ama aslında bunu söylediğini duymak..."
+
+translate Turkish mas_compliment_goodmood_2_ddcca851:
+
+    m 2tubla "O notta, sana söylemem gereken bir sırrım var..."
+
+translate Turkish mas_compliment_goodmood_2_d727c87d:
+
+    m 2tublu "Bunu fark etmemiş olabilirsin, ammma..."
+
+translate Turkish mas_compliment_goodmood_2_7e7ef847:
+
+    m 7tublb "{i}Beni{/i} her zaman iyi bir ruh haline sokuyorsun, [mas_get_player_nickname()!t]!"
+
+translate Turkish mas_compliment_goodmood_2_15064b5d:
+
+    m 3eubsa "Birbirimiz için elimizden gelenin en iyisini yapmaya devam edelim, tamam mı?"
+
+translate Turkish mas_compliment_goodmood_2_34eedf33:
+
+    m 1ekbsu "Seni seviyorum~"
+
+translate Turkish mas_compliment_goodmood_2_1166fa44:
+
+    m 2dkc "Bunun hakkında ne hissettiğimden emin değilim..."
+
+translate Turkish mas_compliment_goodmood_2_c3fc129b:
+
+    m 2ekd "Duygularımı incitmek seni gerçekten iyi bir ruh haline sokuyor mu?"
+
+translate Turkish mas_compliment_goodmood_2_80296a4d:
+
+    m 2dkd "Umarım demek istediğin bu değildir..."
+
+translate Turkish mas_compliment_goodmood_3_9b191e97:
+
+    m 1hub "Bana tekrar hatırlattığın için teşekkürler, [mas_get_player_nickname()!t]!"
+
+translate Turkish mas_compliment_goodmood_3_a46352b3:
+
+    m 3eub "Olumlu pekiştirme her zaman güzeldir!"
+
+translate Turkish mas_compliment_goodmood_3_11a42761:
+
+    m 3dku "Birbirimizi elimizden geldiğince mutlu etmeye devam edelim~"
+
+translate Turkish mas_compliment_goodmood_3_48f8c5d5:
+
+    m 2euc "Teşekkürler."
+
 translate Turkish mas_compliment_awesome_2_35f68315:
 
     m 1hub "Çok tatlısın!"
@@ -125,6 +185,14 @@ translate Turkish mas_compliment_intelligent_2_18cde691:
 translate Turkish mas_compliment_intelligent_2_6ecd8f50:
 
     m 2lkbsc "Üzgünüm, niyetim bu değildi..."
+
+translate Turkish mas_compliment_intelligent_3_75854caf:
+
+    m 1ekbfa "[mas_compliments.thanks_quip!t]"
+
+translate Turkish mas_compliment_intelligent_3_159a68dc:
+
+    m 1hub "[intelligent_quip!t]"
 
 translate Turkish mas_compliment_hair_2_798b5d19:
 

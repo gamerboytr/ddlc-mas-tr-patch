@@ -350,6 +350,10 @@ translate Turkish mas_pong_dlg_loser_9963f134:
 
     m 4eua "Unutma, yeterince uzun süre antrenman yaparsan, hedeflediğin her şeye ulaşabileceğine eminim!"
 
+translate Turkish mas_pong_dlg_loser_2e230854:
+
+    m 2wuo "Vay canına...{w=0.3}{nw}"
+
 translate Turkish mas_pong_dlg_loser_9dd8e93b:
 
     extend 7wuo "O zaman bu sefer gerçekten deniycem!"
@@ -374,6 +378,10 @@ translate Turkish mas_pong_dlg_loser_9b13d6ee:
 
     m 2wuo "Vay canına, bu harika bir atıştı!"
 
+translate Turkish mas_pong_dlg_loser_96cc3896:
+
+    m 2wuo "Vay canına, [player]..."
+
 translate Turkish mas_pong_dlg_loser_16aa840b:
 
     m 2wud "Zaten üst üste üç kez kazandın..."
@@ -397,6 +405,10 @@ translate Turkish mas_pong_dlg_loser_d374c1eb:
 translate Turkish mas_pong_dlg_loser_06f0c007:
 
     m 2hub "Bu efsaneydi!"
+
+translate Turkish mas_pong_dlg_loser_796cf57e:
+
+    m 2wud "[mas_get_player_nickname(capitalize=True, regex_replace_with_nullstr='my ')!t]..."
 
 translate Turkish mas_pong_dlg_loser_536e8a57:
 
@@ -508,7 +520,7 @@ translate Turkish mas_pong_dlg_loser_f9aeeff9:
 
 translate Turkish mas_pong_dlg_loser_088fd606:
 
-    m 1hub "Devam et, [mas_get_player_nickname(regex_replace_with_nullstr='my ')]!"
+    m 1hub "Devam et, [mas_get_player_nickname(regex_replace_with_nullstr='my ')!t]!"
 
 translate Turkish mas_pong_dlg_loser_fast_9d33b26d:
 

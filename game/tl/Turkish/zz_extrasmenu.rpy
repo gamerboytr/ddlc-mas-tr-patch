@@ -12,7 +12,7 @@ translate Turkish mas_extra_menu_firsttime_5f2b2c7d:
 
 translate Turkish mas_extra_menu_firsttime_cdc4a4da:
 
-            # TODO Düzelt : Look forward to some neat things in this menu!
+            #TODO Düzelt : Look forward to some neat things in this menu!
     m 1hua "Bu menüde bazı güzel şeyler için sabırsızlanıyoruz!"
 
 translate Turkish mas_extra_menu_zoom_intro_bae8d6be:

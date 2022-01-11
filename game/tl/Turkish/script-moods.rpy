@@ -1586,7 +1586,7 @@ translate Turkish strings:
     new "Ağlıyormuş gibi..."
 
     old "...lonely."
-    new "Yalnı..."
+    new "Yalnız..."
 
     old "...proud of myself."
     new "Kendimle gurur duyuyorum..."

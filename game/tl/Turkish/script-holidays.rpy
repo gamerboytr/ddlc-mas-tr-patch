@@ -3374,9 +3374,9 @@ translate Turkish mas_nye_monika_nye_dress_intro_68b23bbb:
 
     extend 3eua "It's always nice to dress up now and then."
 
-translate Turkish mas_nye_monika_nye_dress_intro_6c2e4695:
+translate Turkish mas_nye_monika_nye_dress_intro_f8ba9cf4:
 
-    m 1hub "Now let's have a great time celebrating the end of [curr_year] and the beginning of [curr_year+1]!"
+    m 1hub "Now let's have a great time celebrating the end of [curr_year] and the beginning of [(curr_year+1)]!"
 
 translate Turkish mas_nye_monika_nye_dress_intro_05ee024d:
 

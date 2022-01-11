@@ -1780,7 +1780,7 @@ translate Turkish strings:
     new "çok renkli kurdele"
 
     old "rainbow-colored ribbon"
-    new "虹色リボン"
+    new "gökkuşağı kurdele"
 
     old "white and red polka-dot ribbon"
     new "beyaz ve kırmızı puantiyeli kurdele"

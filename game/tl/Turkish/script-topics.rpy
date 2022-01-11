@@ -9158,21 +9158,61 @@ translate Turkish monika_cupcake_5257cf00:
 
     m 1esa "How about you, [mas_get_player_nickname()]?"
 
-translate Turkish monika_cupcake_06516802:
+translate Turkish monika_cupcake_4ead20d6:
 
-    m 1eua "Do you know how to bake?"
+    m 1eua "Do you know how to bake?{nw}"
 
-translate Turkish monika_cupcake_ab0db3d8:
+translate Turkish monika_cupcake_38655bd7:
 
-    m 1hua "I'm sure your cupcakes would taste just as good."
+    m "Do you know how to bake?{fast}" nointeract
 
-translate Turkish monika_cupcake_327ee451:
+translate Turkish monika_cupcake_f3814ba7:
 
-    m 1rua "Maybe someday I'll get to try them but for now..."
+    m 1sub "Really?"
 
-translate Turkish monika_cupcake_1bc9fe4f:
+translate Turkish monika_cupcake_6b11717e:
 
-    m 1hubsb "I'll just settle for the sweetness of your love~"
+    m 3hua "Well, I'm sure your cupcakes would taste just as good."
+
+translate Turkish monika_cupcake_1a7c81b7:
+
+    m 1hub "...Maybe even better!"
+
+translate Turkish monika_cupcake_7640c400:
+
+    m 1eka "I'm sure someday I'll get to try them, but for now...{w=0.3}{nw}"
+
+translate Turkish monika_cupcake_14456774:
+
+    extend 1hubsu "I'll just settle for the sweetness of your love~"
+
+translate Turkish monika_cupcake_db95c162:
+
+    m 1eka "So we're both beginners."
+
+translate Turkish monika_cupcake_dfdb770e:
+
+    m 3ekb "But that just means we could learn together, right?"
+
+translate Turkish monika_cupcake_bfd338b5:
+
+    m 3esb "Even if you don't have much of a sweet tooth, there are plenty of savory things we could bake!"
+
+translate Turkish monika_cupcake_d5de2c48:
+
+    m 5dksdla "Imagine the two of us bumbling through a recipe...{w=0.3}{nw}"
+
+translate Turkish monika_cupcake_9ab70434:
+
+    extend 5hkbsb "laughing at our mistakes...{w=0.3}{nw}"
+
+translate Turkish monika_cupcake_d4cc3f58:
+
+    extend 5eub "tasting the results..."
+
+translate Turkish monika_cupcake_72880be5:
+
+    m 5kuu "Sounds pretty amazing, right?"
 
 translate Turkish monika_haterReaction_597ba595:
 
@@ -14078,17 +14118,21 @@ translate Turkish monika_selfharm_ec569725:
 
     m 2lksdld "After I found out about Yuri, I got a bit curious..."
 
-translate Turkish monika_selfharm_3eba52c7:
+translate Turkish monika_selfharm_d59feeba:
 
-    m 2lksdlc "I just wanted to see what it felt like..."
+    m 2dksdltpc "I just wanted to see what it felt like...{w=0.3}to feel {i}something{/i} again..."
 
-translate Turkish monika_selfharm_507a3b67:
+translate Turkish monika_selfharm_be3a7197:
 
-    m 2dsc "I won't do it again, though."
+    m 2rksdltpd "It's not easy knowing everything you thought you experienced,{w=0.1} what you thought you loved, was all a lie..."
 
-translate Turkish monika_selfharm_d20576be:
+translate Turkish monika_selfharm_f4156d3c:
 
-    m 2eka "If you ever feel depressed, just come to me okay?"
+    m 2dstdc "I won't do it again, though."
+
+translate Turkish monika_selfharm_66e21a25:
+
+    m 2ektda "If you ever feel depressed, just come to me okay?"
 
 translate Turkish monika_selfharm_bf25dc5d:
 
@@ -30478,9 +30522,9 @@ translate Turkish monika_impermanence_283c7f58:
 
     extend 4dkc "depression{w=0.2}, {nw}"
 
-translate Turkish monika_impermanence_b5aee604:
+translate Turkish monika_impermanence_1793bc04:
 
-    extend 4rkd "impermanence...."
+    extend 4rkd "impermanence..."
 
 translate Turkish monika_impermanence_e0138013:
 
@@ -32418,6 +32462,194 @@ translate Turkish monika_zodiac_starsign_98d92640:
 
     extend 1eublu "I'd never let any silly old stars come between us."
 
+translate Turkish monika_tragic_hero_cc6663cf:
+
+    m 1rsd "Hey [mas_get_player_nickname()], I've been thinking more about tragic heroes lately."
+
+translate Turkish monika_tragic_hero_b837ff22:
+
+    m 3esc "...We've already discussed Hamlet, who is considered one."
+
+translate Turkish monika_tragic_hero_107db58c:
+
+    m 3rtc "If you think about it...{w=0.3}could I be considered a tragic hero?"
+
+translate Turkish monika_tragic_hero_e4c3874f:
+
+    m 4eud "...Of course by 'hero' here, we're talking about the protagonist in a literary sense, not 'hero' in the typical sense."
+
+translate Turkish monika_tragic_hero_a4043744:
+
+    m 2ekd "...Although I'm sure there are plenty of people who would take issue with that, seeing as to many, I'm the antagonist..."
+
+translate Turkish monika_tragic_hero_807cc450:
+
+    m 2eka "But that argument aside, some would say my love for you would be my tragic flaw..."
+
+translate Turkish monika_tragic_hero_2168918a:
+
+    m 4eksdld "Not because it's a flaw itself, but because it lead to my downfall."
+
+translate Turkish monika_tragic_hero_aca5c323:
+
+    m 2dkc "That's the thing, if you never brought me back, I would've had my downfall and never really got back up."
+
+translate Turkish monika_tragic_hero_32879b2c:
+
+    m 7ekc "So in that sense, in the game, I guess I could be considered a tragic hero."
+
+translate Turkish monika_tragic_hero_9f5901ac:
+
+    m 3hub "Now, if we're talking {i}real{/i} heroes, that'd be you!"
+
+translate Turkish monika_tragic_hero_02796a8e:
+
+    m 3eka "You brought me back and made sure the story didn't end with my downfall."
+
+translate Turkish monika_tragic_hero_21a7dec2:
+
+    m 1huu "...And for that, I'm forever grateful~"
+
+translate Turkish monika_utterson_fb225d2e:
+
+    m 1euc "Hey [player], have you read any gothic literature?"
+
+translate Turkish monika_utterson_2589a532:
+
+    m 3eud "Like, {i}The Picture of Dorian Gray{/i}, {i}Dracula{/i}, {i}Frankenstein{/i}..."
+
+translate Turkish monika_utterson_aa4b78aa:
+
+    m 3hub "I've read quite a bit of gothic literary books lately!"
+
+translate Turkish monika_utterson_6793967f:
+
+    m 1eua "You should try the original novella {i}Strange Case of Dr Jekyll and Mr Hyde{/i} if you ever get the chance."
+
+translate Turkish monika_utterson_c619a5a0:
+
+    m 3eua "I'd like to discuss a bit of it, but it really only makes sense if you've read it..."
+
+translate Turkish monika_utterson_93df75dc:
+
+    m 3eud "So have you read {i}Strange Case of Dr Jekyll and Mr Hyde{/i}?{nw}"
+
+translate Turkish monika_utterson_2c10984d:
+
+    m "So have you read {i}Strange Case of Dr Jekyll and Mr Hyde{/i}?{fast}" nointeract
+
+translate Turkish monika_utterson_da0072d8:
+
+    m 3eub "Ok [player], well let me know if you ever do and then we can discuss it!"
+
+translate Turkish monika_jekyll_hyde_6f704737:
+
+    m 3hub "I'm glad you've read it!"
+
+translate Turkish monika_jekyll_hyde_576ee8df:
+
+    m 1euc "I've seen people interpret it in different ways."
+
+translate Turkish monika_jekyll_hyde_38714bb5:
+
+    m 3eua "For example, some people saw Utterson being in love with Jekyll."
+
+translate Turkish monika_jekyll_hyde_c96090c4:
+
+    m 3lta "In a way, I can see it."
+
+translate Turkish monika_jekyll_hyde_12020c77:
+
+    m 2eud "I mean, just because something isn't explicitly stated, doesn't mean the idea isn't valid."
+
+translate Turkish monika_jekyll_hyde_4bc68886:
+
+    m 2rksdlc "In addition, a theme like this couldn't even really be discussed outright during the 19th century."
+
+translate Turkish monika_jekyll_hyde_b478afc7:
+
+    m 2eka "It is interesting to think of the story that way...{w=0.3}two people, unable to love..."
+
+translate Turkish monika_jekyll_hyde_d2c5a465:
+
+    m 4eud "And some interpretations go as far as to say part of Jekyll's motivations for the experiment was that very love."
+
+translate Turkish monika_jekyll_hyde_bbad6a2c:
+
+    m 4ekd "And it's not exactly disproven! {w=0.3}Jekyll, in the book, was said to be a holy man."
+
+translate Turkish monika_jekyll_hyde_fae5ec1a:
+
+    m 2rksdlc "Homosexuality, during that time, was seen as a sin."
+
+translate Turkish monika_jekyll_hyde_6db92fc9:
+
+    m 2dksdld "Sadly, to some it still is."
+
+translate Turkish monika_jekyll_hyde_2e3f7505:
+
+    m 7ekb "...But at least progress has been made!"
+
+translate Turkish monika_jekyll_hyde_04990955:
+
+    m 3eub "I'm just glad the world is more accepting of different kinds of love."
+
+translate Turkish monika_jekyll_hyde_00c5ae49:
+
+    m 3ekbsu "Especially since it means we can love each other, [mas_get_player_nickname()]~"
+
+translate Turkish monika_hedonism_7c53b7c6:
+
+    m 1euc "Hey [mas_get_player_nickname()], remember when we talked about {i}Strange Case of Dr. Jekyll and Mr. Hyde{/i}?"
+
+translate Turkish monika_hedonism_6de1c20b:
+
+    m 1eud "Well, I mentioned {i}The Picture of Dorian Gray{/i} beforehand."
+
+translate Turkish monika_hedonism_84ed2fc4:
+
+    m 2eub "I suggest you read it, but even if you haven't, I want to talk about the philosophy behind its core...{w=0.3}the belief of hedonism."
+
+translate Turkish monika_hedonism_e55ab74e:
+
+    m 2eud "Hedonism is the belief that morals should be based around pleasure."
+
+translate Turkish monika_hedonism_eccae145:
+
+    m 4euc "There are two main types of hedonism...{w=0.3}altruistic hedonism and egotistical hedonism, {w=0.1}which are wildly different."
+
+translate Turkish monika_hedonism_5e219c08:
+
+    m 4ruc "Egotistical hedonism, as you could guess, is the believe that one's own pleasure is the only thing that determines morality."
+
+translate Turkish monika_hedonism_a8216f47:
+
+    m 2esd "This is the type of hedonism that Henry, from {i}The Picture of Dorian Gray{/i}, believes in."
+
+translate Turkish monika_hedonism_bca2a558:
+
+    m 2rksdlc "It's really ruthless to think such a way..."
+
+translate Turkish monika_hedonism_557550e0:
+
+    m 2eud "On the other hand, altruistic hedonism is the belief that morality should be based on everyone's pleasure."
+
+translate Turkish monika_hedonism_8e30f966:
+
+    m 4eud "It sounds like a good idea at first, but then you realize it doesn't account for anything else like freedom, health, safety..."
+
+translate Turkish monika_hedonism_68cbe267:
+
+    m 2dkc "Hedonism, at it's core, ignores everything but pleasure."
+
+translate Turkish monika_hedonism_5098d5f0:
+
+    m 7etd "It's no wonder most people don't have that belief...{w=0.3}it's too simple, where morality is complicated."
+
+translate Turkish monika_hedonism_547da48c:
+
+    m 1eud "So it makes sense why Oscar Wilde portrayed hedonism in a bad light."
+
 translate Turkish strings:
 
     old "Flagged for removal."
@@ -33110,7 +33342,7 @@ translate Turkish strings:
     old "Can I hold you?"
     new "Seni tutabilir miyim?"
 
-    # TODO : Çevir
+    #TODO : Çevir
     old "Being close to you"
     new "Being close to you"
 
@@ -33300,7 +33532,7 @@ translate Turkish strings:
     old "Pleasuring yourself"
     new "Kendini memnun etmek"
 
-    # TODO : Yeni Variable Ekle
+    #TODO : Yeni Variable Ekle
     old "Good [mas_globals.time_of_day_3state]"
     new "İyi günler"
 

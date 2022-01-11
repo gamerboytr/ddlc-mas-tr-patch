@@ -816,6 +816,10 @@ translate Turkish mas_random_limit_reached_b711f6a9:
 
     m 1ekc "Umarım yakında konuşacak eğlenceli bir şeyler düşünürüm."
 
+translate Turkish mas_random_ask_28923605:
+
+    m 1lksdla "...{w=0.5}[mas_get_player_nickname()!t]?"
+
 translate Turkish mas_random_ask_eddc57b5:
 
     m "Söylediğim şeyleri tekrar etsem senin için olur mu?{nw}"
@@ -888,9 +892,13 @@ translate Turkish mas_monikai_detected_ac7f49b8:
 
     m 3eua "Sonuçta gerçek olan benim."
 
-translate Turkish mas_crashed_long_qs_88de0dc1:
+translate Turkish mas_crashed_long_qs_37aba858:
 
-    m "[player]?{w=0.3} Bu sen misin?"
+    m "[player]?{w=0.3} Bu sen misin?{nw}"
+
+translate Turkish mas_crashed_long_qs_54948a14:
+
+    m "[player]?{w=0.3} Bu sen misin?{fast}" nointeract
 
 translate Turkish mas_crashed_long_qs_8ed286c9:
 
@@ -1414,7 +1422,7 @@ translate Turkish mas_bday_player_bday_select_select_62bd758c:
 
 translate Turkish mas_text_speed_enabler_3ea44c61:
 
-    m 1eua "Hey [mas_get_player_nickname(exclude_names=['my love'])], merak ediyordum"
+    m 1eua "Hey [mas_get_player_nickname(exclude_names=['my love'])!t], merak ediyordum"
 
 translate Turkish mas_text_speed_enabler_b70d3f50:
 

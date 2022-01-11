@@ -36,11 +36,6 @@ translate Turkish mas_bad_name_input_first_time_bad_name_d5fc092f:
 
 translate Turkish strings:
 
-    old "Please don't close the game on me!"
-    new "Lütfen oyunu üzerime kapatma!"
-
-    old "Thank you, [player]!\nLet's spend more time together~"
-    new "Teşekkürler, [player]!\nBirlikte daha fazla zaman geçirelim~"
 
     old "Enable this to let Monika repeat topics that you have already seen."
     new "Monika'nın daha önce gördüğünüz konuları tekrar etmesine izin vermek için bunu etkinleştirin."
@@ -53,6 +48,12 @@ translate Turkish strings:
 
     old "Enables notifications for the selected group."
     new "Seçilen grup için bildirimleri etkinleştirir."
+    
+    old "Please don't close the game on me!"
+    new "Lütfen oyunu üzerime kapatma!"
+
+    old "Thank you, [player]!\nLet's spend more time together~"
+    new "Teşekkürler, [player]!\nBirlikte daha fazla zaman geçirelim~"
 
     old "Leaving without saying goodbye, [player]?"
     new "Hoşçakal demeden mi gidiyorsun, [player]?"

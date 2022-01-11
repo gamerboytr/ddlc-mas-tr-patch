@@ -56,11 +56,11 @@ translate Turkish mas_hangman_game_loop_39f4a1a9:
 
 translate Turkish mas_hangman_game_loop_7a56b717:
 
-    m 1eka "Hâlâ [chances] daha fazla canın vardı."
+    m 1eka "Hâlâ [chances] canın var."
 
 translate Turkish mas_hangman_game_loop_e2b0b1df:
 
-    m 1eka "Hala [chances] daha fazla hayatın vardı."
+    m 1eka "Hala [chances] hayatın var."
 
 translate Turkish mas_hangman_game_loop_0445ef5f:
 
@@ -80,11 +80,11 @@ translate Turkish mas_hangman_game_loop_00b0f85b:
 
 translate Turkish mas_hangman_game_loop_5a6e4179:
 
-    m "Demek istediğim, gerçekten kaybetmek için daha fazla harf [chances] kaçırman gerekir."
+    m "Yani, gerçekten kaybetmek için [chances] harf daha kaçırman gerekir."
 
 translate Turkish mas_hangman_game_loop_64d6f610:
 
-    m "Demek istediğim, gerçekten kaybetmek için daha fazla harf [chances] kaçırman gerekir."
+    m "Demek istediğim, gerçekten kaybetmek için [chances] harf daha kaçırman gerekir."
 
 translate Turkish mas_hangman_game_loop_17be01df:
 
@@ -120,7 +120,7 @@ translate Turkish mas_hangman_dlg_game_end_long_eba0111e:
 
 translate Turkish mas_hangman_dlg_game_end_long_5e2797d5:
 
-    m 1eua "Bunu benim için yaparsan çok sevinirim [player]."
+    m 1eua "Bunu benim için yaparsan çok sevinirim, [player]."
 
 translate Turkish mas_hangman_dlg_game_end_short_05c7b63d:
 

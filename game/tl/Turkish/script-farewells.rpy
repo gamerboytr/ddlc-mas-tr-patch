@@ -1,6 +1,6 @@
 ﻿translate Turkish bye_leaving_already_93baf031:
 
-    m 1ekc "Aw, şimdiden mi gidiyorsun??"
+    m 1ekc "Aw, şimdiden mi gidiyorsun?"
 
 translate Turkish bye_leaving_already_adf9a681:
 
