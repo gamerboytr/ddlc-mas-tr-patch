@@ -1,4 +1,4 @@
-DDLC Monika After Story Türkçe Yama (21/12/27)
+DDLC Monika After Story Türkçe Yama (22/01/12)
 ------------------------------------------------------------
 
 Kurulum ;
@@ -14,3 +14,5 @@ Oyunu Manuel Oynuyorsanız ;
   
   
   Oyun TeamSalvato Tarafından Yapılmış GamerboyTR Tarafındanda Türkçe Yaması Çıkarılmıştır.
+
+https://github.com/gamerboytr/ddlc-mas-tr-patch/
