@@ -1037,7 +1037,7 @@ translate Turkish bye_prompt_game_481e51bb:
 
 translate Turkish bye_prompt_game_ddf7ee97:
 
-    m 1eka "Başka bir oyun oynamaya mı gidiyorsun, [playe]?"
+    m 1eka "Başka bir oyun oynamaya mı gidiyorsun, [player]?"
 
 translate Turkish bye_prompt_game_250ea23e:
 
