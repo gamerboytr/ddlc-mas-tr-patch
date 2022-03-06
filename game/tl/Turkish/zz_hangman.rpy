@@ -36,7 +36,7 @@ translate Turkish mas_hangman_game_loop_6f9f945d_1:
 
 translate Turkish mas_hangman_game_loop_9809a66e:
 
-    m "[store.mas_hangman.game_name] oynamak istediğini söylediğini sanıyordum."
+    m "[store.mas_hangman.game_name!t] oynamak istediğini söylediğini sanıyordum."
 
 translate Turkish mas_hangman_game_loop_514482b6:
 
@@ -60,7 +60,7 @@ translate Turkish mas_hangman_game_loop_7a56b717:
 
 translate Turkish mas_hangman_game_loop_e2b0b1df:
 
-    m 1eka "Hala [chances] hayatın var."
+    m 1eka "Hala [chances] şansın var."
 
 translate Turkish mas_hangman_game_loop_0445ef5f:
 
@@ -92,7 +92,7 @@ translate Turkish mas_hangman_game_loop_17be01df:
 
 translate Turkish mas_hangman_game_loop_c7891309:
 
-    m 1hua "Vay canına, [the_word] doğru tahmin ettin!"
+    m 1hua "Vay canına, [the_word!t] doğru tahmin ettin!"
 
 translate Turkish mas_hangman_game_loop_73956dbf:
 
@@ -126,16 +126,19 @@ translate Turkish mas_hangman_dlg_game_end_short_05c7b63d:
 
     m 1eua "[dlg_line!t]"
 
+translate Turkish python in mas_hangman:
+    HM_HINT = "{0} en çok bu kelimeyi seviyor."
+
 translate Turkish strings:
 
     old "Missed:"
     new "Iskalanan:"
 
-    old "Guess a letter: (Type '?' to repeat the hint, "
-    new "Bir harf tahmin et: (İpucunu tekrarlamak için '?' yaz,"
+    old "Guess a letter: (Type {0}'!' to give up)"
+    new "Bir kelime tahmin et: ({0},, pes etmek için '!')"
 
-    old "!' to give up"
-    new "pes etmek için '!'"
+    old "'?' to repeat the hint, "
+    new "'?' ipucunu tekrar etmek için, "
 
     old "Easy."
     new "Kolay."
@@ -143,8 +146,8 @@ translate Turkish strings:
     old "Hard."
     new "Zor."
 
-    old "{0} would like this word the most."
-    new "{0} en çok bu kelimeyi seviyor."
+    old "I"
+    new "Ben"
 
     old "your name"
     new "adın"

@@ -20,7 +20,7 @@ translate Turkish mas_updater_steam_issue_a3571f41:
 
 translate Turkish mas_updater_rpy_issue_bc686372:
 
-    m 2eksdla "[player]...oyun dizininizde bazı rpy dosyalarının olduğunu görüyorum."
+    m 2eksdla "[player]...oyun dizininde bazı rpy dosyalarının olduğunu görüyorum."
 
 translate Turkish mas_updater_rpy_issue_b73158d9:
 

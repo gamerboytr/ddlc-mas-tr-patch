@@ -4,7 +4,7 @@ translate Turkish game_pong_a10d17dc:
 
 translate Turkish game_pong_3597d451:
 
-    m 2tfb "Yapabildiğinin en iyisini yap, [mas_get_player_nickname(regex_replace_with_nullstr='my ')]!"
+    m 2tfb "Yapabildiğinin en iyisini yap, [mas_get_player_nickname(regex_replace_with_nullstr='my ')!t]!"
 
 translate Turkish game_pong_ac38c54c:
 
@@ -36,7 +36,7 @@ translate Turkish mas_pong_dlg_winner_da20386e:
 
 translate Turkish mas_pong_dlg_winner_64e06039:
 
-    m 5ekbfa "Teşekkürler, [mas_get_player_nickname(regex_replace_with_nullstr='my ')]. Bunu takdir ediyorum~"
+    m 5ekbfa "Teşekkürler, [mas_get_player_nickname(regex_replace_with_nullstr='my ')!t]. Bunu takdir ediyorum~"
 
 translate Turkish mas_pong_dlg_winner_7cf10329:
 
@@ -84,7 +84,7 @@ translate Turkish mas_pong_dlg_winner_3b6c7c7a:
 
 translate Turkish mas_pong_dlg_winner_2d1933bf:
 
-    m 1eka "Hadi, [mas_get_player_nickname(regex_replace_with_nullstr='my ')]!"
+    m 1eka "Hadi, [mas_get_player_nickname(regex_replace_with_nullstr='my ')!t]!"
 
 translate Turkish mas_pong_dlg_winner_33318048:
 
@@ -120,7 +120,7 @@ translate Turkish mas_pong_dlg_winner_991f1800:
 
 translate Turkish mas_pong_dlg_winner_8fafe292:
 
-    m 2hksdlb "Bunun için üzgünüm, [mas_get_player_nickname(regex_replace_with_nullstr='my ')]!"
+    m 2hksdlb "Bunun için üzgünüm, [mas_get_player_nickname(regex_replace_with_nullstr='my ')!t]!"
 
 translate Turkish mas_pong_dlg_winner_96bf9846:
 
@@ -132,7 +132,7 @@ translate Turkish mas_pong_dlg_winner_4d72b34e:
 
 translate Turkish mas_pong_dlg_winner_cad6cf44:
 
-    m 1eua "umarım eğleniyorsundur, [mas_get_player_nickname(regex_replace_with_nullstr='my ')]."
+    m 1eua "umarım eğleniyorsundur, [mas_get_player_nickname(regex_replace_with_nullstr='my ')!t]."
 
 translate Turkish mas_pong_dlg_winner_f5b163b1:
 
@@ -204,7 +204,7 @@ translate Turkish mas_pong_dlg_winner_f0687bb3:
 
 translate Turkish mas_pong_dlg_winner_b7171ce0:
 
-    m 1eub "Bunu başarabilirsin, [mas_get_player_nickname(regex_replace_with_nullstr='my ')]!"
+    m 1eub "Bunu başarabilirsin, [mas_get_player_nickname(regex_replace_with_nullstr='my ')!t]!"
 
 translate Turkish mas_pong_dlg_winner_ad5ff691:
 
@@ -268,7 +268,7 @@ translate Turkish mas_pong_dlg_winner_d17ac578:
 
 translate Turkish mas_pong_dlg_winner_e61dfc50:
 
-    m 2duu "Fena değil, [mas_get_player_nickname(regex_replace_with_nullstr='my ')]."
+    m 2duu "Fena değil, [mas_get_player_nickname(regex_replace_with_nullstr='my ')!t]."
 
 translate Turkish mas_pong_dlg_winner_ddec24b4:
 

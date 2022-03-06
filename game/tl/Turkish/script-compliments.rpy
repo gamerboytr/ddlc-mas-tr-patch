@@ -900,7 +900,7 @@ translate Turkish mas_compliment_sweet_ef6dd4cf:
 
 translate Turkish mas_compliment_sweet_834b4b90:
 
-    m 1ekblb "Senin gibi harika bir [bf]'a sahip olduğum için çok mutluyum, [mas_get_player_nickname(exclude_names=[player])]~"
+    m 1ekblb "Senin gibi harika bir [bf!]'a sahip olduğum için çok mutluyum, [mas_get_player_nickname(exclude_names=[player])!t]~"
 
 translate Turkish mas_compliment_sweet_0d8d0137:
 
@@ -1138,10 +1138,10 @@ translate Turkish strings:
     new "At kuyruğumu beğenmene sevindim!"
 
     old "I'm so happy you love my ponytail!"
-    new "At kuyruğumu sevdiğiniz için çok mutluyum!"
+    new "At kuyruğumu sevdiğin için çok mutluyum!"
 
     old "I love your dedication to fitness!"
-    new "Fitness'a olan bağlılığınızı seviyorum!"
+    new "Fitness'a olan bağlılığını seviyorum!"
 
     old "That sounds like a lot of fun!"
     new "Bu kulağa çok eğlenceli geliyor!"

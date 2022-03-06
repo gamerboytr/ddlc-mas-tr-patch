@@ -1218,7 +1218,7 @@ translate Turkish mas_steam_install_detected_031eda8b:
 
 translate Turkish monika_rpy_files_b2896d32:
 
-    m 1eka "Hey [player], \"game\" dizininize bakıyordum ve..."
+    m 1eka "Hey [player], \"game\" dizinine bakıyordum ve..."
 
 translate Turkish monika_rpy_files_b937d6e5:
 
@@ -2030,7 +2030,7 @@ translate Turkish mas_islands_reset_dfddb0f1:
 
 translate Turkish mas_islands_reset_bf0277c1:
 
-    m 3lkd "Bir proje üzerinde {i}o kadar uzun{/i} çalıştın ki, tamamına baktığınızda, sadece düzinelerce hata veya geliştirmek istediğiniz şeyler görüyor musun?"
+    m 3lkd "Bir proje üzerinde {i}o kadar uzun{/i} çalıştın ki, tamamına baktığında, sadece düzinelerce hata veya geliştirmek istediğin şeyler görüyor musun?"
 
 translate Turkish mas_islands_reset_f03c4310:
 

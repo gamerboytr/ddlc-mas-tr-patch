@@ -196,11 +196,11 @@ translate Turkish monika_idle_shower_callback_65ec3015:
 
 translate Turkish monika_idle_shower_callback_2ca5e984:
 
-    m 3duu "Bazen suyun üzerinizden aktığını hissetmek güzel olabilir...{w=0.3}gerçekten rahatlatıcı olabilir."
+    m 3duu "Bazen suyun üzerinden aktığını hissetmek güzel olabilir...{w=0.3}gerçekten rahatlatıcı olabilir."
 
 translate Turkish monika_idle_shower_callback_5a677e53:
 
-    m 1hksdlb "...Ya da belki ben bunu fazla düşünüyorum da sen hemen dönmedin, ahaha!"
+    m 1hksdlb "...ya da belki ben bunu fazla düşünüyorum da sen hemen dönmedin, ahaha!"
 
 translate Turkish monika_idle_shower_callback_1a305b96:
 
@@ -376,7 +376,7 @@ translate Turkish monika_idle_workout_0b668c32:
 
 translate Turkish monika_idle_workout_c58601f1:
 
-    m 3esa "'Sağlam kafa sağlam vücutta' deyiminin nasıl olduğunu bilirsiniz."
+    m 3esa "'Sağlam kafa sağlam vücutta' deyiminin nasıl olduğunu bilirsin."
 
 translate Turkish monika_idle_workout_78978e66:
 

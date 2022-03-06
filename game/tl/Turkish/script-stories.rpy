@@ -1,302 +1,286 @@
 ﻿translate Turkish monika_short_stories_menu_8e25506b:
 
-    m 1ekc "Sorry [player]...I can't really think of a new [_story_type] story right now..."
+    m 1ekc "Üzgünüm [player]...şuanda gerçekten [_story_type!t] türünde bir hikaye düşünemiyorum..."
 
 translate Turkish monika_short_stories_menu_51483964:
 
-    m 1eka "If you give me some time I might be able to think of one soon...but in the meantime, I can always tell you an old one again~"
+    m 1eka "Bana biraz zaman verirsen yakında bir tane düşünebilirim...ama bu arada, sana her zaman eski bir tane söyleyebilirim~"
 
 translate Turkish mas_story_begin_b26f2657:
 
-    m 3eua "[story_begin_quip]"
-
-translate Turkish mas_story_begin_457306b2:
-
-    m 1duu "Ahem."
+    m 3eua "[story_begin_quip!t]"
 
 translate Turkish mas_scary_story_setup_b26f2657:
 
-    m 3eua "[story_begin_quip]"
-
-translate Turkish mas_scary_story_setup_457306b2:
-
-    m 1duu "Ahem."
+    m 3eua "[story_begin_quip!t]"
 
 translate Turkish mas_scary_story_cleanup_8cb2c0e4:
 
-    m 3eua "[story_end_quip]"
+    m 3eua "[story_end_quip!t]"
 
 translate Turkish mas_scary_story_cleanup_77c5f182:
 
-    m 1eua "I hope you liked it, [player]~"
+    m 1eua "Umarım beğenmişsindir, [player]~"
 
 translate Turkish mas_story_tyrant_5b1ea14b:
 
-    m 1eua "A Cat caught a Cock and thought about reasonable excuses for eating him."
+    m 1eua "Bir Kedi bir Horoz yakaladı ve onu yemek için makul bahaneler düşündü."
 
 translate Turkish mas_story_tyrant_582957aa:
 
-    m "He accused him of being a nuisance by crowing at night; not letting men sleep."
+    m "Onu geceleri öterek baş belası olmakla suçladı; erkeklerin uyumasına izin vermemek."
 
 translate Turkish mas_story_tyrant_0d7a0ebb:
 
-    m 3eud "The Cock defended his action by saying this was for the benefit of men, as it wakes them for labor."
+    m 3eud "Horoz, bunun erkeklerin yararına olduğunu söyleyerek eylemini savundu, çünkü onları çalışmaları için uyandırdı."
 
 translate Turkish mas_story_tyrant_0be8901e:
 
-    m 1tfb "The Cat replied, 'you abound in apologies, but it's time for breakfast.'"
+    m 1tfb "Kedi, 'özür dileğiniz bol, ama kahvaltı zamanı' diye yanıtladı."
 
 translate Turkish mas_story_tyrant_73878271:
 
-    m 1hksdrb "At that he made a meal of the Cock."
+    m 1hksdrb "Bunun üzerine Horoz'dan bir yemek yaptı."
 
 translate Turkish mas_story_tyrant_f6910ede:
 
-    m 3eua "The moral of this story is, tyrants need no excuse."
+    m 3eua "Bu hikayeden alınacak ders, zorbaların mazerete ihtiyacı olmamasıdır."
 
 translate Turkish mas_story_tyrant_0516c067:
 
-    m 1hua "I hope you enjoyed this little story, [player]~"
+    m 1hua "Umarım bu küçük hikayeyi beğenmişsindir, [player]~"
 
 translate Turkish mas_story_despise_6046f153:
 
-    m 1eud "One hot summer's day, a Fox was strolling through an orchard till he came to a bunch of grapes just ripening on a vine which had been trained over a lofty branch."
+    m 1eud "Sıcak bir yaz günü, bir tilki, bir meyve bahçesinde gezinirken, yüksek bir dal üzerinde yetiştirilmiş bir asma üzerinde yeni olgunlaşan bir üzüm salkımına geldi."
 
 translate Turkish mas_story_despise_8d1839f4:
 
-    m 1tfu "'Just the thing to quench my thirst,' said the Fox."
+    m 1tfu "'Susuzluğumu giderecek tek şey,' dedi Tilki."
 
 translate Turkish mas_story_despise_0983f969:
 
-    m 1eua "Drawing back a few paces, he took a run and a jump, and just missed the bunch."
+    m 1eua "Birkaç adım geri çekildi, bir koşu ve bir sıçrama yaptı ve grubu kaçırdı."
 
 translate Turkish mas_story_despise_2ec2412f:
 
-    m 3eub "Turning round again with a one,{w=1.0} two,{w=1.0} three,{w=1.0} he jumped up, but with no greater success."
+    m 3eub "Bir,{w=1.0} iki,{w=1.0} üç,{w=1.0} ile tekrar dönerek ayağa fırladı, ancak daha büyük bir başarı elde edemedi."
 
 translate Turkish mas_story_despise_ba643386:
 
-    m 3tkc "Again and again he tried after the tempting morsel, but at last had to give it up, and walked away with his nose in the air, saying: 'I am sure they are sour.'"
+    m 3tkc "Cazip lokmanın peşinden tekrar tekrar denedi, ama sonunda pes etmek zorunda kaldı ve burnu havada, 'Eminim ekşidirler' diyerek uzaklaştı."
 
 translate Turkish mas_story_despise_298b9b40:
 
-    m 1hksdrb "The moral of this story is, it's easy to despise what you cannot get."
+    m 1hksdrb "Bu hikayeden alınacak ders şu ki, elde edemeyeceğin şeyi küçümsemek kolaydır."
 
 translate Turkish mas_story_despise_77c5f182:
 
-    m 1eua "I hope you liked it, [player]~"
+    m 1eua "Umarım beğenmişsindir, [player]~"
 
 translate Turkish mas_story_lies_d5680b8b:
 
-    m 1euc "There was a Shepherd Boy who tended his sheep at the foot of a mountain near a dark forest."
+    m 1euc "Karanlık bir ormanın yakınında bir dağın eteğinde koyunlarını otlatan bir Çoban Çocuk vardı."
 
 translate Turkish mas_story_lies_017145bb:
 
-    m 1lsc "It was lonely for him, so he devised a plan to get a little company."
+    m 1lsc "Onun için yalnızdı, bu yüzden küçük bir şirket almak için bir plan yaptı."
 
 translate Turkish mas_story_lies_a76d8daf:
 
-    m 4hfw "He rushed down towards the village calling out 'Wolf! Wolf!' and the villagers came out to meet him."
+    m 4hfw "'Kurt! Kurt!' diye seslenerek köye doğru koştu ve köylüler onu karşılamak için dışarı çıktılar."
 
 translate Turkish mas_story_lies_8e611449:
 
-    m 1hksdrb "This pleased the boy so much that a few days after he tried the same trick, and again the villagers came to his help."
+    m 1hksdrb "Bu, çocuğu o kadar memnun etti ki, birkaç gün sonra aynı numarayı denedi ve yine köylüler yardımına geldi."
 
 translate Turkish mas_story_lies_0c2b212c:
 
-    m 3wud "Shortly after, a Wolf actually did come out from the forest."
+    m 3wud "Kısa bir süre sonra, gerçekten ormandan bir Kurt çıktı."
 
 translate Turkish mas_story_lies_f82316d7:
 
-    m 1ekc "The boy cried out 'Wolf, Wolf!' still louder than before."
+    m 1ekc "Çocuk 'Kurt, Kurt!' diye bağırdı. hala eskisinden daha gürültülü."
 
 translate Turkish mas_story_lies_e5538cd3:
 
-    m 4efd "But this time the villagers, who had been fooled twice before, thought the boy was again lying, and nobody came to his aid."
+    m 4efd "Ancak daha önce iki kez kandırılan köylüler bu kez çocuğun yine yalan söylediğini düşündüler ve kimse yardımına gelmedi."
 
 translate Turkish mas_story_lies_b9786280:
 
-    m 2dsc "So the Wolf made a good meal of the boy's flock."
+    m 2dsc "Böylece Kurt, çocuğun sürüsünden güzel bir yemek yaptı."
 
 translate Turkish mas_story_lies_e3668085:
 
-    m 2esc "The moral of this story is, liars are not believed even when they speak the truth."
+    m 2esc "Bu hikayeden alınacak ders, doğruyu söyleseler bile yalancılara inanılmamasıdır."
 
 translate Turkish mas_story_lies_520ed291:
 
-    m 1hksdlb "You shouldn't worry about it, [player]..."
+    m 1hksdlb "Bunun için endişelenmemelisin, [player]..."
 
 translate Turkish mas_story_lies_e6fa9893:
 
-    m 3hua "You'd never lie to me, right?"
-
-translate Turkish mas_story_lies_0d8345dc:
-
-    m 1hub "Ehehe~"
+    m 3hua "Bana asla yalan söylemezsin, değil mi?"
 
 translate Turkish mas_story_lies_367e372e:
 
-    m 1eua "I hope you enjoyed the story, [player]!"
+    m 1eua "Umarım hikayeyi beğenmişsindir, [player]!"
 
 translate Turkish mas_story_grasshoper_9710f7b0:
 
-    m 1eua "One summer's day, a Grasshopper was hopping about, chirping and singing to its heart's content."
+    m 1eua "Bir yaz günü, bir Çekirge zıplıyor, doyasıya cıvıldaşıyor ve şarkı söylüyordu."
 
 translate Turkish mas_story_grasshoper_eb414e31:
 
-    m "An Ant passed by, bearing an ear of corn he was taking to the nest."
+    m "Yuvasına götürdüğü mısır başaklarıyla bir Karınca geçti."
 
 translate Turkish mas_story_grasshoper_ebeba149:
 
-    m 3eud "'Why not come and chat with me,' said the Grasshopper, 'instead of toiling in that way?'"
+    m 3eud "'Neden gelip benimle sohbet etmiyorsun' dedi Çekirge, 'bu şekilde çalışmak yerine?'"
 
 translate Turkish mas_story_grasshoper_a144ad1d:
 
-    m 1efc "'I am helping to lay up food for the winter,' said the Ant, 'and recommend you do the same.'"
+    m 1efc "Karınca, 'Kış için yiyecek hazırlamaya yardım ediyorum' dedi, 've size de aynısını yapmanızı tavsiye ederim.'"
 
 translate Turkish mas_story_grasshoper_c52e6dcb:
 
-    m 1hfb "'Why bother about winter?' said the Grasshopper; 'we have plenty of food now!'"
+    m 1hfb "'Kış için neden canını sıkasın ki?' dedi Çekirge; 'artık bol yiyeceğimiz var!'"
 
 translate Turkish mas_story_grasshoper_7950a284:
 
-    m 3eua "The Ant went on its way."
+    m 3eua "Karınca yoluna devam etti."
 
 translate Turkish mas_story_grasshoper_ff7324d3:
 
-    m 1dsc "When winter came, the Grasshopper had no food and found itself dying of hunger, while it saw the ants distributing corn and grain from the stores they had collected in the summer."
+    m 1dsc "Kış geldiğinde yiyeceği olmayan Çekirge kendini açlıktan ölürken bulurken, karıncaların yazın topladıkları dükkânlardan mısır ve tahıl dağıttığını gördü."
 
 translate Turkish mas_story_grasshoper_04e321d8:
 
-    m 3hua "The moral of this story is, there's a time for work and a time for play."
+    m 3hua "Bu hikayeden alınacak ders şu ki, çalışmanın bir zamanı ve oyun oynamanın bir zamanı var."
 
 translate Turkish mas_story_grasshoper_28d07914:
 
-    m 1dubsu "But there's always a time to spend with your cute girlfriend~"
+    m 1dubsu "Ama tatlı kız arkadaşınla geçirecek her zaman bir zaman vardır~"
 
 translate Turkish mas_story_grasshoper_b8f550b5:
 
-    m 1hub "Ehehe, I love you so much, [player]!"
+    m 1hub "Ehehe, seni çok fazla seviyorum, [player]!"
 
 translate Turkish mas_story_wind_sun_aa586b7e:
 
-    m 1dsc "The Wind and the Sun were disputing which was the strongest."
+    m 1dsc "Rüzgar ve Güneş, hangisinin en güçlü olduğu konusunda tartışıyorlardı."
 
 translate Turkish mas_story_wind_sun_c208cb4c:
 
-    m 1euc "Suddenly they saw a traveller coming down the road, and the Sun said: 'I see a way to decide our dispute.'"
+    m 1euc "Aniden yoldan aşağı inen bir yolcu gördüler ve Güneş şöyle dedi: 'Anlaşmazlığımızı çözmenin bir yolunu görüyorum.'"
 
 translate Turkish mas_story_wind_sun_26e4b097:
 
-    m 3efd "'Whichever of us can cause that traveller to take off his cloak shall be regarded as the strongest. You begin.'"
+    m 3efd "'Hangimiz o gezginin pelerinini çıkarmasına neden olursak, en güçlüsü sayılacaktır. Sen başla.'"
 
 translate Turkish mas_story_wind_sun_0dd75d5e:
 
-    m 3euc "So the Sun retired behind a cloud, and the Wind began to blow as hard as it could upon the traveller."
+    m 3euc "Böylece Güneş bir bulutun arkasına çekildi ve Rüzgar gezginin üzerine elinden geldiğince sert esmeye başladı."
 
 translate Turkish mas_story_wind_sun_1a9cd3af:
 
-    m 1ekc "But the harder he blew the more closely did the traveller wrap his cloak around him, till at last the Wind had to give up in despair."
+    m 1ekc "Ama ne kadar sert üflerse, gezgin pelerinini o kadar kendine sardı, sonunda Rüzgar umutsuzluk içinde pes etmek zorunda kaldı."
 
 translate Turkish mas_story_wind_sun_d023b390:
 
-    m 1euc "Then the Sun came out and shone in all his glory upon the traveller, who soon found it too hot to walk with his cloak on."
+    m 1euc "Sonra Güneş çıktı ve tüm gücüyle gezginin üzerine parladı, çok geçmezden gezgin yola peleriniyle devam etmek için havanın çok sıcak olduğunu anladı."
 
 translate Turkish mas_story_wind_sun_b076e009:
 
-    m 3hua "The moral of this story is, gentleness and kind persuasion win where force and bluster fail."
+    m 3hua "Bu hikayeden alınacak ders şudur: Kuvvet ve gürültünün yetersiz kaldığı yerde nezaket ve nazik ikna kazanır."
 
 translate Turkish mas_story_wind_sun_c6ee075b:
 
-    m 1hub "Hope you had fun, [player]."
+    m 1hub "Umarım eğlenmişsindir, [player]."
 
 translate Turkish mas_story_seeds_460907a5:
 
-    m 1euc "It happened that a Countryman was sowing some hemp seeds in a field where a Swallow and some other birds were hopping about picking up their food."
+    m 1euc "Bir köylü, bir Kırlangıç ve diğer bazı kuşların yiyeceklerini almak için hoplayıp zıpladıkları bir tarlaya kenevir tohumu ekiyormuş."
 
 translate Turkish mas_story_seeds_300d01da:
 
-    m 1tfd "'Beware of that man,' quote the Swallow."
+    m 1tfd "'O adama dikkat et,' diye alıntı yapıyor Kırlangıç."
 
 translate Turkish mas_story_seeds_0f8ce570:
 
-    m 3eud "'Why, what is he doing?' asked the others."
+    m 3eud "'Neden, ne yapıyor?' diğerlerine sordu."
 
 translate Turkish mas_story_seeds_a8101c55:
 
-    m 1tkd "'That is hemp seed he is sowing; be careful to pick up every one of the seeds, or else you will repent it.' The Swallow replied."
+    m 1tkd "'Bu ektiği kenevir tohumu; tohumların her birini toplamaya dikkat et, yoksa tövbe edersin.' Kırlangıç yanıtladı."
 
 translate Turkish mas_story_seeds_72a0b310:
 
-    m 3rksdld "The birds paid no heed to the Swallow's words, and by and by the hemp grew up and was made into cord, and of the cords nets were made."
+    m 3rksdld "Kuşlar Kırlangıç'ın sözlerine aldırış etmediler ve kenevir yavaş yavaş büyüyüp ipe dönüştü ve iplerden ağlar yapıldı."
 
 translate Turkish mas_story_seeds_a02dc2de:
 
-    m 1euc "Many birds that had despised the Swallow's advice were caught in nets made out of that very hemp."
+    m 1euc "Kırlangıç'ın tavsiyesini küçümseyen birçok kuş, tam da bu kenevirden yapılmış ağlara takıldı."
 
 translate Turkish mas_story_seeds_9de2e02e:
 
-    m 3hfu "'What did I tell you?' said the Swallow."
+    m 3hfu "'Sana ne söyledim?' dedi Kırlangıç."
 
 translate Turkish mas_story_seeds_277a334c:
 
-    m 3hua "The moral of this story is, destroy the seeds of evil before they grow up to be your ruin."
-
-translate Turkish mas_story_seeds_8018692b:
-
-    m 1lksdlc "..."
+    m 3hua "Bu hikayeden alınacak ders şudur: Kötülük tohumlarını onlar sizin yıkımınız olmadan önce yok edin."
 
 translate Turkish mas_story_seeds_6dff20df:
 
-    m 2dsc "I wish I could've followed that moral..."
+    m 2dsc "Keşke bu dersi takip etseydim..."
 
 translate Turkish mas_story_seeds_06788d70:
 
-    m 2lksdlc "You wouldn't have had to go through what you saw."
+    m 2lksdlc "Gördüklerini yaşamak zorunda kalmazdın."
 
 translate Turkish mas_story_seeds_ac039dd0:
 
-    m 4hksdlb "Anyway, I hope you liked the story, [player]!"
+    m 4hksdlb "Neyse, umarım hikayeyi beğenmişsindir, [player]!"
 
 translate Turkish mas_story_gray_hair_137d9d59:
 
-    m 1eua "In the old days, a middle-aged Man had one wife that was old and one that was young; each loved him and desired nothing more than to earn his affection."
+    m 1eua "Eski günlerde orta yaşlı bir adamın bir yaşlı, bir de genç karısı vardı; her biri onu sevdi ve sevgisini kazanmaktan başka bir şey istemedi."
 
 translate Turkish mas_story_gray_hair_a14772ed:
 
-    m 1euc "The Man's hair was turning gray, which the young Wife did not like, as it made him look too old."
+    m 1euc "Adamın saçları griye dönüyordu, bu genç karısının onu çok yaşlı gösterdiği için sevmediği bir şeydi."
 
 translate Turkish mas_story_gray_hair_0ab40c33:
 
-    m 3rksdla "So, every night she picked out the white hairs."
+    m 3rksdla "Böylece her gece beyaz saçlarını topladı."
 
 translate Turkish mas_story_gray_hair_9a7c61a9:
 
-    m 3euc "But, the elder Wife did not like to be mistaken for his mother."
+    m 3euc "Ancak yaşlı karısı, annesiyle karıştırılmaktan hoşlanmazdı."
 
 translate Turkish mas_story_gray_hair_6f35d024:
 
-    m 1eud "So, every morning she picked out as many of the black hairs as she could."
+    m 1eud "Bu nedenle, her sabah elinden geldiğince çok siyah kıl topladı."
 
 translate Turkish mas_story_gray_hair_c8e3ec06:
 
-    m 3hksdlb "The Man soon found himself entirely bald."
+    m 3hksdlb "Adam çok geçmeden kendini tamamen kel buldu."
 
 translate Turkish mas_story_gray_hair_e3a1747b:
 
-    m 1hua "The moral of this story is, yield to all and you will soon have nothing to yield."
+    m 1hua "Bu hikayeden alınacak ders, herkese teslim olursanız ve yakında hiçbir şeyiniz kalmayacaktır."
 
 translate Turkish mas_story_gray_hair_74cdccf1:
 
-    m 1hub "So before you give everything, make sure you still have some for yourself!"
+    m 1hub "Bu yüzden her şeyinizi vermeden önce, hala kendinize biraz sahip olduğunuzdan emin olun!"
 
 translate Turkish mas_story_gray_hair_fac51c13:
 
-    m 1lksdla "...Not that being bald is bad, [player]."
+    m 1lksdla "...kel olmak kötü değil, [player]."
 
 translate Turkish mas_story_gray_hair_268e6c0a:
 
-    m 1hksdlb "Ehehe, I love you!~"
+    m 1hksdlb "Ehehe, seni seviyorum!~"
 
 translate Turkish mas_story_fisherman_bbe7e020:
 

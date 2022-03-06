@@ -21,7 +21,7 @@ label mas_wrs_discord:
         [
             "Birileriyle mi sohbet ediyorsun, [player]?",
             "Kimlerle konuşuyorsun, [player]?",
-            "discord.gg/crackturkey sende aramıza katıl!"
+            "discord.gg/turkishmethods sende aramıza katıl!"
         ],
         'Window Reactions'
     )

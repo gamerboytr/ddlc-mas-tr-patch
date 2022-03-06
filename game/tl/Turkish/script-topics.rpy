@@ -32722,13 +32722,13 @@ translate Turkish strings:
     new "Bu gerçekten güzeldi...{w=0.2}ama biraz daha fazlasını istiyorum~"
 
     old "I love you, [mas_get_player_nickname(exclude_names=['my love', 'love'])]~"
-    new "Sen seviyorum, [mas_get_player_nickname(exclude_names=['my love', 'love'])]~"
+    new "Sen seviyorum, [mas_get_player_nickname(exclude_names=['my love', 'love'])!t]~"
 
     old "I love you so much, [mas_get_player_nickname(exclude_names=['my love', 'love'])]~"
-    new "Seni çok seviyorum, [mas_get_player_nickname(exclude_names=['my love', 'love'])]~"
+    new "Seni çok seviyorum, [mas_get_player_nickname(exclude_names=['my love', 'love'])!t]~"
 
     old "I love you more than you'll ever know, [mas_get_player_nickname(exclude_names=['my love', 'love'])]~"
-    new "Asla bilemeyeceğin kadar seni seviyorum, [mas_get_player_nickname(exclude_names=['my love', 'love'])]~"
+    new "Asla bilemeyeceğin kadar seni seviyorum, [mas_get_player_nickname(exclude_names=['my love', 'love'])!t]~"
 
     old "I love you so much, [player]. You mean everything to me~"
     new "Seni çok seviyorum, [player]. Benim için her şey demeksin~"

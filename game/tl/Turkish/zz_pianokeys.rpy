@@ -280,7 +280,7 @@ translate Turkish mas_piano_yr_prac_3f724d44:
 
 translate Turkish mas_piano_yr_prac_a6618476:
 
-    m 3eua "Biraz daha pratikle şarkımı mükemmel şekilde çalabileceksiniz."
+    m 3eua "Biraz daha pratikle şarkımı mükemmel şekilde çalabilceksin."
 
 translate Turkish mas_piano_yr_prac_7ad9e4fb:
 

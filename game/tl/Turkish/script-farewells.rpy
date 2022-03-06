@@ -1109,7 +1109,7 @@ translate Turkish bye_dinner_noon_to_mn_8497a6c4:
 
 translate Turkish bye_dinner_noon_to_mn_471d2092:
 
-    m 3hubfb "Afiyet olsun. Buradan içine biraz sevgi katacağımdan emin olabilirsiniz, ahaha!"
+    m 3hubfb "Afiyet olsun. Buradan içine biraz sevgi katacağımdan emin olabilirsin, ahaha!"
 
 translate Turkish bye_dinner_noon_to_mn_96b41a97:
 

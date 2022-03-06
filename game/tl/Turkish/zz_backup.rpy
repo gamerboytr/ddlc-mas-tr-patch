@@ -200,7 +200,7 @@ translate Turkish mas_backups_incompat_user_will_restore_again_efc886c9:
 
 translate Turkish mas_backups_incompat_updater_cannot_because_rpy_7f8949a3:
 
-    "Ne yazık ki güncelleyici çalışmayacak çünkü oyun dizininizde {b}RPY{/b} dosyaları var."
+    "Ne yazık ki güncelleyici çalışmayacak çünkü oyun dizininde {b}RPY{/b} dosyaları var."
 
 translate Turkish mas_backups_incompat_updater_cannot_because_rpy_f50b9478:
 
@@ -212,7 +212,7 @@ translate Turkish mas_backups_incompat_updater_cannot_because_rpy_again_443189fb
 
 translate Turkish mas_backups_incompat_updater_cannot_because_rpy_again_73dc28d5:
 
-    "Oyun dizininizde hala {b}RPY{/b} dosyaları var gibi görünüyor."
+    "Oyun dizininde hala {b}RPY{/b} dosyaları var gibi görünüyor."
 
 translate Turkish mas_backups_incompat_updater_cannot_because_rpy_again_ca1b3175:
 
@@ -248,7 +248,7 @@ translate Turkish mas_backups_incompat_rpy_yes_del_540db159:
 
 translate Turkish mas_backups_incompat_rpy_no_del_ec7095ae:
 
-    "Bu dosyalar varken güncelleyici çalışmayacaktır, bu yüzden sanırım tek seçeneğiniz bir {b}persistent{/b} yedeğini geri yüklemek."
+    "Bu dosyalar varken güncelleyici çalışmayacaktır, bu yüzden sanırım tek seçeneğin bir {b}persistent{/b} yedeğini geri yüklemek."
 
 translate Turkish mas_backups_incompat_updater_start_intro_c04eea25:
 
@@ -276,7 +276,7 @@ translate Turkish mas_backups_incompat_updater_start_4d46cc43:
 
 translate Turkish mas_backups_incompat_updater_start_3a84e80c:
 
-    "Güncelleyici sorunlarını düzelttiğinizden emin olun ve tekrar deneyin."
+    "Güncelleyici sorunlarını düzelttiğinden emin olun ve tekrar deneyin."
 
 translate Turkish mas_backups_incompat_updater_start_597fa4a8:
 
