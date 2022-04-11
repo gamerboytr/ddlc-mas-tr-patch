@@ -4,6 +4,8 @@
 
 ![Ana Ekran](https://i.hizliresim.com/8pd66ul.jpg)
 
+### [Discord Adresimiz](https://discord.gg/CK25GJnekS)
+
 ## Kurulum
 
 ### Steam
